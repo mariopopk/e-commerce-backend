@@ -1,8 +1,51 @@
 type Query {
-  books: [Book]
+  categories: [Category]
+  category(id: ID): Category
+  products: [Product]
+  product(id: ID): Product
+  searchProducts(query: String): [Product]
 }
 
-type Book {
-  title: String
-  author: String
+type Category {
+  id: ID!
+  imageUrl: String
+  imageBannerUrl: String
+  name: String!
+  categories: [Category]
+  showInDesktopNav: Boolean
+  products: [Product]
+}
+
+type Product {
+  id: ID!
+  name: String!
+  slug: String!
+  imageUrl: String!
+  hoverImageUrl: String
+  description: String!
+  fullPrice: Int!
+  variants: [ProductVariant]
+}
+
+type ProductVariant {
+  id: ID!
+  productId: ID!
+  colorName: String
+  price: Float!
+  imageUrl: String
+  hoverImageUrl: String
+  swatchImageUrl: String
+}
+
+type Query {
+  query: String
+  sortBy: String
+  filterBy: Filter
+}
+
+type Filter {
+  size: String
+  fit: String
+  color: String
+  categoryId: ID!
 }

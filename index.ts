@@ -5,9 +5,8 @@ import { resolvers } from "./src/resolvers";
 import path from "path";
 
 const typeDefs = readFileSync(
-    path.join(__dirname, "./src/schema.graphql")
-  ).toString("utf-8");
-
+  path.join(__dirname, "./src/schema.graphql")
+).toString("utf-8");
 
 const server = new ApolloServer({
   typeDefs,
@@ -21,9 +20,6 @@ const server = new ApolloServer({
   plugins: [ApolloServerPluginLandingPageLocalDefault({ embed: true })],
 });
 
-
 server.listen().then(({ url }) => {
   console.log(`🚀  Server ready at ${url}`);
 });
-
-
