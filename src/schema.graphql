@@ -1,27 +1,28 @@
 type Query {
   categories: [Category]
-  category(id: ID): Category
+  category(id: ID!): Category
   products: [Product]
-  product(id: ID): Product
+  product(id: ID!): Product
   searchProducts(query: String): [Product]
 }
 
 type Category {
   id: ID!
-  imageUrl: String
+  parentId: ID
+  imageThumbnailUrl: String
   imageBannerUrl: String
   name: String!
-  categories: [Category]
+  subcategories: [Category]
   showInDesktopNav: Boolean
   products: [Product]
 }
 
 type Product {
   id: ID!
+  categoryId: ID!
   name: String!
   slug: String!
   imageUrl: String!
-  hoverImageUrl: String
   description: String!
   fullPrice: Int!
   variants: [ProductVariant]
