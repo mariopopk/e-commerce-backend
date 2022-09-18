@@ -18,11 +18,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258032/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_2_hover.jpg?1659635782=",
+            "https://bonobos-prod-s3.imgix.net/products/258032/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256950/original/SHORT_CHINO-SHORT_BSR10877D1179B-5_swatch.jpg?1658251866=",
+            "https://bonobos-prod-s3.imgix.net/products/256950/original/SHORT_CHINO-SHORT_BSR10877D1179B-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258033/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_3_category.jpg?1659635786=",
+            "https://bonobos-prod-s3.imgix.net/products/258033/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_3_category.jpg",
           color_presentation: "Nuthatch",
         },
         {
@@ -37,11 +37,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg?1644951464=",
+            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg?1633409320=",
+            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg?1644951490=",
+            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -56,11 +56,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg?1660847264=",
+            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg?1653417774=",
+            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg?1660847261=",
+            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -75,11 +75,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg?1655994828=",
+            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg?1653417653=",
+            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg?1655994817=",
+            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -94,11 +94,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg?1646158090=",
+            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg?1646148681=",
+            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg?1646158093=",
+            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -113,11 +113,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg?1644952062=",
+            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg?1633409215=",
+            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg?1644952079=",
+            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -132,17 +132,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg?1651848179=",
+            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg?1651158792=",
+            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg?1651848175=",
+            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg",
           color_presentation: "Sky Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/258033/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_3_category.jpg?1659635786=",
+        "https://bonobos-prod-s3.imgix.net/products/258033/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "nuthatch",
@@ -154,7 +154,7 @@ export default [
       number_of_fits: 3,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/258032/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_2_hover.jpg?1659635782=",
+        "https://bonobos-prod-s3.imgix.net/products/258032/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -168,11 +168,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg?1660847264=",
+            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg?1653417774=",
+            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg?1660847261=",
+            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -187,11 +187,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg?1655994828=",
+            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg?1653417653=",
+            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg?1655994817=",
+            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -206,11 +206,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg?1651848179=",
+            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg?1651158792=",
+            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg?1651848175=",
+            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg",
           color_presentation: "Sky Blue",
         },
         {
@@ -225,11 +225,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245251/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_2_hover.jpg?1649686444=",
+            "https://bonobos-prod-s3.imgix.net/products/245251/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245097/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-7_swatch.jpg?1649427313=",
+            "https://bonobos-prod-s3.imgix.net/products/245097/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245252/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_3_category.jpg?1649686450=",
+            "https://bonobos-prod-s3.imgix.net/products/245252/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_3_category.jpg",
           color_presentation: "Light Yellow",
         },
         {
@@ -244,11 +244,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256234/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_2_hover.jpg?1655997266=",
+            "https://bonobos-prod-s3.imgix.net/products/256234/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256452/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-5_swatch.jpg?1656087211=",
+            "https://bonobos-prod-s3.imgix.net/products/256452/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256235/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_3_category.jpg?1655997271=",
+            "https://bonobos-prod-s3.imgix.net/products/256235/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_3_category.jpg",
           color_presentation: "Persimmon",
         },
         {
@@ -263,11 +263,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238848/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_2_hover.jpg?1644952630=",
+            "https://bonobos-prod-s3.imgix.net/products/238848/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238756/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-7_swatch.jpg?1644950935=",
+            "https://bonobos-prod-s3.imgix.net/products/238756/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238849/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_3_category.jpg?1644952654=",
+            "https://bonobos-prod-s3.imgix.net/products/238849/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_3_category.jpg",
           color_presentation: "Ginger",
         },
         {
@@ -282,11 +282,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237888/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_5_hover.jpg?1644352575=",
+            "https://bonobos-prod-s3.imgix.net/products/237888/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237884/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_swatch.jpg?1644352514=",
+            "https://bonobos-prod-s3.imgix.net/products/237884/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237886/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_3_category.jpg?1644352553=",
+            "https://bonobos-prod-s3.imgix.net/products/237886/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_3_category.jpg",
           color_presentation: "Aloe",
         },
       ],
@@ -305,11 +305,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258032/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_2_hover.jpg?1659635782=",
+            "https://bonobos-prod-s3.imgix.net/products/258032/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256950/original/SHORT_CHINO-SHORT_BSR10877D1179B-5_swatch.jpg?1658251866=",
+            "https://bonobos-prod-s3.imgix.net/products/256950/original/SHORT_CHINO-SHORT_BSR10877D1179B-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258033/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_3_category.jpg?1659635786=",
+            "https://bonobos-prod-s3.imgix.net/products/258033/original/SHORT_CHINO-SHORT_BSR10877D1179B-32-7_3_category.jpg",
           color_presentation: "Nuthatch",
         },
         {
@@ -324,11 +324,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg?1644951464=",
+            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg?1633409320=",
+            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg?1644951490=",
+            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -343,11 +343,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg?1646158090=",
+            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg?1646148681=",
+            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg?1646158093=",
+            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -362,11 +362,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg?1644952062=",
+            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg?1633409215=",
+            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg?1644952079=",
+            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -381,11 +381,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238764/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_2_hover.jpg?1644951090=",
+            "https://bonobos-prod-s3.imgix.net/products/238764/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226330/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_swatch.jpg?1633409394=",
+            "https://bonobos-prod-s3.imgix.net/products/226330/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238765/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_3_category.jpg?1644951112=",
+            "https://bonobos-prod-s3.imgix.net/products/238765/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_3_category.jpg",
           color_presentation: "Deep Navy",
         },
         {
@@ -400,11 +400,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237870/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_5_hover.jpg?1644352280=",
+            "https://bonobos-prod-s3.imgix.net/products/237870/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237866/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_swatch.jpg?1644352216=",
+            "https://bonobos-prod-s3.imgix.net/products/237866/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237868/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_3_category.jpg?1644352251=",
+            "https://bonobos-prod-s3.imgix.net/products/237868/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_3_category.jpg",
           color_presentation: "After Midnights",
         },
         {
@@ -419,11 +419,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg?1660675295=",
+            "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256948/original/SHORT_CHINO-SHORT_BSR10877D1191G-5_swatch.jpg?1658251786=",
+            "https://bonobos-prod-s3.imgix.net/products/256948/original/SHORT_CHINO-SHORT_BSR10877D1191G-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg?1660675300=",
+            "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg",
           color_presentation: "Pesto",
         },
       ],
@@ -455,11 +455,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg?1660675295=",
+            "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256948/original/SHORT_CHINO-SHORT_BSR10877D1191G-5_swatch.jpg?1658251786=",
+            "https://bonobos-prod-s3.imgix.net/products/256948/original/SHORT_CHINO-SHORT_BSR10877D1191G-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg?1660675300=",
+            "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg",
           color_presentation: "Pesto",
         },
         {
@@ -474,11 +474,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg?1644951464=",
+            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg?1633409320=",
+            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg?1644951490=",
+            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -493,11 +493,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg?1660847264=",
+            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg?1653417774=",
+            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg?1660847261=",
+            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -512,11 +512,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg?1655994828=",
+            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg?1653417653=",
+            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg?1655994817=",
+            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -531,11 +531,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg?1646158090=",
+            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg?1646148681=",
+            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg?1646158093=",
+            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -550,11 +550,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg?1644952062=",
+            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg?1633409215=",
+            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg?1644952079=",
+            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -569,17 +569,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg?1651848179=",
+            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg?1651158792=",
+            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg?1651848175=",
+            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg",
           color_presentation: "Sky Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg?1660675300=",
+        "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "pesto",
@@ -591,7 +591,7 @@ export default [
       number_of_fits: 3,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg?1660675295=",
+        "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -605,11 +605,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg?1660847264=",
+            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg?1653417774=",
+            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg?1660847261=",
+            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -624,11 +624,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg?1655994828=",
+            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg?1653417653=",
+            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg?1655994817=",
+            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -643,11 +643,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg?1651848179=",
+            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg?1651158792=",
+            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg?1651848175=",
+            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg",
           color_presentation: "Sky Blue",
         },
         {
@@ -662,11 +662,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245251/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_2_hover.jpg?1649686444=",
+            "https://bonobos-prod-s3.imgix.net/products/245251/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245097/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-7_swatch.jpg?1649427313=",
+            "https://bonobos-prod-s3.imgix.net/products/245097/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245252/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_3_category.jpg?1649686450=",
+            "https://bonobos-prod-s3.imgix.net/products/245252/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_3_category.jpg",
           color_presentation: "Light Yellow",
         },
         {
@@ -681,11 +681,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256234/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_2_hover.jpg?1655997266=",
+            "https://bonobos-prod-s3.imgix.net/products/256234/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256452/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-5_swatch.jpg?1656087211=",
+            "https://bonobos-prod-s3.imgix.net/products/256452/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256235/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_3_category.jpg?1655997271=",
+            "https://bonobos-prod-s3.imgix.net/products/256235/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_3_category.jpg",
           color_presentation: "Persimmon",
         },
         {
@@ -700,11 +700,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238848/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_2_hover.jpg?1644952630=",
+            "https://bonobos-prod-s3.imgix.net/products/238848/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238756/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-7_swatch.jpg?1644950935=",
+            "https://bonobos-prod-s3.imgix.net/products/238756/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238849/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_3_category.jpg?1644952654=",
+            "https://bonobos-prod-s3.imgix.net/products/238849/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_3_category.jpg",
           color_presentation: "Ginger",
         },
         {
@@ -719,11 +719,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237888/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_5_hover.jpg?1644352575=",
+            "https://bonobos-prod-s3.imgix.net/products/237888/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237884/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_swatch.jpg?1644352514=",
+            "https://bonobos-prod-s3.imgix.net/products/237884/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237886/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_3_category.jpg?1644352553=",
+            "https://bonobos-prod-s3.imgix.net/products/237886/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_3_category.jpg",
           color_presentation: "Aloe",
         },
       ],
@@ -742,11 +742,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg?1660675295=",
+            "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256948/original/SHORT_CHINO-SHORT_BSR10877D1191G-5_swatch.jpg?1658251786=",
+            "https://bonobos-prod-s3.imgix.net/products/256948/original/SHORT_CHINO-SHORT_BSR10877D1191G-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg?1660675300=",
+            "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg",
           color_presentation: "Pesto",
         },
         {
@@ -761,11 +761,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg?1644951464=",
+            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg?1633409320=",
+            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg?1644951490=",
+            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -780,11 +780,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg?1646158090=",
+            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg?1646148681=",
+            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg?1646158093=",
+            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -799,11 +799,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg?1644952062=",
+            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg?1633409215=",
+            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg?1644952079=",
+            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -818,11 +818,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238764/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_2_hover.jpg?1644951090=",
+            "https://bonobos-prod-s3.imgix.net/products/238764/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226330/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_swatch.jpg?1633409394=",
+            "https://bonobos-prod-s3.imgix.net/products/226330/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238765/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_3_category.jpg?1644951112=",
+            "https://bonobos-prod-s3.imgix.net/products/238765/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_3_category.jpg",
           color_presentation: "Deep Navy",
         },
         {
@@ -837,11 +837,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237870/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_5_hover.jpg?1644352280=",
+            "https://bonobos-prod-s3.imgix.net/products/237870/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237866/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_swatch.jpg?1644352216=",
+            "https://bonobos-prod-s3.imgix.net/products/237866/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237868/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_3_category.jpg?1644352251=",
+            "https://bonobos-prod-s3.imgix.net/products/237868/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_3_category.jpg",
           color_presentation: "After Midnights",
         },
         {
@@ -856,11 +856,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238710/original/SHORT_CHINO-SHORT_BSR10877D0073G-32-7_2_hover.jpg?1644939134=",
+            "https://bonobos-prod-s3.imgix.net/products/238710/original/SHORT_CHINO-SHORT_BSR10877D0073G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226332/original/SHORT_CHINO-SHORT_BSR10877D0073G-32-5_swatch.jpg?1633409465=",
+            "https://bonobos-prod-s3.imgix.net/products/226332/original/SHORT_CHINO-SHORT_BSR10877D0073G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238711/original/SHORT_CHINO-SHORT_BSR10877D0073G-32-7_3_category.jpg?1644939161=",
+            "https://bonobos-prod-s3.imgix.net/products/238711/original/SHORT_CHINO-SHORT_BSR10877D0073G-32-7_3_category.jpg",
           color_presentation: "Oat Milk",
         },
       ],
@@ -892,11 +892,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267188/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_5_hover.jpg?1662748982=",
+            "https://bonobos-prod-s3.imgix.net/products/267188/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259759/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_swatch.jpg?1660244205=",
+            "https://bonobos-prod-s3.imgix.net/products/259759/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267169/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_3_category.jpg?1662748975=",
+            "https://bonobos-prod-s3.imgix.net/products/267169/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_3_category.jpg",
           color_presentation: "Heather Astral Aura",
         },
         {
@@ -911,11 +911,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg?1648218262=",
+            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg?1645023632=",
+            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg?1648218252=",
+            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -930,11 +930,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg?1655851381=",
+            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg?1645023716=",
+            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg?1655851376=",
+            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -949,11 +949,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg?1652471303=",
+            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg?1651158539=",
+            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg?1652471295=",
+            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -968,11 +968,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg?1655851616=",
+            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg?1645023764=",
+            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg?1655851610=",
+            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -987,11 +987,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg?1655851665=",
+            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg?1651158463=",
+            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg?1655851658=",
+            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -1006,17 +1006,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg?1652471252=",
+            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg?1651581440=",
+            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg?1652471245=",
+            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg",
           color_presentation: "Heather Azure Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267169/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_3_category.jpg?1662748975=",
+        "https://bonobos-prod-s3.imgix.net/products/267169/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "heather astral aura",
@@ -1028,7 +1028,7 @@ export default [
       number_of_fits: 1,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267188/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_5_hover.jpg?1662748982=",
+        "https://bonobos-prod-s3.imgix.net/products/267188/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1042,11 +1042,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg?1652471303=",
+            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg?1651158539=",
+            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg?1652471295=",
+            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -1061,11 +1061,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg?1655851665=",
+            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg?1651158463=",
+            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg?1655851658=",
+            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -1080,11 +1080,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg?1652471252=",
+            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg?1651581440=",
+            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg?1652471245=",
+            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg",
           color_presentation: "Heather Azure Blue",
         },
         {
@@ -1099,11 +1099,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242937/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_2_hover.jpg?1648218314=",
+            "https://bonobos-prod-s3.imgix.net/products/242937/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240462/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_swatch.jpg?1646064622=",
+            "https://bonobos-prod-s3.imgix.net/products/240462/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242938/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_3_category.jpg?1648218320=",
+            "https://bonobos-prod-s3.imgix.net/products/242938/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_3_category.jpg",
           color_presentation: "Wild Olive",
         },
         {
@@ -1118,11 +1118,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241340/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_3_hover.jpg?1646935904=",
+            "https://bonobos-prod-s3.imgix.net/products/241340/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240336/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_swatch.jpg?1645718652=",
+            "https://bonobos-prod-s3.imgix.net/products/240336/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241339/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_1_category.jpg?1646935901=",
+            "https://bonobos-prod-s3.imgix.net/products/241339/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_1_category.jpg",
           color_presentation: "Cherry Malt Heather",
         },
         {
@@ -1137,11 +1137,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245387/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_5_hover.jpg?1649687219=",
+            "https://bonobos-prod-s3.imgix.net/products/245387/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240302/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_swatch.jpg?1645643066=",
+            "https://bonobos-prod-s3.imgix.net/products/240302/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245385/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_3_category.jpg?1649687207=",
+            "https://bonobos-prod-s3.imgix.net/products/245385/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_3_category.jpg",
           color_presentation: "Windy",
         },
         {
@@ -1156,11 +1156,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245369/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_5_hover.jpg?1649687119=",
+            "https://bonobos-prod-s3.imgix.net/products/245369/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240304/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_swatch.jpg?1645643099=",
+            "https://bonobos-prod-s3.imgix.net/products/240304/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245367/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_3_category.jpg?1649687107=",
+            "https://bonobos-prod-s3.imgix.net/products/245367/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_3_category.jpg",
           color_presentation: "First Light",
         },
       ],
@@ -1179,11 +1179,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267188/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_5_hover.jpg?1662748982=",
+            "https://bonobos-prod-s3.imgix.net/products/267188/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259759/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_swatch.jpg?1660244205=",
+            "https://bonobos-prod-s3.imgix.net/products/259759/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267169/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_3_category.jpg?1662748975=",
+            "https://bonobos-prod-s3.imgix.net/products/267169/original/SHORT_ACTIVE-SHORT_GSR00472D1204P-32-7_3_category.jpg",
           color_presentation: "Heather Astral Aura",
         },
         {
@@ -1198,11 +1198,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg?1648218262=",
+            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg?1645023632=",
+            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg?1648218252=",
+            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1217,11 +1217,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg?1655851381=",
+            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg?1645023716=",
+            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg?1655851376=",
+            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -1236,11 +1236,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg?1655851616=",
+            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg?1645023764=",
+            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg?1655851610=",
+            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -1255,11 +1255,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255571/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_2_hover.jpg?1655851436=",
+            "https://bonobos-prod-s3.imgix.net/products/255571/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240334/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_swatch.jpg?1645718624=",
+            "https://bonobos-prod-s3.imgix.net/products/240334/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255572/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_3_category.jpg?1655851439=",
+            "https://bonobos-prod-s3.imgix.net/products/255572/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_3_category.jpg",
           color_presentation: "Khaki Heather",
         },
         {
@@ -1274,11 +1274,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255581/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_4_hover.jpg?1655851471=",
+            "https://bonobos-prod-s3.imgix.net/products/255581/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238902/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_swatch.jpg?1645023679=",
+            "https://bonobos-prod-s3.imgix.net/products/238902/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255583/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_6_category.jpg?1655851477=",
+            "https://bonobos-prod-s3.imgix.net/products/255583/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_6_category.jpg",
           color_presentation: "Moonrock",
         },
         {
@@ -1293,11 +1293,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255600/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_5_hover.jpg?1655851528=",
+            "https://bonobos-prod-s3.imgix.net/products/255600/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238898/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-7_swatch.jpg?1645023588=",
+            "https://bonobos-prod-s3.imgix.net/products/238898/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255597/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_1_category.jpg?1655851518=",
+            "https://bonobos-prod-s3.imgix.net/products/255597/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_1_category.jpg",
           color_presentation: "Oak Khaki",
         },
       ],
@@ -1329,11 +1329,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258020/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_2_hover.jpg?1659635337=",
+            "https://bonobos-prod-s3.imgix.net/products/258020/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256946/original/SHORT_CHINO-SHORT_BSR10877D1234G-5_swatch.jpg?1658251701=",
+            "https://bonobos-prod-s3.imgix.net/products/256946/original/SHORT_CHINO-SHORT_BSR10877D1234G-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258021/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_3_category.jpg?1659635340=",
+            "https://bonobos-prod-s3.imgix.net/products/258021/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_3_category.jpg",
           color_presentation: "Beetle Green",
         },
         {
@@ -1348,11 +1348,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg?1644951464=",
+            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg?1633409320=",
+            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg?1644951490=",
+            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -1367,11 +1367,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg?1660847264=",
+            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg?1653417774=",
+            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg?1660847261=",
+            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -1386,11 +1386,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg?1655994828=",
+            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg?1653417653=",
+            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg?1655994817=",
+            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -1405,11 +1405,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg?1646158090=",
+            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg?1646148681=",
+            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg?1646158093=",
+            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -1424,11 +1424,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg?1644952062=",
+            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg?1633409215=",
+            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg?1644952079=",
+            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -1443,17 +1443,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg?1651848179=",
+            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg?1651158792=",
+            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg?1651848175=",
+            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg",
           color_presentation: "Sky Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/258021/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_3_category.jpg?1659635340=",
+        "https://bonobos-prod-s3.imgix.net/products/258021/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "beetle green",
@@ -1465,7 +1465,7 @@ export default [
       number_of_fits: 3,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/258020/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_2_hover.jpg?1659635337=",
+        "https://bonobos-prod-s3.imgix.net/products/258020/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1479,11 +1479,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg?1660847264=",
+            "https://bonobos-prod-s3.imgix.net/products/263542/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg?1653417774=",
+            "https://bonobos-prod-s3.imgix.net/products/251866/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg?1660847261=",
+            "https://bonobos-prod-s3.imgix.net/products/263541/original/SHORT_CHINO-SHORT_BSR10877D1197B-32-7_1_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -1498,11 +1498,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg?1655994828=",
+            "https://bonobos-prod-s3.imgix.net/products/255831/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg?1653417653=",
+            "https://bonobos-prod-s3.imgix.net/products/251864/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg?1655994817=",
+            "https://bonobos-prod-s3.imgix.net/products/255828/original/SHORT_CHINO-SHORT_BSR10877D1185P-32-9_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -1517,11 +1517,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg?1651848179=",
+            "https://bonobos-prod-s3.imgix.net/products/248827/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg?1651158792=",
+            "https://bonobos-prod-s3.imgix.net/products/247075/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg?1651848175=",
+            "https://bonobos-prod-s3.imgix.net/products/248826/original/SHORT_CHINO-SHORT_BSR10877D1201B-32-7_1_category.jpg",
           color_presentation: "Sky Blue",
         },
         {
@@ -1536,11 +1536,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245251/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_2_hover.jpg?1649686444=",
+            "https://bonobos-prod-s3.imgix.net/products/245251/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245097/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-7_swatch.jpg?1649427313=",
+            "https://bonobos-prod-s3.imgix.net/products/245097/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245252/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_3_category.jpg?1649686450=",
+            "https://bonobos-prod-s3.imgix.net/products/245252/original/SHORT_CHINO-SHORT_BSR10877D1136Y-32-9_3_category.jpg",
           color_presentation: "Light Yellow",
         },
         {
@@ -1555,11 +1555,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256234/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_2_hover.jpg?1655997266=",
+            "https://bonobos-prod-s3.imgix.net/products/256234/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256452/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-5_swatch.jpg?1656087211=",
+            "https://bonobos-prod-s3.imgix.net/products/256452/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256235/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_3_category.jpg?1655997271=",
+            "https://bonobos-prod-s3.imgix.net/products/256235/original/SHORT_CHINO-SHORT_BSR10877D1221O-32-7_3_category.jpg",
           color_presentation: "Persimmon",
         },
         {
@@ -1574,11 +1574,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238848/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_2_hover.jpg?1644952630=",
+            "https://bonobos-prod-s3.imgix.net/products/238848/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238756/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-7_swatch.jpg?1644950935=",
+            "https://bonobos-prod-s3.imgix.net/products/238756/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238849/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_3_category.jpg?1644952654=",
+            "https://bonobos-prod-s3.imgix.net/products/238849/original/SHORT_CHINO-SHORT_BSR10877D1144R-32-9_3_category.jpg",
           color_presentation: "Ginger",
         },
         {
@@ -1593,11 +1593,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237888/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_5_hover.jpg?1644352575=",
+            "https://bonobos-prod-s3.imgix.net/products/237888/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237884/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_swatch.jpg?1644352514=",
+            "https://bonobos-prod-s3.imgix.net/products/237884/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237886/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_3_category.jpg?1644352553=",
+            "https://bonobos-prod-s3.imgix.net/products/237886/original/SHORT_CHINO-SHORT_BSR10877D1123G-32-7_3_category.jpg",
           color_presentation: "Aloe",
         },
       ],
@@ -1616,11 +1616,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258020/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_2_hover.jpg?1659635337=",
+            "https://bonobos-prod-s3.imgix.net/products/258020/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256946/original/SHORT_CHINO-SHORT_BSR10877D1234G-5_swatch.jpg?1658251701=",
+            "https://bonobos-prod-s3.imgix.net/products/256946/original/SHORT_CHINO-SHORT_BSR10877D1234G-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258021/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_3_category.jpg?1659635340=",
+            "https://bonobos-prod-s3.imgix.net/products/258021/original/SHORT_CHINO-SHORT_BSR10877D1234G-32-7_3_category.jpg",
           color_presentation: "Beetle Green",
         },
         {
@@ -1635,11 +1635,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg?1644951464=",
+            "https://bonobos-prod-s3.imgix.net/products/238788/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg?1633409320=",
+            "https://bonobos-prod-s3.imgix.net/products/226328/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg?1644951490=",
+            "https://bonobos-prod-s3.imgix.net/products/238789/original/SHORT_CHINO-SHORT_BSR10877D0079G-32-5_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -1654,11 +1654,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg?1646158090=",
+            "https://bonobos-prod-s3.imgix.net/products/240561/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg?1646148681=",
+            "https://bonobos-prod-s3.imgix.net/products/240527/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg?1646158093=",
+            "https://bonobos-prod-s3.imgix.net/products/240563/original/SHORT_CHINO-SHORT_BSR10877D1050G-32-7_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -1673,11 +1673,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg?1644952062=",
+            "https://bonobos-prod-s3.imgix.net/products/238812/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg?1633409215=",
+            "https://bonobos-prod-s3.imgix.net/products/226326/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg?1644952079=",
+            "https://bonobos-prod-s3.imgix.net/products/238813/original/SHORT_CHINO-SHORT_BSR10877D1052G-32-9_3_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -1692,11 +1692,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238764/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_2_hover.jpg?1644951090=",
+            "https://bonobos-prod-s3.imgix.net/products/238764/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226330/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_swatch.jpg?1633409394=",
+            "https://bonobos-prod-s3.imgix.net/products/226330/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238765/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_3_category.jpg?1644951112=",
+            "https://bonobos-prod-s3.imgix.net/products/238765/original/SHORT_CHINO-SHORT_BSR10877D0001B-32-5_3_category.jpg",
           color_presentation: "Deep Navy",
         },
         {
@@ -1711,11 +1711,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237870/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_5_hover.jpg?1644352280=",
+            "https://bonobos-prod-s3.imgix.net/products/237870/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237866/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_swatch.jpg?1644352216=",
+            "https://bonobos-prod-s3.imgix.net/products/237866/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237868/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_3_category.jpg?1644352251=",
+            "https://bonobos-prod-s3.imgix.net/products/237868/original/SHORT_CHINO-SHORT_BSR10877D1051G-32-7_3_category.jpg",
           color_presentation: "After Midnights",
         },
         {
@@ -1730,11 +1730,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg?1660675295=",
+            "https://bonobos-prod-s3.imgix.net/products/261201/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256948/original/SHORT_CHINO-SHORT_BSR10877D1191G-5_swatch.jpg?1658251786=",
+            "https://bonobos-prod-s3.imgix.net/products/256948/original/SHORT_CHINO-SHORT_BSR10877D1191G-5_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg?1660675300=",
+            "https://bonobos-prod-s3.imgix.net/products/261202/original/SHORT_CHINO-SHORT_BSR10877D1191G-32-9_3_category.jpg",
           color_presentation: "Pesto",
         },
       ],
@@ -1766,11 +1766,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264144/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_5_hover.jpg?1660849573=",
+            "https://bonobos-prod-s3.imgix.net/products/264144/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256988/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_swatch.jpg?1658253905=",
+            "https://bonobos-prod-s3.imgix.net/products/256988/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264142/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_3_category.jpg?1660849564=",
+            "https://bonobos-prod-s3.imgix.net/products/264142/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_3_category.jpg",
           color_presentation: "Ash Grey",
         },
         {
@@ -1785,11 +1785,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg?1648218262=",
+            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg?1645023632=",
+            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg?1648218252=",
+            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1804,11 +1804,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg?1655851381=",
+            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg?1645023716=",
+            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg?1655851376=",
+            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -1823,11 +1823,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg?1652471303=",
+            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg?1651158539=",
+            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg?1652471295=",
+            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -1842,11 +1842,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg?1655851616=",
+            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg?1645023764=",
+            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg?1655851610=",
+            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -1861,11 +1861,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg?1655851665=",
+            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg?1651158463=",
+            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg?1655851658=",
+            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -1880,17 +1880,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg?1652471252=",
+            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg?1651581440=",
+            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg?1652471245=",
+            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg",
           color_presentation: "Heather Azure Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264142/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_3_category.jpg?1660849564=",
+        "https://bonobos-prod-s3.imgix.net/products/264142/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "ash grey",
@@ -1902,7 +1902,7 @@ export default [
       number_of_fits: 1,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264144/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_5_hover.jpg?1660849573=",
+        "https://bonobos-prod-s3.imgix.net/products/264144/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1916,11 +1916,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg?1652471303=",
+            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg?1651158539=",
+            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg?1652471295=",
+            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -1935,11 +1935,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg?1655851665=",
+            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg?1651158463=",
+            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg?1655851658=",
+            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -1954,11 +1954,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg?1652471252=",
+            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg?1651581440=",
+            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg?1652471245=",
+            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg",
           color_presentation: "Heather Azure Blue",
         },
         {
@@ -1973,11 +1973,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242937/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_2_hover.jpg?1648218314=",
+            "https://bonobos-prod-s3.imgix.net/products/242937/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240462/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_swatch.jpg?1646064622=",
+            "https://bonobos-prod-s3.imgix.net/products/240462/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242938/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_3_category.jpg?1648218320=",
+            "https://bonobos-prod-s3.imgix.net/products/242938/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_3_category.jpg",
           color_presentation: "Wild Olive",
         },
         {
@@ -1992,11 +1992,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241340/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_3_hover.jpg?1646935904=",
+            "https://bonobos-prod-s3.imgix.net/products/241340/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240336/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_swatch.jpg?1645718652=",
+            "https://bonobos-prod-s3.imgix.net/products/240336/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241339/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_1_category.jpg?1646935901=",
+            "https://bonobos-prod-s3.imgix.net/products/241339/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_1_category.jpg",
           color_presentation: "Cherry Malt Heather",
         },
         {
@@ -2011,11 +2011,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245387/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_5_hover.jpg?1649687219=",
+            "https://bonobos-prod-s3.imgix.net/products/245387/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240302/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_swatch.jpg?1645643066=",
+            "https://bonobos-prod-s3.imgix.net/products/240302/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245385/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_3_category.jpg?1649687207=",
+            "https://bonobos-prod-s3.imgix.net/products/245385/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_3_category.jpg",
           color_presentation: "Windy",
         },
         {
@@ -2030,11 +2030,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245369/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_5_hover.jpg?1649687119=",
+            "https://bonobos-prod-s3.imgix.net/products/245369/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240304/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_swatch.jpg?1645643099=",
+            "https://bonobos-prod-s3.imgix.net/products/240304/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245367/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_3_category.jpg?1649687107=",
+            "https://bonobos-prod-s3.imgix.net/products/245367/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_3_category.jpg",
           color_presentation: "First Light",
         },
       ],
@@ -2053,11 +2053,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264144/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_5_hover.jpg?1660849573=",
+            "https://bonobos-prod-s3.imgix.net/products/264144/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256988/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_swatch.jpg?1658253905=",
+            "https://bonobos-prod-s3.imgix.net/products/256988/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264142/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_3_category.jpg?1660849564=",
+            "https://bonobos-prod-s3.imgix.net/products/264142/original/SHORT_ACTIVE-SHORT_GSR00472D1239G-32-7_3_category.jpg",
           color_presentation: "Ash Grey",
         },
         {
@@ -2072,11 +2072,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg?1648218262=",
+            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg?1645023632=",
+            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg?1648218252=",
+            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -2091,11 +2091,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg?1655851381=",
+            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg?1645023716=",
+            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg?1655851376=",
+            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -2110,11 +2110,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg?1655851616=",
+            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg?1645023764=",
+            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg?1655851610=",
+            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -2129,11 +2129,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255571/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_2_hover.jpg?1655851436=",
+            "https://bonobos-prod-s3.imgix.net/products/255571/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240334/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_swatch.jpg?1645718624=",
+            "https://bonobos-prod-s3.imgix.net/products/240334/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255572/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_3_category.jpg?1655851439=",
+            "https://bonobos-prod-s3.imgix.net/products/255572/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_3_category.jpg",
           color_presentation: "Khaki Heather",
         },
         {
@@ -2148,11 +2148,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255581/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_4_hover.jpg?1655851471=",
+            "https://bonobos-prod-s3.imgix.net/products/255581/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238902/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_swatch.jpg?1645023679=",
+            "https://bonobos-prod-s3.imgix.net/products/238902/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255583/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_6_category.jpg?1655851477=",
+            "https://bonobos-prod-s3.imgix.net/products/255583/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_6_category.jpg",
           color_presentation: "Moonrock",
         },
         {
@@ -2167,11 +2167,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255600/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_5_hover.jpg?1655851528=",
+            "https://bonobos-prod-s3.imgix.net/products/255600/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238898/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-7_swatch.jpg?1645023588=",
+            "https://bonobos-prod-s3.imgix.net/products/238898/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255597/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_1_category.jpg?1655851518=",
+            "https://bonobos-prod-s3.imgix.net/products/255597/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_1_category.jpg",
           color_presentation: "Oak Khaki",
         },
       ],
@@ -2203,11 +2203,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264136/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_5_hover.jpg?1660849540=",
+            "https://bonobos-prod-s3.imgix.net/products/264136/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256990/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-7_swatch.jpg?1658253977=",
+            "https://bonobos-prod-s3.imgix.net/products/256990/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264134/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_3_category.jpg?1660849535=",
+            "https://bonobos-prod-s3.imgix.net/products/264134/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_3_category.jpg",
           color_presentation: "Navy Ducks",
         },
         {
@@ -2222,11 +2222,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg?1648218262=",
+            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg?1645023632=",
+            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg?1648218252=",
+            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -2241,11 +2241,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg?1655851381=",
+            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg?1645023716=",
+            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg?1655851376=",
+            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -2260,11 +2260,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg?1652471303=",
+            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg?1651158539=",
+            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg?1652471295=",
+            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -2279,11 +2279,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg?1655851616=",
+            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg?1645023764=",
+            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg?1655851610=",
+            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -2298,11 +2298,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg?1655851665=",
+            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg?1651158463=",
+            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg?1655851658=",
+            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -2317,17 +2317,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg?1652471252=",
+            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg?1651581440=",
+            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg?1652471245=",
+            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg",
           color_presentation: "Heather Azure Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264134/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_3_category.jpg?1660849535=",
+        "https://bonobos-prod-s3.imgix.net/products/264134/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "navy ducks",
@@ -2339,7 +2339,7 @@ export default [
       number_of_fits: 1,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264136/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_5_hover.jpg?1660849540=",
+        "https://bonobos-prod-s3.imgix.net/products/264136/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -2353,11 +2353,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg?1652471303=",
+            "https://bonobos-prod-s3.imgix.net/products/250620/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg?1651158539=",
+            "https://bonobos-prod-s3.imgix.net/products/247065/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg?1652471295=",
+            "https://bonobos-prod-s3.imgix.net/products/250616/original/SHORT_ACTIVE-SHORT_GSR00472D1197B-32-9_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -2372,11 +2372,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg?1655851665=",
+            "https://bonobos-prod-s3.imgix.net/products/255642/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg?1651158463=",
+            "https://bonobos-prod-s3.imgix.net/products/247063/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg?1655851658=",
+            "https://bonobos-prod-s3.imgix.net/products/255640/original/SHORT_ACTIVE-SHORT_GSR00472D1185P-32-7_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -2391,11 +2391,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg?1652471252=",
+            "https://bonobos-prod-s3.imgix.net/products/250594/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg?1651581440=",
+            "https://bonobos-prod-s3.imgix.net/products/247706/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg?1652471245=",
+            "https://bonobos-prod-s3.imgix.net/products/250590/original/SHORT_ACTIVE-SHORT_GSR00472D1194B-32-9_3_category.jpg",
           color_presentation: "Heather Azure Blue",
         },
         {
@@ -2410,11 +2410,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242937/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_2_hover.jpg?1648218314=",
+            "https://bonobos-prod-s3.imgix.net/products/242937/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240462/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_swatch.jpg?1646064622=",
+            "https://bonobos-prod-s3.imgix.net/products/240462/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242938/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_3_category.jpg?1648218320=",
+            "https://bonobos-prod-s3.imgix.net/products/242938/original/SHORT_ACTIVE-SHORT_GSR00472D1122G-32-7_3_category.jpg",
           color_presentation: "Wild Olive",
         },
         {
@@ -2429,11 +2429,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241340/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_3_hover.jpg?1646935904=",
+            "https://bonobos-prod-s3.imgix.net/products/241340/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240336/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_swatch.jpg?1645718652=",
+            "https://bonobos-prod-s3.imgix.net/products/240336/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241339/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_1_category.jpg?1646935901=",
+            "https://bonobos-prod-s3.imgix.net/products/241339/original/SHORT_ACTIVE-SHORT_GSR00472D1151P-32-7_1_category.jpg",
           color_presentation: "Cherry Malt Heather",
         },
         {
@@ -2448,11 +2448,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245387/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_5_hover.jpg?1649687219=",
+            "https://bonobos-prod-s3.imgix.net/products/245387/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240302/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_swatch.jpg?1645643066=",
+            "https://bonobos-prod-s3.imgix.net/products/240302/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245385/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_3_category.jpg?1649687207=",
+            "https://bonobos-prod-s3.imgix.net/products/245385/original/SHORT_ACTIVE-SHORT_GSR00472D1098B-32-7_3_category.jpg",
           color_presentation: "Windy",
         },
         {
@@ -2467,11 +2467,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245369/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_5_hover.jpg?1649687119=",
+            "https://bonobos-prod-s3.imgix.net/products/245369/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240304/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_swatch.jpg?1645643099=",
+            "https://bonobos-prod-s3.imgix.net/products/240304/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245367/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_3_category.jpg?1649687107=",
+            "https://bonobos-prod-s3.imgix.net/products/245367/original/SHORT_ACTIVE-SHORT_GSR00472D1136Y-32-7_3_category.jpg",
           color_presentation: "First Light",
         },
       ],
@@ -2490,11 +2490,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264136/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_5_hover.jpg?1660849540=",
+            "https://bonobos-prod-s3.imgix.net/products/264136/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256990/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-7_swatch.jpg?1658253977=",
+            "https://bonobos-prod-s3.imgix.net/products/256990/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264134/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_3_category.jpg?1660849535=",
+            "https://bonobos-prod-s3.imgix.net/products/264134/original/SHORT_ACTIVE-SHORT_GSR00472DB2637-32-9_3_category.jpg",
           color_presentation: "Navy Ducks",
         },
         {
@@ -2509,11 +2509,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg?1648218262=",
+            "https://bonobos-prod-s3.imgix.net/products/242930/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg?1645023632=",
+            "https://bonobos-prod-s3.imgix.net/products/238900/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg?1648218252=",
+            "https://bonobos-prod-s3.imgix.net/products/242928/original/SHORT_ACTIVE-SHORT_GSR00472D1092N-32-7_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -2528,11 +2528,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg?1655851381=",
+            "https://bonobos-prod-s3.imgix.net/products/255554/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg?1645023716=",
+            "https://bonobos-prod-s3.imgix.net/products/238904/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg?1655851376=",
+            "https://bonobos-prod-s3.imgix.net/products/255552/original/SHORT_ACTIVE-SHORT_GSR00472D1133G-32-7_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -2547,11 +2547,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg?1655851616=",
+            "https://bonobos-prod-s3.imgix.net/products/255627/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg?1645023764=",
+            "https://bonobos-prod-s3.imgix.net/products/238906/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg?1655851610=",
+            "https://bonobos-prod-s3.imgix.net/products/255625/original/SHORT_ACTIVE-SHORT_GSR00472D1177B-32-7_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -2566,11 +2566,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255571/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_2_hover.jpg?1655851436=",
+            "https://bonobos-prod-s3.imgix.net/products/255571/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240334/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_swatch.jpg?1645718624=",
+            "https://bonobos-prod-s3.imgix.net/products/240334/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255572/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_3_category.jpg?1655851439=",
+            "https://bonobos-prod-s3.imgix.net/products/255572/original/SHORT_ACTIVE-SHORT_GSR00472D1160K-32-7_3_category.jpg",
           color_presentation: "Khaki Heather",
         },
         {
@@ -2585,11 +2585,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255581/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_4_hover.jpg?1655851471=",
+            "https://bonobos-prod-s3.imgix.net/products/255581/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238902/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_swatch.jpg?1645023679=",
+            "https://bonobos-prod-s3.imgix.net/products/238902/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255583/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_6_category.jpg?1655851477=",
+            "https://bonobos-prod-s3.imgix.net/products/255583/original/SHORT_ACTIVE-SHORT_GSR00472D1131G-32-7_6_category.jpg",
           color_presentation: "Moonrock",
         },
         {
@@ -2604,11 +2604,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255600/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_5_hover.jpg?1655851528=",
+            "https://bonobos-prod-s3.imgix.net/products/255600/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238898/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-7_swatch.jpg?1645023588=",
+            "https://bonobos-prod-s3.imgix.net/products/238898/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-7_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255597/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_1_category.jpg?1655851518=",
+            "https://bonobos-prod-s3.imgix.net/products/255597/original/SHORT_ACTIVE-SHORT_GSR00472D1074K-32-9_1_category.jpg",
           color_presentation: "Oak Khaki",
         },
       ],

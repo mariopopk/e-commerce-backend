@@ -8,32 +8,61 @@ import suits from "./suits";
 import sweaters from "./sweaters";
 import tees from "./tees";
 
+// const randomInt = () => Math.round(Math.random() * 100);
+
 export default [
   ...accessories.map((product) => {
-    return { ...product, categoryId: "109" };
+    return {
+      ...product,
+      categoryId: "109",
+    };
   }),
   ...golf.map((product) => {
-    return { ...product, categoryId: "107" };
+    return {
+      ...product,
+      categoryId: "107",
+    };
   }),
   ...outerwear.map((product) => {
-    return { ...product, categoryId: "104" };
+    return {
+      ...product,
+      categoryId: "104",
+    };
   }),
   ...pants.map((product) => {
-    return { ...product, categoryId: "101" };
+    return {
+      ...product,
+      categoryId: "101",
+    };
   }),
   ...shirts.map((product) => {
-    return { ...product, categoryId: "102" };
+    return {
+      ...product,
+      categoryId: "102",
+    };
   }),
   ...shorts.map((product) => {
-    return { ...product, categoryId: "105" };
+    return {
+      ...product,
+      categoryId: "105",
+    };
   }),
   ...suits.map((product) => {
-    return { ...product, categoryId: "108" };
+    return {
+      ...product,
+      categoryId: "108",
+    };
   }),
   ...sweaters.map((product) => {
-    return { ...product, categoryId: "103" };
+    return {
+      ...product,
+      categoryId: "103",
+    };
   }),
   ...tees.map((product) => {
-    return { ...product, categoryId: "106" };
+    return {
+      ...product,
+      categoryId: "106",
+    };
   }),
 ];

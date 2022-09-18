@@ -19,9 +19,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259475/original/TIE_NECKTIE_BTE11128XO3308_swatch.jpg?1660071624=",
+            "https://bonobos-prod-s3.imgix.net/products/259475/original/TIE_NECKTIE_BTE11128XO3308_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264471/original/TIE_NECKTIE_BTE11128XO3308_40_outfitter.jpg?1661351204=",
+            "https://bonobos-prod-s3.imgix.net/products/264471/original/TIE_NECKTIE_BTE11128XO3308_40_outfitter.jpg",
           color_presentation: "Glen Plaid Pumpkin Spice",
         },
         {
@@ -37,9 +37,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247176/original/TIE_NECKTIE_16735-BLK02_swatch.jpg?1651161471=",
+            "https://bonobos-prod-s3.imgix.net/products/247176/original/TIE_NECKTIE_16735-BLK02_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247177/original/TIE_NECKTIE_16735-BLK02_40_category-outfitter.jpg?1651161589=",
+            "https://bonobos-prod-s3.imgix.net/products/247177/original/TIE_NECKTIE_16735-BLK02_40_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -55,9 +55,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/82229/original/Ties_Tie_21248-BK524_swatch.jpg?1541104693=",
+            "https://bonobos-prod-s3.imgix.net/products/82229/original/Ties_Tie_21248-BK524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232995/original/TIE_NECKTIE_21248-BK524_40_category-outfitter.jpg?1637363791=",
+            "https://bonobos-prod-s3.imgix.net/products/232995/original/TIE_NECKTIE_21248-BK524_40_category-outfitter.jpg",
           color_presentation: "Matte Black",
         },
         {
@@ -73,9 +73,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245131/original/TIE_NECKTIE_BTE11128XP2693_swatch.jpg?1649429477=",
+            "https://bonobos-prod-s3.imgix.net/products/245131/original/TIE_NECKTIE_BTE11128XP2693_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245303/original/TIE_NECKTIE_BTE11128XP2693_40_category-outfitter.jpg?1649686737=",
+            "https://bonobos-prod-s3.imgix.net/products/245303/original/TIE_NECKTIE_BTE11128XP2693_40_category-outfitter.jpg",
           color_presentation: "Purple Gingham",
         },
         {
@@ -91,9 +91,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245119/original/TIE_NECKTIE_BTE11128XN2692_swatch.jpg?1649429242=",
+            "https://bonobos-prod-s3.imgix.net/products/245119/original/TIE_NECKTIE_BTE11128XN2692_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245297/original/TIE_NECKTIE_BTE11128XN2692_40_category-outfitter.jpg?1649686702=",
+            "https://bonobos-prod-s3.imgix.net/products/245297/original/TIE_NECKTIE_BTE11128XN2692_40_category-outfitter.jpg",
           color_presentation: "Navy Dinosaurs",
         },
         {
@@ -109,9 +109,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245109/original/TIE_NECKTIE_BTE11128XN2694_swatch.jpg?1649429039=",
+            "https://bonobos-prod-s3.imgix.net/products/245109/original/TIE_NECKTIE_BTE11128XN2694_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245299/original/TIE_NECKTIE_BTE11128XN2694_40_category-outfitter.jpg?1649686714=",
+            "https://bonobos-prod-s3.imgix.net/products/245299/original/TIE_NECKTIE_BTE11128XN2694_40_category-outfitter.jpg",
           color_presentation: "Navy Teal Floral",
         },
         {
@@ -127,15 +127,15 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245117/original/TIE_NECKTIE_BTE11128XG2706_swatch.jpg?1649429201=",
+            "https://bonobos-prod-s3.imgix.net/products/245117/original/TIE_NECKTIE_BTE11128XG2706_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245295/original/TIE_NECKTIE_BTE11128XG2706_40_category-outfitter.jpg?1649686692=",
+            "https://bonobos-prod-s3.imgix.net/products/245295/original/TIE_NECKTIE_BTE11128XG2706_40_category-outfitter.jpg",
           color_presentation: "Navy Teal Dots",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264471/original/TIE_NECKTIE_BTE11128XO3308_40_outfitter.jpg?1661351204=",
+        "https://bonobos-prod-s3.imgix.net/products/264471/original/TIE_NECKTIE_BTE11128XO3308_40_outfitter.jpg",
       color_name: "glen plaid - pumpkin spice",
       full_price: 79,
       final_sale: false,
@@ -160,9 +160,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245131/original/TIE_NECKTIE_BTE11128XP2693_swatch.jpg?1649429477=",
+            "https://bonobos-prod-s3.imgix.net/products/245131/original/TIE_NECKTIE_BTE11128XP2693_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245303/original/TIE_NECKTIE_BTE11128XP2693_40_category-outfitter.jpg?1649686737=",
+            "https://bonobos-prod-s3.imgix.net/products/245303/original/TIE_NECKTIE_BTE11128XP2693_40_category-outfitter.jpg",
           color_presentation: "Purple Gingham",
         },
         {
@@ -178,9 +178,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245119/original/TIE_NECKTIE_BTE11128XN2692_swatch.jpg?1649429242=",
+            "https://bonobos-prod-s3.imgix.net/products/245119/original/TIE_NECKTIE_BTE11128XN2692_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245297/original/TIE_NECKTIE_BTE11128XN2692_40_category-outfitter.jpg?1649686702=",
+            "https://bonobos-prod-s3.imgix.net/products/245297/original/TIE_NECKTIE_BTE11128XN2692_40_category-outfitter.jpg",
           color_presentation: "Navy Dinosaurs",
         },
         {
@@ -196,9 +196,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245117/original/TIE_NECKTIE_BTE11128XG2706_swatch.jpg?1649429201=",
+            "https://bonobos-prod-s3.imgix.net/products/245117/original/TIE_NECKTIE_BTE11128XG2706_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245295/original/TIE_NECKTIE_BTE11128XG2706_40_category-outfitter.jpg?1649686692=",
+            "https://bonobos-prod-s3.imgix.net/products/245295/original/TIE_NECKTIE_BTE11128XG2706_40_category-outfitter.jpg",
           color_presentation: "Navy Teal Dots",
         },
         {
@@ -214,9 +214,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245135/original/TIE_NECKTIE_BTE11128XY2695_swatch.jpg?1649429551=",
+            "https://bonobos-prod-s3.imgix.net/products/245135/original/TIE_NECKTIE_BTE11128XY2695_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245311/original/TIE_NECKTIE_BTE11128XY2695_40_category-outfitter.jpg?1649686786=",
+            "https://bonobos-prod-s3.imgix.net/products/245311/original/TIE_NECKTIE_BTE11128XY2695_40_category-outfitter.jpg",
           color_presentation: "Yellow Blue Stripe",
         },
         {
@@ -232,9 +232,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247162/original/TIE_NECKTIE_BTE11128XB2708_swatch.jpg?1651160593=",
+            "https://bonobos-prod-s3.imgix.net/products/247162/original/TIE_NECKTIE_BTE11128XB2708_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247748/original/TIE_NECKTIE_BTE11128XB2708_40_category-outfitter.jpg?1651676498=",
+            "https://bonobos-prod-s3.imgix.net/products/247748/original/TIE_NECKTIE_BTE11128XB2708_40_category-outfitter.jpg",
           color_presentation: "Navy Micro Dots",
         },
         {
@@ -250,9 +250,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247164/original/TIE_NECKTIE_BTE11128XR2717_swatch.jpg?1651160622=",
+            "https://bonobos-prod-s3.imgix.net/products/247164/original/TIE_NECKTIE_BTE11128XR2717_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247750/original/TIE_NECKTIE_BTE11128XR2717_40_category-outfitter.jpg?1651676505=",
+            "https://bonobos-prod-s3.imgix.net/products/247750/original/TIE_NECKTIE_BTE11128XR2717_40_category-outfitter.jpg",
           color_presentation: "Navy Red Dots",
         },
       ],
@@ -272,9 +272,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259475/original/TIE_NECKTIE_BTE11128XO3308_swatch.jpg?1660071624=",
+            "https://bonobos-prod-s3.imgix.net/products/259475/original/TIE_NECKTIE_BTE11128XO3308_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264471/original/TIE_NECKTIE_BTE11128XO3308_40_outfitter.jpg?1661351204=",
+            "https://bonobos-prod-s3.imgix.net/products/264471/original/TIE_NECKTIE_BTE11128XO3308_40_outfitter.jpg",
           color_presentation: "Glen Plaid Pumpkin Spice",
         },
         {
@@ -290,9 +290,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247176/original/TIE_NECKTIE_16735-BLK02_swatch.jpg?1651161471=",
+            "https://bonobos-prod-s3.imgix.net/products/247176/original/TIE_NECKTIE_16735-BLK02_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247177/original/TIE_NECKTIE_16735-BLK02_40_category-outfitter.jpg?1651161589=",
+            "https://bonobos-prod-s3.imgix.net/products/247177/original/TIE_NECKTIE_16735-BLK02_40_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -308,9 +308,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/82229/original/Ties_Tie_21248-BK524_swatch.jpg?1541104693=",
+            "https://bonobos-prod-s3.imgix.net/products/82229/original/Ties_Tie_21248-BK524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232995/original/TIE_NECKTIE_21248-BK524_40_category-outfitter.jpg?1637363791=",
+            "https://bonobos-prod-s3.imgix.net/products/232995/original/TIE_NECKTIE_21248-BK524_40_category-outfitter.jpg",
           color_presentation: "Matte Black",
         },
         {
@@ -326,9 +326,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245109/original/TIE_NECKTIE_BTE11128XN2694_swatch.jpg?1649429039=",
+            "https://bonobos-prod-s3.imgix.net/products/245109/original/TIE_NECKTIE_BTE11128XN2694_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245299/original/TIE_NECKTIE_BTE11128XN2694_40_category-outfitter.jpg?1649686714=",
+            "https://bonobos-prod-s3.imgix.net/products/245299/original/TIE_NECKTIE_BTE11128XN2694_40_category-outfitter.jpg",
           color_presentation: "Navy Teal Floral",
         },
         {
@@ -344,9 +344,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259471/original/TIE_NECKTIE_BTE11128XB3306_swatch.jpg?1660071301=",
+            "https://bonobos-prod-s3.imgix.net/products/259471/original/TIE_NECKTIE_BTE11128XB3306_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264234/original/TIE_NECKTIE_BTE11128XB3306_40_outfitter.jpg?1660849965=",
+            "https://bonobos-prod-s3.imgix.net/products/264234/original/TIE_NECKTIE_BTE11128XB3306_40_outfitter.jpg",
           color_presentation: "Floral Charm",
         },
         {
@@ -362,9 +362,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259567/original/TIE_NECKTIE_BTE11128XR3309_swatch.jpg?1660140720=",
+            "https://bonobos-prod-s3.imgix.net/products/259567/original/TIE_NECKTIE_BTE11128XR3309_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264240/original/TIE_NECKTIE_BTE11128XR3309_40_outfitter.jpg?1660849986=",
+            "https://bonobos-prod-s3.imgix.net/products/264240/original/TIE_NECKTIE_BTE11128XR3309_40_outfitter.jpg",
           color_presentation: "Dot Cordal",
         },
         {
@@ -380,9 +380,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259461/original/TIE_NECKTIE_BTE11128XG3301_swatch.jpg?1660070775=",
+            "https://bonobos-prod-s3.imgix.net/products/259461/original/TIE_NECKTIE_BTE11128XG3301_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264224/original/TIE_NECKTIE_BTE11128XG3301_40_outfitter.jpg?1660849930=",
+            "https://bonobos-prod-s3.imgix.net/products/264224/original/TIE_NECKTIE_BTE11128XG3301_40_outfitter.jpg",
           color_presentation: "Thorpe Hill Green",
         },
       ],
@@ -415,9 +415,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265164/original/SOCK_DRESS-SOCK_BSC11186NB3045_swatch.jpg?1661451449=",
+            "https://bonobos-prod-s3.imgix.net/products/265164/original/SOCK_DRESS-SOCK_BSC11186NB3045_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267348/original/SOCK_DRESS-SOCK_BSC11186NB3045_40_outfitter.jpg?1662749051=",
+            "https://bonobos-prod-s3.imgix.net/products/267348/original/SOCK_DRESS-SOCK_BSC11186NB3045_40_outfitter.jpg",
           color_presentation: "Black Snails",
         },
         {
@@ -432,11 +432,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -451,11 +451,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -470,11 +470,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -489,11 +489,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -508,11 +508,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -527,17 +527,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267348/original/SOCK_DRESS-SOCK_BSC11186NB3045_40_outfitter.jpg?1662749051=",
+        "https://bonobos-prod-s3.imgix.net/products/267348/original/SOCK_DRESS-SOCK_BSC11186NB3045_40_outfitter.jpg",
       color_name: "black snails",
       full_price: 15,
       final_sale: false,
@@ -562,11 +562,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg?1644248857=",
+            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg?1644254342=",
+            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg?1644248855=",
+            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg",
           color_presentation: "Light Blue Geo",
         },
         {
@@ -581,11 +581,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg?1644248832=",
+            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg?1644250222=",
+            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg?1644248830=",
+            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg",
           color_presentation: "Tapestry Blue Dot",
         },
       ],
@@ -603,9 +603,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265164/original/SOCK_DRESS-SOCK_BSC11186NB3045_swatch.jpg?1661451449=",
+            "https://bonobos-prod-s3.imgix.net/products/265164/original/SOCK_DRESS-SOCK_BSC11186NB3045_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267348/original/SOCK_DRESS-SOCK_BSC11186NB3045_40_outfitter.jpg?1662749051=",
+            "https://bonobos-prod-s3.imgix.net/products/267348/original/SOCK_DRESS-SOCK_BSC11186NB3045_40_outfitter.jpg",
           color_presentation: "Black Snails",
         },
         {
@@ -620,11 +620,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -639,11 +639,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -658,11 +658,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -677,11 +677,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -696,11 +696,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -715,11 +715,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],
@@ -752,9 +752,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265174/original/SOCK_OTHER-SOCK_BSC11188NN3047_swatch.jpg?1661452021=",
+            "https://bonobos-prod-s3.imgix.net/products/265174/original/SOCK_OTHER-SOCK_BSC11188NN3047_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267372/original/SOCK_OTHER-SOCK_BSC11188NN3047_40_outfitter.jpg?1662749061=",
+            "https://bonobos-prod-s3.imgix.net/products/267372/original/SOCK_OTHER-SOCK_BSC11188NN3047_40_outfitter.jpg",
           color_presentation: "Navy Stripe",
         },
         {
@@ -769,11 +769,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237703/original/SOCK_OTHER-SOCK_BSC11023NB2103_90_hover.jpg?1644248865=",
+            "https://bonobos-prod-s3.imgix.net/products/237703/original/SOCK_OTHER-SOCK_BSC11023NB2103_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237777/original/SOCK_OTHER-SOCK_BSC11023NB2103_swatch.jpg?1644254391=",
+            "https://bonobos-prod-s3.imgix.net/products/237777/original/SOCK_OTHER-SOCK_BSC11023NB2103_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237702/original/SOCK_OTHER-SOCK_BSC11023NB2103_40_outfitter.jpg?1644248863=",
+            "https://bonobos-prod-s3.imgix.net/products/237702/original/SOCK_OTHER-SOCK_BSC11023NB2103_40_outfitter.jpg",
           color_presentation: "Blue Pineapples",
         },
         {
@@ -788,11 +788,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237706/original/SOCK_OTHER-SOCK_BSC11023NB2102_90_hover.jpg?1644248874=",
+            "https://bonobos-prod-s3.imgix.net/products/237706/original/SOCK_OTHER-SOCK_BSC11023NB2102_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237779/original/SOCK_OTHER-SOCK_BSC11023NB2102_swatch.jpg?1644254419=",
+            "https://bonobos-prod-s3.imgix.net/products/237779/original/SOCK_OTHER-SOCK_BSC11023NB2102_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237705/original/SOCK_OTHER-SOCK_BSC11023NB2102_40_outfitter.jpg?1644248872=",
+            "https://bonobos-prod-s3.imgix.net/products/237705/original/SOCK_OTHER-SOCK_BSC11023NB2102_40_outfitter.jpg",
           color_presentation: "Blue Boats",
         },
         {
@@ -807,17 +807,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237709/original/SOCK_OTHER-SOCK_BSC11023NG2101_90_hover.jpg?1644248882=",
+            "https://bonobos-prod-s3.imgix.net/products/237709/original/SOCK_OTHER-SOCK_BSC11023NG2101_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237781/original/SOCK_OTHER-SOCK_BSC11023NG2101_swatch.jpg?1644254450=",
+            "https://bonobos-prod-s3.imgix.net/products/237781/original/SOCK_OTHER-SOCK_BSC11023NG2101_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237708/original/SOCK_OTHER-SOCK_BSC11023NG2101_40_outfitter.jpg?1644248880=",
+            "https://bonobos-prod-s3.imgix.net/products/237708/original/SOCK_OTHER-SOCK_BSC11023NG2101_40_outfitter.jpg",
           color_presentation: "Grey Plant",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267372/original/SOCK_OTHER-SOCK_BSC11188NN3047_40_outfitter.jpg?1662749061=",
+        "https://bonobos-prod-s3.imgix.net/products/267372/original/SOCK_OTHER-SOCK_BSC11188NN3047_40_outfitter.jpg",
       color_name: "navy stripe",
       full_price: 15,
       final_sale: false,
@@ -843,11 +843,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237703/original/SOCK_OTHER-SOCK_BSC11023NB2103_90_hover.jpg?1644248865=",
+            "https://bonobos-prod-s3.imgix.net/products/237703/original/SOCK_OTHER-SOCK_BSC11023NB2103_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237777/original/SOCK_OTHER-SOCK_BSC11023NB2103_swatch.jpg?1644254391=",
+            "https://bonobos-prod-s3.imgix.net/products/237777/original/SOCK_OTHER-SOCK_BSC11023NB2103_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237702/original/SOCK_OTHER-SOCK_BSC11023NB2103_40_outfitter.jpg?1644248863=",
+            "https://bonobos-prod-s3.imgix.net/products/237702/original/SOCK_OTHER-SOCK_BSC11023NB2103_40_outfitter.jpg",
           color_presentation: "Blue Pineapples",
         },
         {
@@ -862,11 +862,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237706/original/SOCK_OTHER-SOCK_BSC11023NB2102_90_hover.jpg?1644248874=",
+            "https://bonobos-prod-s3.imgix.net/products/237706/original/SOCK_OTHER-SOCK_BSC11023NB2102_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237779/original/SOCK_OTHER-SOCK_BSC11023NB2102_swatch.jpg?1644254419=",
+            "https://bonobos-prod-s3.imgix.net/products/237779/original/SOCK_OTHER-SOCK_BSC11023NB2102_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237705/original/SOCK_OTHER-SOCK_BSC11023NB2102_40_outfitter.jpg?1644248872=",
+            "https://bonobos-prod-s3.imgix.net/products/237705/original/SOCK_OTHER-SOCK_BSC11023NB2102_40_outfitter.jpg",
           color_presentation: "Blue Boats",
         },
         {
@@ -881,11 +881,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237709/original/SOCK_OTHER-SOCK_BSC11023NG2101_90_hover.jpg?1644248882=",
+            "https://bonobos-prod-s3.imgix.net/products/237709/original/SOCK_OTHER-SOCK_BSC11023NG2101_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237781/original/SOCK_OTHER-SOCK_BSC11023NG2101_swatch.jpg?1644254450=",
+            "https://bonobos-prod-s3.imgix.net/products/237781/original/SOCK_OTHER-SOCK_BSC11023NG2101_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237708/original/SOCK_OTHER-SOCK_BSC11023NG2101_40_outfitter.jpg?1644248880=",
+            "https://bonobos-prod-s3.imgix.net/products/237708/original/SOCK_OTHER-SOCK_BSC11023NG2101_40_outfitter.jpg",
           color_presentation: "Grey Plant",
         },
       ],
@@ -903,9 +903,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265174/original/SOCK_OTHER-SOCK_BSC11188NN3047_swatch.jpg?1661452021=",
+            "https://bonobos-prod-s3.imgix.net/products/265174/original/SOCK_OTHER-SOCK_BSC11188NN3047_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267372/original/SOCK_OTHER-SOCK_BSC11188NN3047_40_outfitter.jpg?1662749061=",
+            "https://bonobos-prod-s3.imgix.net/products/267372/original/SOCK_OTHER-SOCK_BSC11188NN3047_40_outfitter.jpg",
           color_presentation: "Navy Stripe",
         },
       ],
@@ -938,9 +938,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265172/original/SOCK_DRESS-SOCK_BSC11186NR3048_swatch.jpg?1661451888=",
+            "https://bonobos-prod-s3.imgix.net/products/265172/original/SOCK_DRESS-SOCK_BSC11186NR3048_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267308/original/SOCK_DRESS-SOCK_BSC11186NR3048_40_outfitter.jpg?1662749034=",
+            "https://bonobos-prod-s3.imgix.net/products/267308/original/SOCK_DRESS-SOCK_BSC11186NR3048_40_outfitter.jpg",
           color_presentation: "Burgundy Dot",
         },
         {
@@ -955,11 +955,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -974,11 +974,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -993,11 +993,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -1012,11 +1012,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1031,11 +1031,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -1050,17 +1050,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267308/original/SOCK_DRESS-SOCK_BSC11186NR3048_40_outfitter.jpg?1662749034=",
+        "https://bonobos-prod-s3.imgix.net/products/267308/original/SOCK_DRESS-SOCK_BSC11186NR3048_40_outfitter.jpg",
       color_name: "burgundy dot",
       full_price: 15,
       final_sale: false,
@@ -1085,11 +1085,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg?1644248857=",
+            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg?1644254342=",
+            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg?1644248855=",
+            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg",
           color_presentation: "Light Blue Geo",
         },
         {
@@ -1104,11 +1104,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg?1644248832=",
+            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg?1644250222=",
+            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg?1644248830=",
+            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg",
           color_presentation: "Tapestry Blue Dot",
         },
       ],
@@ -1126,9 +1126,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265172/original/SOCK_DRESS-SOCK_BSC11186NR3048_swatch.jpg?1661451888=",
+            "https://bonobos-prod-s3.imgix.net/products/265172/original/SOCK_DRESS-SOCK_BSC11186NR3048_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267308/original/SOCK_DRESS-SOCK_BSC11186NR3048_40_outfitter.jpg?1662749034=",
+            "https://bonobos-prod-s3.imgix.net/products/267308/original/SOCK_DRESS-SOCK_BSC11186NR3048_40_outfitter.jpg",
           color_presentation: "Burgundy Dot",
         },
         {
@@ -1143,11 +1143,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -1162,11 +1162,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -1181,11 +1181,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -1200,11 +1200,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1219,11 +1219,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -1238,11 +1238,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],
@@ -1275,9 +1275,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265168/original/SOCK_DRESS-SOCK_BSC11186NN3043_swatch.jpg?1661451643=",
+            "https://bonobos-prod-s3.imgix.net/products/265168/original/SOCK_DRESS-SOCK_BSC11186NN3043_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267288/original/SOCK_DRESS-SOCK_BSC11186NN3043_40_outfitter.jpg?1662749027=",
+            "https://bonobos-prod-s3.imgix.net/products/267288/original/SOCK_DRESS-SOCK_BSC11186NN3043_40_outfitter.jpg",
           color_presentation: "Blue Pizza",
         },
         {
@@ -1292,11 +1292,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -1311,11 +1311,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -1330,11 +1330,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -1349,11 +1349,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1368,11 +1368,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -1387,17 +1387,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267288/original/SOCK_DRESS-SOCK_BSC11186NN3043_40_outfitter.jpg?1662749027=",
+        "https://bonobos-prod-s3.imgix.net/products/267288/original/SOCK_DRESS-SOCK_BSC11186NN3043_40_outfitter.jpg",
       color_name: "blue pizza",
       full_price: 15,
       final_sale: false,
@@ -1422,11 +1422,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg?1644248857=",
+            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg?1644254342=",
+            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg?1644248855=",
+            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg",
           color_presentation: "Light Blue Geo",
         },
         {
@@ -1441,11 +1441,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg?1644248832=",
+            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg?1644250222=",
+            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg?1644248830=",
+            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg",
           color_presentation: "Tapestry Blue Dot",
         },
       ],
@@ -1463,9 +1463,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265168/original/SOCK_DRESS-SOCK_BSC11186NN3043_swatch.jpg?1661451643=",
+            "https://bonobos-prod-s3.imgix.net/products/265168/original/SOCK_DRESS-SOCK_BSC11186NN3043_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267288/original/SOCK_DRESS-SOCK_BSC11186NN3043_40_outfitter.jpg?1662749027=",
+            "https://bonobos-prod-s3.imgix.net/products/267288/original/SOCK_DRESS-SOCK_BSC11186NN3043_40_outfitter.jpg",
           color_presentation: "Blue Pizza",
         },
         {
@@ -1480,11 +1480,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -1499,11 +1499,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -1518,11 +1518,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -1537,11 +1537,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1556,11 +1556,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -1575,11 +1575,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],
@@ -1612,9 +1612,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265170/original/SOCK_DRESS-SOCK_BSC11186NB3049_swatch.jpg?1661451762=",
+            "https://bonobos-prod-s3.imgix.net/products/265170/original/SOCK_DRESS-SOCK_BSC11186NB3049_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267272/original/SOCK_DRESS-SOCK_BSC11186NB3049_40_outfitter.jpg?1662749020=",
+            "https://bonobos-prod-s3.imgix.net/products/267272/original/SOCK_DRESS-SOCK_BSC11186NB3049_40_outfitter.jpg",
           color_presentation: "Blue Drinks",
         },
         {
@@ -1629,11 +1629,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -1648,11 +1648,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -1667,11 +1667,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -1686,11 +1686,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1705,11 +1705,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -1724,17 +1724,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267272/original/SOCK_DRESS-SOCK_BSC11186NB3049_40_outfitter.jpg?1662749020=",
+        "https://bonobos-prod-s3.imgix.net/products/267272/original/SOCK_DRESS-SOCK_BSC11186NB3049_40_outfitter.jpg",
       color_name: "blue drinks",
       full_price: 15,
       final_sale: false,
@@ -1759,11 +1759,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg?1644248857=",
+            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg?1644254342=",
+            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg?1644248855=",
+            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg",
           color_presentation: "Light Blue Geo",
         },
         {
@@ -1778,11 +1778,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg?1644248832=",
+            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg?1644250222=",
+            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg?1644248830=",
+            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg",
           color_presentation: "Tapestry Blue Dot",
         },
       ],
@@ -1800,9 +1800,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265170/original/SOCK_DRESS-SOCK_BSC11186NB3049_swatch.jpg?1661451762=",
+            "https://bonobos-prod-s3.imgix.net/products/265170/original/SOCK_DRESS-SOCK_BSC11186NB3049_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267272/original/SOCK_DRESS-SOCK_BSC11186NB3049_40_outfitter.jpg?1662749020=",
+            "https://bonobos-prod-s3.imgix.net/products/267272/original/SOCK_DRESS-SOCK_BSC11186NB3049_40_outfitter.jpg",
           color_presentation: "Blue Drinks",
         },
         {
@@ -1817,11 +1817,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -1836,11 +1836,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -1855,11 +1855,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -1874,11 +1874,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1893,11 +1893,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -1912,11 +1912,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],
@@ -1949,9 +1949,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265166/original/SOCK_DRESS-SOCK_BSC11186NG3044_swatch.jpg?1661451587=",
+            "https://bonobos-prod-s3.imgix.net/products/265166/original/SOCK_DRESS-SOCK_BSC11186NG3044_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267325/original/SOCK_DRESS-SOCK_BSC11186NG3044_40_outfitter.jpg?1662749040=",
+            "https://bonobos-prod-s3.imgix.net/products/267325/original/SOCK_DRESS-SOCK_BSC11186NG3044_40_outfitter.jpg",
           color_presentation: "Mineral Blue Skunks",
         },
         {
@@ -1966,11 +1966,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -1985,11 +1985,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -2004,11 +2004,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -2023,11 +2023,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -2042,11 +2042,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -2061,17 +2061,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267325/original/SOCK_DRESS-SOCK_BSC11186NG3044_40_outfitter.jpg?1662749040=",
+        "https://bonobos-prod-s3.imgix.net/products/267325/original/SOCK_DRESS-SOCK_BSC11186NG3044_40_outfitter.jpg",
       color_name: "mineral blue skunks",
       full_price: 15,
       final_sale: false,
@@ -2096,11 +2096,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg?1644248857=",
+            "https://bonobos-prod-s3.imgix.net/products/237700/original/SOCK_DRESS-SOCK_BSC10765NB2105_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg?1644254342=",
+            "https://bonobos-prod-s3.imgix.net/products/237775/original/SOCK_DRESS-SOCK_BSC10765NB2105_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg?1644248855=",
+            "https://bonobos-prod-s3.imgix.net/products/237699/original/SOCK_DRESS-SOCK_BSC10765NB2105_40_outfitter.jpg",
           color_presentation: "Light Blue Geo",
         },
         {
@@ -2115,11 +2115,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg?1644248832=",
+            "https://bonobos-prod-s3.imgix.net/products/237691/original/SOCK_DRESS-SOCK_BSC10765NB2106_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg?1644250222=",
+            "https://bonobos-prod-s3.imgix.net/products/237769/original/SOCK_DRESS-SOCK_BSC10765NB2106_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg?1644248830=",
+            "https://bonobos-prod-s3.imgix.net/products/237690/original/SOCK_DRESS-SOCK_BSC10765NB2106_40_outfitter.jpg",
           color_presentation: "Tapestry Blue Dot",
         },
       ],
@@ -2137,9 +2137,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265166/original/SOCK_DRESS-SOCK_BSC11186NG3044_swatch.jpg?1661451587=",
+            "https://bonobos-prod-s3.imgix.net/products/265166/original/SOCK_DRESS-SOCK_BSC11186NG3044_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267325/original/SOCK_DRESS-SOCK_BSC11186NG3044_40_outfitter.jpg?1662749040=",
+            "https://bonobos-prod-s3.imgix.net/products/267325/original/SOCK_DRESS-SOCK_BSC11186NG3044_40_outfitter.jpg",
           color_presentation: "Mineral Blue Skunks",
         },
         {
@@ -2154,11 +2154,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg?1636657877=",
+            "https://bonobos-prod-s3.imgix.net/products/232849/original/SOCK_OTHER-SOCK_BAC04568XBK669_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg?1572383429=",
+            "https://bonobos-prod-s3.imgix.net/products/152479/original/SOCK_DRESS-SOCK_22847-BK669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg?1634305062=",
+            "https://bonobos-prod-s3.imgix.net/products/227269/original/SOCK_OTHER-SOCK_BAC04568XBK669_1_category-outfitter.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -2173,11 +2173,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg?1636657807=",
+            "https://bonobos-prod-s3.imgix.net/products/232847/original/SOCK_DRESS-SOCK_BAC04569XBK594_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg?1556664395=",
+            "https://bonobos-prod-s3.imgix.net/products/129460/original/Mens-Accessories_Socks_22847-BK594_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg?1634305070=",
+            "https://bonobos-prod-s3.imgix.net/products/227271/original/SOCK_DRESS-SOCK_BAC04569XBK594_1_category-outfitter.jpg",
           color_presentation: "Charcoal Pin Dot",
         },
         {
@@ -2192,11 +2192,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg?1636059902=",
+            "https://bonobos-prod-s3.imgix.net/products/231893/original/SOCK_DRESS-SOCK_BAC04569XMVA44_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg?1535578351=",
+            "https://bonobos-prod-s3.imgix.net/products/75426/original/Accessories_Socks_22847-MVA44_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg?1634305099=",
+            "https://bonobos-prod-s3.imgix.net/products/227279/original/SOCK_DRESS-SOCK_BAC04569XMVA44_1_category-outfitter.jpg",
           color_presentation: "Navy Pin Dot",
         },
         {
@@ -2211,11 +2211,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg?1636658048=",
+            "https://bonobos-prod-s3.imgix.net/products/232853/original/SOCK_DRESS-SOCK_BAC04569XBNB95_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg?1535578148=",
+            "https://bonobos-prod-s3.imgix.net/products/75424/original/Accessories_Socks_22847-BNB95_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg?1634305084=",
+            "https://bonobos-prod-s3.imgix.net/products/227275/original/SOCK_DRESS-SOCK_BAC04569XBNB95_1_category-outfitter.jpg",
           color_presentation: "Navy",
         },
         {
@@ -2230,11 +2230,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg?1635979525=",
+            "https://bonobos-prod-s3.imgix.net/products/230973/original/SOCK_DRESS-SOCK_BAC04569XBK529_90_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg?1535578047=",
+            "https://bonobos-prod-s3.imgix.net/products/75420/original/Accessories_Socks_22847-BK529_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg?1635979522=",
+            "https://bonobos-prod-s3.imgix.net/products/230972/original/SOCK_DRESS-SOCK_BAC04569XBK529_40_category-outfitter.jpg",
           color_presentation: "Black",
         },
         {
@@ -2249,11 +2249,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg?1636657840=",
+            "https://bonobos-prod-s3.imgix.net/products/232848/original/SOCK_DRESS-SOCK_BAC04569XBK595_90_hover.jpeg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg?1556664565=",
+            "https://bonobos-prod-s3.imgix.net/products/129472/original/Mens-Accessories_Socks_22847-BK595_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg?1634305077=",
+            "https://bonobos-prod-s3.imgix.net/products/227273/original/SOCK_DRESS-SOCK_BAC04569XBK595_1_category-outfitter.jpg",
           color_presentation: "Black Pin Dot",
         },
       ],

@@ -1,29 +1,5 @@
 import tempCategories from "./tempCategories";
-// import tempProducts from "./tempProducts";
-import newProducts from "./products/new";
-
-const products = newProducts.map((product) => {
-  return {
-    id: product.data.id,
-    categoryId: product.categoryId,
-    name: product.value,
-    slug: product.data.url,
-    imageUrl: product.data.image_url,
-    price: product.data.full_price,
-    description: product.data.description,
-    variants: product?.data?.swatches?.map((variant) => {
-      return {
-        id: Math.random() * 100 + Date.now(),
-        productId: product.data.id,
-        colorName: variant.color_name,
-        price: variant.current_price,
-        imageUrl: variant.primary_image_url,
-        hoverImageUrl: variant.hover_image_url,
-        swatchImageUrl: variant.swatch_image_url,
-      };
-    }),
-  };
-});
+import products from "./products";
 
 export const resolvers = {
   Query: {
@@ -34,6 +10,10 @@ export const resolvers = {
       });
     },
     products: () => products,
+    product: (parent: any, args: any, context: any) =>
+      products.find((product) => {
+        return product.id === args.id;
+      }),
     categories: () => tempCategories,
 
     // TODO: Replace type any
@@ -56,6 +36,16 @@ export const resolvers = {
       return products.filter((product) => {
         return product.categoryId === categoryId;
       });
+    },
+  },
+
+  Product: {
+    variants: (parent: any, args: any, context: any) => {
+      const productId = parent.id;
+
+      return products.find((product) => {
+        return product.id === productId;
+      })?.variants;
     },
   },
 };

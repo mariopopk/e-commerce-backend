@@ -18,11 +18,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266352/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_2_hover.jpg?1662568324=",
+            "https://bonobos-prod-s3.imgix.net/products/266352/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258601/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_swatch.jpg?1659967648=",
+            "https://bonobos-prod-s3.imgix.net/products/258601/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266353/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_3_category.jpg?1662568328=",
+            "https://bonobos-prod-s3.imgix.net/products/266353/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_3_category.jpg",
           color_presentation: "Nantucket Blue",
         },
         {
@@ -37,11 +37,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg?1638813876=",
+            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg?1612473800=",
+            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg?1638813806=",
+            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg",
           color_presentation: "Rockville Charcoal",
         },
         {
@@ -56,11 +56,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg?1635980427=",
+            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg?1614187632=",
+            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg?1635980430=",
+            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg",
           color_presentation: "Salem Jet Black",
         },
         {
@@ -75,11 +75,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg?1635980489=",
+            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg?1612473917=",
+            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg?1635980476=",
+            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg",
           color_presentation: "Amarillo Tan",
         },
         {
@@ -94,11 +94,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg?1632868483=",
+            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg?1629748304=",
+            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg?1632868478=",
+            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg",
           color_presentation: "Montclair Cinnamon",
         },
         {
@@ -113,11 +113,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg?1632868541=",
+            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg?1629748343=",
+            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg?1632868520=",
+            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg",
           color_presentation: "Anchorage Dark Navy",
         },
         {
@@ -132,17 +132,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg?1632868662=",
+            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg?1629748420=",
+            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg?1632868641=",
+            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg",
           color_presentation: "Walla Walla Walnut",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266353/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_3_category.jpg?1662568328=",
+        "https://bonobos-prod-s3.imgix.net/products/266353/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_3_category.jpg",
       full_price: 119,
       final_sale: false,
       color_name: "nantucket blue",
@@ -154,7 +154,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266352/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_2_hover.jpg?1662568324=",
+        "https://bonobos-prod-s3.imgix.net/products/266352/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -168,11 +168,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239681/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_2_hover.jpg?1645025955=",
+            "https://bonobos-prod-s3.imgix.net/products/239681/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237767/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_swatch.jpg?1644250169=",
+            "https://bonobos-prod-s3.imgix.net/products/237767/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239682/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_3_category.jpg?1645025959=",
+            "https://bonobos-prod-s3.imgix.net/products/239682/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_3_category.jpg",
           color_presentation: "Garden Grove Green",
         },
         {
@@ -187,11 +187,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239677/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_5_hover.jpg?1645025940=",
+            "https://bonobos-prod-s3.imgix.net/products/239677/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237765/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_swatch.jpg?1644250136=",
+            "https://bonobos-prod-s3.imgix.net/products/237765/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239676/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_3_category.jpg?1645025937=",
+            "https://bonobos-prod-s3.imgix.net/products/239676/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_3_category.jpg",
           color_presentation: "Bakersfield Blue",
         },
       ],
@@ -210,11 +210,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266352/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_2_hover.jpg?1662568324=",
+            "https://bonobos-prod-s3.imgix.net/products/266352/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258601/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_swatch.jpg?1659967648=",
+            "https://bonobos-prod-s3.imgix.net/products/258601/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266353/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_3_category.jpg?1662568328=",
+            "https://bonobos-prod-s3.imgix.net/products/266353/original/DENIM_5-POCKET-JEAN_BDB05261S1221B_3_category.jpg",
           color_presentation: "Nantucket Blue",
         },
         {
@@ -229,11 +229,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg?1638813876=",
+            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg?1612473800=",
+            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg?1638813806=",
+            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg",
           color_presentation: "Rockville Charcoal",
         },
         {
@@ -248,11 +248,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg?1635980427=",
+            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg?1614187632=",
+            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg?1635980430=",
+            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg",
           color_presentation: "Salem Jet Black",
         },
         {
@@ -267,11 +267,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg?1635980489=",
+            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg?1612473917=",
+            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg?1635980476=",
+            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg",
           color_presentation: "Amarillo Tan",
         },
         {
@@ -286,11 +286,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg?1632868483=",
+            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg?1629748304=",
+            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg?1632868478=",
+            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg",
           color_presentation: "Montclair Cinnamon",
         },
         {
@@ -305,11 +305,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg?1632868541=",
+            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg?1629748343=",
+            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg?1632868520=",
+            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg",
           color_presentation: "Anchorage Dark Navy",
         },
         {
@@ -324,11 +324,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg?1632868662=",
+            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg?1629748420=",
+            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg?1632868641=",
+            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg",
           color_presentation: "Walla Walla Walnut",
         },
       ],
@@ -360,11 +360,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg?1662749047=",
+            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg?1658251365=",
+            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg",
           color_presentation: "Charcoal Jaspe",
         },
         {
@@ -379,11 +379,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg?1597096959=",
+            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg?1592842523=",
+            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg?1597096950=",
+            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg",
           color_presentation: "Gnarled Pine",
         },
         {
@@ -398,11 +398,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg?1611341235=",
+            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg?1593465874=",
+            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg?1611341241=",
+            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg",
           color_presentation: "Wheat",
         },
         {
@@ -417,11 +417,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg?1613160325=",
+            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg?1611792437=",
+            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg?1613160314=",
+            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg",
           color_presentation: "Sage Green",
         },
         {
@@ -436,11 +436,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg?1632923757=",
+            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg?1628602826=",
+            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg?1632923762=",
+            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -455,11 +455,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg?1645629243=",
+            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg?1645638598=",
+            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg?1645629236=",
+            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg",
           color_presentation: "Blue Floral",
         },
         {
@@ -474,17 +474,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg?1660846860=",
+            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg?1658251488=",
+            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg?1660846863=",
+            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg",
           color_presentation: "Navy Herringbone",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg?1662749049=",
+        "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "charcoal jaspe",
@@ -496,7 +496,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg?1662749047=",
+        "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -510,11 +510,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg?1646935170=",
+            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg?1645720032=",
+            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg?1646935167=",
+            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg",
           color_presentation: "Off White",
         },
         {
@@ -529,11 +529,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223728/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_2_hover.jpg?1632863870=",
+            "https://bonobos-prod-s3.imgix.net/products/223728/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218697/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_swatch.jpg?1628602958=",
+            "https://bonobos-prod-s3.imgix.net/products/218697/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223729/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_3_category.jpg?1632863874=",
+            "https://bonobos-prod-s3.imgix.net/products/223729/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_3_category.jpg",
           color_presentation: "Olive Shrub",
         },
         {
@@ -548,11 +548,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240361/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_5_hover.jpg?1645719780=",
+            "https://bonobos-prod-s3.imgix.net/products/240361/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240381/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_swatch.jpg?1645719913=",
+            "https://bonobos-prod-s3.imgix.net/products/240381/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240358/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_1_category.jpg?1645719769=",
+            "https://bonobos-prod-s3.imgix.net/products/240358/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_1_category.jpg",
           color_presentation: "Bluefin",
         },
         {
@@ -567,11 +567,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241164/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_2_hover.jpg?1646935197=",
+            "https://bonobos-prod-s3.imgix.net/products/241164/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240379/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_swatch.jpg?1645719895=",
+            "https://bonobos-prod-s3.imgix.net/products/240379/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241165/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_3_category.jpg?1646935199=",
+            "https://bonobos-prod-s3.imgix.net/products/241165/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_3_category.jpg",
           color_presentation: "Pale Oak",
         },
         {
@@ -586,11 +586,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245714/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_3_hover.jpg?1649689163=",
+            "https://bonobos-prod-s3.imgix.net/products/245714/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244776/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_swatch.jpg?1649340891=",
+            "https://bonobos-prod-s3.imgix.net/products/244776/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245713/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_1_category.jpg?1649689158=",
+            "https://bonobos-prod-s3.imgix.net/products/245713/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_1_category.jpg",
           color_presentation: "Bright Blue Seersucker",
         },
         {
@@ -605,11 +605,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263427/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_5_hover.jpg?1660846799=",
+            "https://bonobos-prod-s3.imgix.net/products/263427/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251848/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_swatch.jpg?1653416425=",
+            "https://bonobos-prod-s3.imgix.net/products/251848/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263425/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_3_category.jpg?1660846794=",
+            "https://bonobos-prod-s3.imgix.net/products/263425/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_3_category.jpg",
           color_presentation: "Persimmon Seersucker",
         },
       ],
@@ -627,11 +627,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg?1597096959=",
+            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg?1592842523=",
+            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg?1597096950=",
+            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg",
           color_presentation: "Gnarled Pine",
         },
         {
@@ -646,11 +646,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg?1611341235=",
+            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg?1593465874=",
+            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg?1611341241=",
+            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg",
           color_presentation: "Wheat",
         },
         {
@@ -665,11 +665,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg?1613160325=",
+            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg?1611792437=",
+            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg?1613160314=",
+            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg",
           color_presentation: "Sage Green",
         },
         {
@@ -684,11 +684,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg?1645629243=",
+            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg?1645638598=",
+            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg?1645629236=",
+            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg",
           color_presentation: "Blue Floral",
         },
         {
@@ -703,11 +703,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242269/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_2_hover.jpg?1648062278=",
+            "https://bonobos-prod-s3.imgix.net/products/242269/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240383/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_swatch.jpg?1645719942=",
+            "https://bonobos-prod-s3.imgix.net/products/240383/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242268/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_1_category.jpg?1648062275=",
+            "https://bonobos-prod-s3.imgix.net/products/242268/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_1_category.jpg",
           color_presentation: "Sea Spray",
         },
         {
@@ -722,11 +722,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206914/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_2_hover.jpg?1611341315=",
+            "https://bonobos-prod-s3.imgix.net/products/206914/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/201115/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_swatch.jpg?1602712786=",
+            "https://bonobos-prod-s3.imgix.net/products/201115/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206913/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_1_category.jpg?1611341310=",
+            "https://bonobos-prod-s3.imgix.net/products/206913/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_1_category.jpg",
           color_presentation: "Sapling",
         },
         {
@@ -741,11 +741,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215820/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_3_hover.jpg?1621440228=",
+            "https://bonobos-prod-s3.imgix.net/products/215820/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/217111/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_swatch.jpg?1623690557=",
+            "https://bonobos-prod-s3.imgix.net/products/217111/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215818/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_1_category.jpg?1621440222=",
+            "https://bonobos-prod-s3.imgix.net/products/215818/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_1_category.jpg",
           color_presentation: "Crab Red",
         },
       ],
@@ -762,11 +762,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg?1662749047=",
+            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg?1658251365=",
+            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg",
           color_presentation: "Charcoal Jaspe",
         },
         {
@@ -781,11 +781,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg?1632923757=",
+            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg?1628602826=",
+            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg?1632923762=",
+            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -800,11 +800,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg?1660846860=",
+            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg?1658251488=",
+            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg?1660846863=",
+            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg",
           color_presentation: "Navy Herringbone",
         },
         {
@@ -819,11 +819,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263469/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_4_hover.jpg?1660846942=",
+            "https://bonobos-prod-s3.imgix.net/products/263469/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219700/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_swatch.jpg?1630536209=",
+            "https://bonobos-prod-s3.imgix.net/products/219700/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263466/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_3_category.jpg?1660846926=",
+            "https://bonobos-prod-s3.imgix.net/products/263466/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_3_category.jpg",
           color_presentation: "Taupe Herringbone",
         },
         {
@@ -838,11 +838,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225407/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_2_hover.jpg?1632929681=",
+            "https://bonobos-prod-s3.imgix.net/products/225407/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218699/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_swatch.jpg?1628603003=",
+            "https://bonobos-prod-s3.imgix.net/products/218699/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225406/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_1_category.jpg?1632929675=",
+            "https://bonobos-prod-s3.imgix.net/products/225406/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_1_category.jpg",
           color_presentation: "Deep Blue",
         },
         {
@@ -857,11 +857,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224660/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_2_hover.jpg?1632923796=",
+            "https://bonobos-prod-s3.imgix.net/products/224660/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218695/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_swatch.jpg?1628602933=",
+            "https://bonobos-prod-s3.imgix.net/products/218695/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224661/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_3_category.jpg?1632923801=",
+            "https://bonobos-prod-s3.imgix.net/products/224661/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_3_category.jpg",
           color_presentation: "Steel Grey",
         },
         {
@@ -876,11 +876,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225393/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_2_hover.jpg?1632929599=",
+            "https://bonobos-prod-s3.imgix.net/products/225393/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219169/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_swatch.jpg?1629821189=",
+            "https://bonobos-prod-s3.imgix.net/products/219169/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225392/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_1_category.jpg?1632929594=",
+            "https://bonobos-prod-s3.imgix.net/products/225392/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_1_category.jpg",
           color_presentation: "Charcoal Dobby",
         },
       ],
@@ -912,11 +912,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264034/original/PANT_5-POCKET-PANT_GPT10994S1239G_5_hover.jpg?1660849160=",
+            "https://bonobos-prod-s3.imgix.net/products/264034/original/PANT_5-POCKET-PANT_GPT10994S1239G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256980/original/PANT_5-POCKET-PANT_GPT10994S1239G_swatch.jpg?1658253518=",
+            "https://bonobos-prod-s3.imgix.net/products/256980/original/PANT_5-POCKET-PANT_GPT10994S1239G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264032/original/PANT_5-POCKET-PANT_GPT10994S1239G_3_category.jpg?1660849154=",
+            "https://bonobos-prod-s3.imgix.net/products/264032/original/PANT_5-POCKET-PANT_GPT10994S1239G_3_category.jpg",
           color_presentation: "Ash Grey",
         },
         {
@@ -931,11 +931,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250098/original/PANT_ACTIVE-PANT_GPT10994S1092N_5_hover.jpg?1652364414=",
+            "https://bonobos-prod-s3.imgix.net/products/250098/original/PANT_ACTIVE-PANT_GPT10994S1092N_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238188/original/PANT_ACTIVE-PANT_GPT10994S1092N_swatch.jpg?1644509183=",
+            "https://bonobos-prod-s3.imgix.net/products/238188/original/PANT_ACTIVE-PANT_GPT10994S1092N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250096/original/PANT_ACTIVE-PANT_GPT10994S1092N_3_category.jpg?1652364405=",
+            "https://bonobos-prod-s3.imgix.net/products/250096/original/PANT_ACTIVE-PANT_GPT10994S1092N_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -950,11 +950,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250134/original/PANT_ACTIVE-PANT_GPT10994S1133G_5_hover.jpg?1652364582=",
+            "https://bonobos-prod-s3.imgix.net/products/250134/original/PANT_ACTIVE-PANT_GPT10994S1133G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238682/original/PANT_ACTIVE-PANT_GPT10994S1133G_swatch.jpg?1644854708=",
+            "https://bonobos-prod-s3.imgix.net/products/238682/original/PANT_ACTIVE-PANT_GPT10994S1133G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250131/original/PANT_ACTIVE-PANT_GPT10994S1133G_1_category.jpg?1652364570=",
+            "https://bonobos-prod-s3.imgix.net/products/250131/original/PANT_ACTIVE-PANT_GPT10994S1133G_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -969,11 +969,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250878/original/PANT_5-POCKET-PANT_GPT10994S1197B_5_hover.jpg?1652902403=",
+            "https://bonobos-prod-s3.imgix.net/products/250878/original/PANT_5-POCKET-PANT_GPT10994S1197B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248502/original/PANT_5-POCKET-PANT_GPT10994S1197B_swatch.jpg?1651759493=",
+            "https://bonobos-prod-s3.imgix.net/products/248502/original/PANT_5-POCKET-PANT_GPT10994S1197B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250875/original/PANT_5-POCKET-PANT_GPT10994S1197B_3_category.jpg?1652902396=",
+            "https://bonobos-prod-s3.imgix.net/products/250875/original/PANT_5-POCKET-PANT_GPT10994S1197B_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -988,11 +988,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242887/original/PANT_ACTIVE-PANT_GPT10994S1177B_2_hover.jpg?1648141629=",
+            "https://bonobos-prod-s3.imgix.net/products/242887/original/PANT_ACTIVE-PANT_GPT10994S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238194/original/PANT_ACTIVE-PANT_GPT10994S1177B_swatch.jpg?1644509475=",
+            "https://bonobos-prod-s3.imgix.net/products/238194/original/PANT_ACTIVE-PANT_GPT10994S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242886/original/PANT_ACTIVE-PANT_GPT10994S1177B_1_category.jpg?1648141626=",
+            "https://bonobos-prod-s3.imgix.net/products/242886/original/PANT_ACTIVE-PANT_GPT10994S1177B_1_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -1007,11 +1007,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250892/original/PANT_5-POCKET-PANT_GPT10994S1185P_5_hover.jpg?1652902433=",
+            "https://bonobos-prod-s3.imgix.net/products/250892/original/PANT_5-POCKET-PANT_GPT10994S1185P_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248504/original/PANT_5-POCKET-PANT_GPT10994S1185P_swatch.jpg?1651759561=",
+            "https://bonobos-prod-s3.imgix.net/products/248504/original/PANT_5-POCKET-PANT_GPT10994S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250886/original/PANT_5-POCKET-PANT_GPT10994S1185P_1_category.jpg?1652902421=",
+            "https://bonobos-prod-s3.imgix.net/products/250886/original/PANT_5-POCKET-PANT_GPT10994S1185P_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -1026,17 +1026,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250143/original/PANT_ACTIVE-PANT_GPT10994S1160K_5_hover.jpg?1652364621=",
+            "https://bonobos-prod-s3.imgix.net/products/250143/original/PANT_ACTIVE-PANT_GPT10994S1160K_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238591/original/PANT_ACTIVE-PANT_GPT10994S1160K_swatch.jpg?1644598751=",
+            "https://bonobos-prod-s3.imgix.net/products/238591/original/PANT_ACTIVE-PANT_GPT10994S1160K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250140/original/PANT_ACTIVE-PANT_GPT10994S1160K_1_category.jpg?1652364609=",
+            "https://bonobos-prod-s3.imgix.net/products/250140/original/PANT_ACTIVE-PANT_GPT10994S1160K_1_category.jpg",
           color_presentation: "Khaki Heather",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264032/original/PANT_5-POCKET-PANT_GPT10994S1239G_3_category.jpg?1660849154=",
+        "https://bonobos-prod-s3.imgix.net/products/264032/original/PANT_5-POCKET-PANT_GPT10994S1239G_3_category.jpg",
       full_price: 119,
       final_sale: false,
       color_name: "ash grey",
@@ -1049,7 +1049,7 @@ export default [
       number_of_fits: 4,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264034/original/PANT_5-POCKET-PANT_GPT10994S1239G_5_hover.jpg?1660849160=",
+        "https://bonobos-prod-s3.imgix.net/products/264034/original/PANT_5-POCKET-PANT_GPT10994S1239G_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1063,11 +1063,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250878/original/PANT_5-POCKET-PANT_GPT10994S1197B_5_hover.jpg?1652902403=",
+            "https://bonobos-prod-s3.imgix.net/products/250878/original/PANT_5-POCKET-PANT_GPT10994S1197B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248502/original/PANT_5-POCKET-PANT_GPT10994S1197B_swatch.jpg?1651759493=",
+            "https://bonobos-prod-s3.imgix.net/products/248502/original/PANT_5-POCKET-PANT_GPT10994S1197B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250875/original/PANT_5-POCKET-PANT_GPT10994S1197B_3_category.jpg?1652902396=",
+            "https://bonobos-prod-s3.imgix.net/products/250875/original/PANT_5-POCKET-PANT_GPT10994S1197B_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -1082,11 +1082,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242887/original/PANT_ACTIVE-PANT_GPT10994S1177B_2_hover.jpg?1648141629=",
+            "https://bonobos-prod-s3.imgix.net/products/242887/original/PANT_ACTIVE-PANT_GPT10994S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238194/original/PANT_ACTIVE-PANT_GPT10994S1177B_swatch.jpg?1644509475=",
+            "https://bonobos-prod-s3.imgix.net/products/238194/original/PANT_ACTIVE-PANT_GPT10994S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242886/original/PANT_ACTIVE-PANT_GPT10994S1177B_1_category.jpg?1648141626=",
+            "https://bonobos-prod-s3.imgix.net/products/242886/original/PANT_ACTIVE-PANT_GPT10994S1177B_1_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -1101,11 +1101,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250892/original/PANT_5-POCKET-PANT_GPT10994S1185P_5_hover.jpg?1652902433=",
+            "https://bonobos-prod-s3.imgix.net/products/250892/original/PANT_5-POCKET-PANT_GPT10994S1185P_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248504/original/PANT_5-POCKET-PANT_GPT10994S1185P_swatch.jpg?1651759561=",
+            "https://bonobos-prod-s3.imgix.net/products/248504/original/PANT_5-POCKET-PANT_GPT10994S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250886/original/PANT_5-POCKET-PANT_GPT10994S1185P_1_category.jpg?1652902421=",
+            "https://bonobos-prod-s3.imgix.net/products/250886/original/PANT_5-POCKET-PANT_GPT10994S1185P_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -1120,11 +1120,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250143/original/PANT_ACTIVE-PANT_GPT10994S1160K_5_hover.jpg?1652364621=",
+            "https://bonobos-prod-s3.imgix.net/products/250143/original/PANT_ACTIVE-PANT_GPT10994S1160K_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238591/original/PANT_ACTIVE-PANT_GPT10994S1160K_swatch.jpg?1644598751=",
+            "https://bonobos-prod-s3.imgix.net/products/238591/original/PANT_ACTIVE-PANT_GPT10994S1160K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250140/original/PANT_ACTIVE-PANT_GPT10994S1160K_1_category.jpg?1652364609=",
+            "https://bonobos-prod-s3.imgix.net/products/250140/original/PANT_ACTIVE-PANT_GPT10994S1160K_1_category.jpg",
           color_presentation: "Khaki Heather",
         },
         {
@@ -1139,11 +1139,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250116/original/PANT_ACTIVE-PANT_GPT10994S1122G_5_hover.jpg?1652364497=",
+            "https://bonobos-prod-s3.imgix.net/products/250116/original/PANT_ACTIVE-PANT_GPT10994S1122G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238192/original/PANT_ACTIVE-PANT_GPT10994S1122G_swatch.jpg?1644509442=",
+            "https://bonobos-prod-s3.imgix.net/products/238192/original/PANT_ACTIVE-PANT_GPT10994S1122G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250114/original/PANT_ACTIVE-PANT_GPT10994S1122G_3_category.jpg?1652364488=",
+            "https://bonobos-prod-s3.imgix.net/products/250114/original/PANT_ACTIVE-PANT_GPT10994S1122G_3_category.jpg",
           color_presentation: "Wild Olive",
         },
         {
@@ -1158,11 +1158,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250125/original/PANT_ACTIVE-PANT_GPT10994S1131G_5_hover.jpg?1652364540=",
+            "https://bonobos-prod-s3.imgix.net/products/250125/original/PANT_ACTIVE-PANT_GPT10994S1131G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238190/original/PANT_ACTIVE-PANT_GPT10994S1131G_swatch.jpg?1644509404=",
+            "https://bonobos-prod-s3.imgix.net/products/238190/original/PANT_ACTIVE-PANT_GPT10994S1131G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250122/original/PANT_ACTIVE-PANT_GPT10994S1131G_1_category.jpg?1652364527=",
+            "https://bonobos-prod-s3.imgix.net/products/250122/original/PANT_ACTIVE-PANT_GPT10994S1131G_1_category.jpg",
           color_presentation: "Moonrock",
         },
         {
@@ -1177,11 +1177,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250107/original/PANT_ACTIVE-PANT_GPT10994S1094N_5_hover.jpg?1652364456=",
+            "https://bonobos-prod-s3.imgix.net/products/250107/original/PANT_ACTIVE-PANT_GPT10994S1094N_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238589/original/PANT_ACTIVE-PANT_GPT10994S1094N_swatch.jpg?1644598707=",
+            "https://bonobos-prod-s3.imgix.net/products/238589/original/PANT_ACTIVE-PANT_GPT10994S1094N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250104/original/PANT_ACTIVE-PANT_GPT10994S1094N_1_category.jpg?1652364441=",
+            "https://bonobos-prod-s3.imgix.net/products/250104/original/PANT_ACTIVE-PANT_GPT10994S1094N_1_category.jpg",
           color_presentation: "Downpour Heather",
         },
       ],
@@ -1200,11 +1200,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264034/original/PANT_5-POCKET-PANT_GPT10994S1239G_5_hover.jpg?1660849160=",
+            "https://bonobos-prod-s3.imgix.net/products/264034/original/PANT_5-POCKET-PANT_GPT10994S1239G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256980/original/PANT_5-POCKET-PANT_GPT10994S1239G_swatch.jpg?1658253518=",
+            "https://bonobos-prod-s3.imgix.net/products/256980/original/PANT_5-POCKET-PANT_GPT10994S1239G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264032/original/PANT_5-POCKET-PANT_GPT10994S1239G_3_category.jpg?1660849154=",
+            "https://bonobos-prod-s3.imgix.net/products/264032/original/PANT_5-POCKET-PANT_GPT10994S1239G_3_category.jpg",
           color_presentation: "Ash Grey",
         },
         {
@@ -1219,11 +1219,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250098/original/PANT_ACTIVE-PANT_GPT10994S1092N_5_hover.jpg?1652364414=",
+            "https://bonobos-prod-s3.imgix.net/products/250098/original/PANT_ACTIVE-PANT_GPT10994S1092N_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238188/original/PANT_ACTIVE-PANT_GPT10994S1092N_swatch.jpg?1644509183=",
+            "https://bonobos-prod-s3.imgix.net/products/238188/original/PANT_ACTIVE-PANT_GPT10994S1092N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250096/original/PANT_ACTIVE-PANT_GPT10994S1092N_3_category.jpg?1652364405=",
+            "https://bonobos-prod-s3.imgix.net/products/250096/original/PANT_ACTIVE-PANT_GPT10994S1092N_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1238,11 +1238,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250134/original/PANT_ACTIVE-PANT_GPT10994S1133G_5_hover.jpg?1652364582=",
+            "https://bonobos-prod-s3.imgix.net/products/250134/original/PANT_ACTIVE-PANT_GPT10994S1133G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238682/original/PANT_ACTIVE-PANT_GPT10994S1133G_swatch.jpg?1644854708=",
+            "https://bonobos-prod-s3.imgix.net/products/238682/original/PANT_ACTIVE-PANT_GPT10994S1133G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250131/original/PANT_ACTIVE-PANT_GPT10994S1133G_1_category.jpg?1652364570=",
+            "https://bonobos-prod-s3.imgix.net/products/250131/original/PANT_ACTIVE-PANT_GPT10994S1133G_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -1257,11 +1257,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250085/original/PANT_ACTIVE-PANT_GPT10994S1074K_5_hover.jpg?1652364374=",
+            "https://bonobos-prod-s3.imgix.net/products/250085/original/PANT_ACTIVE-PANT_GPT10994S1074K_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238186/original/PANT_ACTIVE-PANT_GPT10994S1074K_swatch.jpg?1644509148=",
+            "https://bonobos-prod-s3.imgix.net/products/238186/original/PANT_ACTIVE-PANT_GPT10994S1074K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250079/original/PANT_ACTIVE-PANT_GPT10994S1074K_1_category.jpg?1652364362=",
+            "https://bonobos-prod-s3.imgix.net/products/250079/original/PANT_ACTIVE-PANT_GPT10994S1074K_1_category.jpg",
           color_presentation: "Oak Khaki",
         },
         {
@@ -1276,11 +1276,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264025/original/PANT_5-POCKET-PANT_GPT10994S1204P_2_hover.jpg?1660849133=",
+            "https://bonobos-prod-s3.imgix.net/products/264025/original/PANT_5-POCKET-PANT_GPT10994S1204P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259599/original/PANT_5-POCKET-PANT_GPT10994S1204P_swatch.jpg?1660227699=",
+            "https://bonobos-prod-s3.imgix.net/products/259599/original/PANT_5-POCKET-PANT_GPT10994S1204P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264026/original/PANT_5-POCKET-PANT_GPT10994S1204P_3_category.jpg?1660849135=",
+            "https://bonobos-prod-s3.imgix.net/products/264026/original/PANT_5-POCKET-PANT_GPT10994S1204P_3_category.jpg",
           color_presentation: "Heather Astral Aura",
         },
       ],
@@ -1312,11 +1312,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263800/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_5_hover.jpg?1660848274=",
+            "https://bonobos-prod-s3.imgix.net/products/263800/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258603/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_swatch.jpg?1659967680=",
+            "https://bonobos-prod-s3.imgix.net/products/258603/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263798/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_3_category.jpg?1660848267=",
+            "https://bonobos-prod-s3.imgix.net/products/263798/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_3_category.jpg",
           color_presentation: "Calexico Lizard",
         },
         {
@@ -1331,11 +1331,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg?1638813876=",
+            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg?1612473800=",
+            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg?1638813806=",
+            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg",
           color_presentation: "Rockville Charcoal",
         },
         {
@@ -1350,11 +1350,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg?1635980427=",
+            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg?1614187632=",
+            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg?1635980430=",
+            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg",
           color_presentation: "Salem Jet Black",
         },
         {
@@ -1369,11 +1369,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg?1635980489=",
+            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg?1612473917=",
+            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg?1635980476=",
+            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg",
           color_presentation: "Amarillo Tan",
         },
         {
@@ -1388,11 +1388,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg?1632868483=",
+            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg?1629748304=",
+            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg?1632868478=",
+            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg",
           color_presentation: "Montclair Cinnamon",
         },
         {
@@ -1407,11 +1407,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg?1632868541=",
+            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg?1629748343=",
+            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg?1632868520=",
+            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg",
           color_presentation: "Anchorage Dark Navy",
         },
         {
@@ -1426,17 +1426,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg?1632868662=",
+            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg?1629748420=",
+            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg?1632868641=",
+            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg",
           color_presentation: "Walla Walla Walnut",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263798/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_3_category.jpg?1660848267=",
+        "https://bonobos-prod-s3.imgix.net/products/263798/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_3_category.jpg",
       full_price: 119,
       final_sale: false,
       color_name: "calexico lizard",
@@ -1448,7 +1448,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263800/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_5_hover.jpg?1660848274=",
+        "https://bonobos-prod-s3.imgix.net/products/263800/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1462,11 +1462,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239681/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_2_hover.jpg?1645025955=",
+            "https://bonobos-prod-s3.imgix.net/products/239681/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237767/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_swatch.jpg?1644250169=",
+            "https://bonobos-prod-s3.imgix.net/products/237767/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239682/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_3_category.jpg?1645025959=",
+            "https://bonobos-prod-s3.imgix.net/products/239682/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_3_category.jpg",
           color_presentation: "Garden Grove Green",
         },
         {
@@ -1481,11 +1481,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239677/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_5_hover.jpg?1645025940=",
+            "https://bonobos-prod-s3.imgix.net/products/239677/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237765/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_swatch.jpg?1644250136=",
+            "https://bonobos-prod-s3.imgix.net/products/237765/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239676/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_3_category.jpg?1645025937=",
+            "https://bonobos-prod-s3.imgix.net/products/239676/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_3_category.jpg",
           color_presentation: "Bakersfield Blue",
         },
       ],
@@ -1504,11 +1504,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263800/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_5_hover.jpg?1660848274=",
+            "https://bonobos-prod-s3.imgix.net/products/263800/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258603/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_swatch.jpg?1659967680=",
+            "https://bonobos-prod-s3.imgix.net/products/258603/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263798/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_3_category.jpg?1660848267=",
+            "https://bonobos-prod-s3.imgix.net/products/263798/original/DENIM_5-POCKET-JEAN_BDB05261S1235G_3_category.jpg",
           color_presentation: "Calexico Lizard",
         },
         {
@@ -1523,11 +1523,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg?1638813876=",
+            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg?1612473800=",
+            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg?1638813806=",
+            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg",
           color_presentation: "Rockville Charcoal",
         },
         {
@@ -1542,11 +1542,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg?1635980427=",
+            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg?1614187632=",
+            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg?1635980430=",
+            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg",
           color_presentation: "Salem Jet Black",
         },
         {
@@ -1561,11 +1561,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg?1635980489=",
+            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg?1612473917=",
+            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg?1635980476=",
+            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg",
           color_presentation: "Amarillo Tan",
         },
         {
@@ -1580,11 +1580,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg?1632868483=",
+            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg?1629748304=",
+            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg?1632868478=",
+            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg",
           color_presentation: "Montclair Cinnamon",
         },
         {
@@ -1599,11 +1599,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg?1632868541=",
+            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg?1629748343=",
+            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg?1632868520=",
+            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg",
           color_presentation: "Anchorage Dark Navy",
         },
         {
@@ -1618,11 +1618,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg?1632868662=",
+            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg?1629748420=",
+            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg?1632868641=",
+            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg",
           color_presentation: "Walla Walla Walnut",
         },
       ],
@@ -1654,11 +1654,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg?1660848309=",
+            "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256958/original/DENIM_DENIM-JEAN_BDB05260SB2800_swatch.jpg?1658252559=",
+            "https://bonobos-prod-s3.imgix.net/products/256958/original/DENIM_DENIM-JEAN_BDB05260SB2800_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg?1660848313=",
+            "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg",
           color_presentation: "Midnight Dream Wash",
         },
         {
@@ -1673,11 +1673,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg?1615903493=",
+            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg?1610742975=",
+            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg?1615903486=",
+            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg",
           color_presentation: "Rain",
         },
         {
@@ -1692,11 +1692,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg?1617828157=",
+            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg?1610742943=",
+            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg?1617828150=",
+            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg",
           color_presentation: "Indigo",
         },
         {
@@ -1711,11 +1711,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg?1634250035=",
+            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg?1610742739=",
+            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg?1634250032=",
+            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg",
           color_presentation: "Dark Rinse",
         },
         {
@@ -1730,11 +1730,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg?1634250073=",
+            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg?1610742777=",
+            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg?1634250058=",
+            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg",
           color_presentation: "Dark Wash",
         },
         {
@@ -1749,11 +1749,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg?1616709159=",
+            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg?1614205544=",
+            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg?1616709140=",
+            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg",
           color_presentation: "Tide Wash",
         },
         {
@@ -1768,17 +1768,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg?1611095014=",
+            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg?1610742906=",
+            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg?1611095008=",
+            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg",
           color_presentation: "Light Wash",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg?1660848313=",
+        "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "midnight dream wash",
@@ -1790,7 +1790,7 @@ export default [
       number_of_fits: 4,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg?1660848309=",
+        "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1804,11 +1804,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg?1615903493=",
+            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg?1610742975=",
+            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg?1615903486=",
+            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg",
           color_presentation: "Rain",
         },
         {
@@ -1823,11 +1823,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg?1617828157=",
+            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg?1610742943=",
+            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg?1617828150=",
+            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg",
           color_presentation: "Indigo",
         },
         {
@@ -1842,11 +1842,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg?1616709159=",
+            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg?1614205544=",
+            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg?1616709140=",
+            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg",
           color_presentation: "Tide Wash",
         },
         {
@@ -1861,11 +1861,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg?1611095014=",
+            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg?1610742906=",
+            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg?1611095008=",
+            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg",
           color_presentation: "Light Wash",
         },
         {
@@ -1880,11 +1880,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225093/original/DENIM_DENIM-JEAN_BDB05260SB1045_2_hover.jpg?1632926470=",
+            "https://bonobos-prod-s3.imgix.net/products/225093/original/DENIM_DENIM-JEAN_BDB05260SB1045_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219118/original/DENIM_DENIM-JEAN_BDB05260SB1045_swatch.jpg?1629747854=",
+            "https://bonobos-prod-s3.imgix.net/products/219118/original/DENIM_DENIM-JEAN_BDB05260SB1045_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225091/original/DENIM_DENIM-JEAN_BDB05260SB1045_1_category.jpg?1632926464=",
+            "https://bonobos-prod-s3.imgix.net/products/225091/original/DENIM_DENIM-JEAN_BDB05260SB1045_1_category.jpg",
           color_presentation: "River Light Wash",
         },
         {
@@ -1899,11 +1899,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225102/original/DENIM_DENIM-JEAN_BDB05260SB1049_3_hover.jpg?1632926518=",
+            "https://bonobos-prod-s3.imgix.net/products/225102/original/DENIM_DENIM-JEAN_BDB05260SB1049_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219124/original/DENIM_DENIM-JEAN_BDB05260SB1049_swatch.jpg?1629747914=",
+            "https://bonobos-prod-s3.imgix.net/products/219124/original/DENIM_DENIM-JEAN_BDB05260SB1049_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225101/original/DENIM_DENIM-JEAN_BDB05260SB1049_2_category.jpg?1632926514=",
+            "https://bonobos-prod-s3.imgix.net/products/225101/original/DENIM_DENIM-JEAN_BDB05260SB1049_2_category.jpg",
           color_presentation: "Sky Light Wash",
         },
         {
@@ -1918,11 +1918,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/246343/original/DENIM_DENIM-JEAN_BDB05260SB1819_2_hover.jpg?1650378152=",
+            "https://bonobos-prod-s3.imgix.net/products/246343/original/DENIM_DENIM-JEAN_BDB05260SB1819_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/246335/original/DENIM_DENIM-JEAN_BDB05260SB1819_swatch.jpg?1650376661=",
+            "https://bonobos-prod-s3.imgix.net/products/246335/original/DENIM_DENIM-JEAN_BDB05260SB1819_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/246344/original/DENIM_DENIM-JEAN_BDB05260SB1819_3_category.jpg?1650378155=",
+            "https://bonobos-prod-s3.imgix.net/products/246344/original/DENIM_DENIM-JEAN_BDB05260SB1819_3_category.jpg",
           color_presentation: "Sunflower Dark Wash",
         },
       ],
@@ -1941,11 +1941,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg?1660848309=",
+            "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256958/original/DENIM_DENIM-JEAN_BDB05260SB2800_swatch.jpg?1658252559=",
+            "https://bonobos-prod-s3.imgix.net/products/256958/original/DENIM_DENIM-JEAN_BDB05260SB2800_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg?1660848313=",
+            "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg",
           color_presentation: "Midnight Dream Wash",
         },
         {
@@ -1960,11 +1960,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg?1634250035=",
+            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg?1610742739=",
+            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg?1634250032=",
+            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg",
           color_presentation: "Dark Rinse",
         },
         {
@@ -1979,11 +1979,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg?1634250073=",
+            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg?1610742777=",
+            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg?1634250058=",
+            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg",
           color_presentation: "Dark Wash",
         },
         {
@@ -1998,11 +1998,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225084/original/DENIM_DENIM-JEAN_BDB05260SB1044_3_hover.jpg?1632926428=",
+            "https://bonobos-prod-s3.imgix.net/products/225084/original/DENIM_DENIM-JEAN_BDB05260SB1044_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222264/original/DENIM_DENIM-JEAN_BDB05260SB1044_swatch.jpg?1632159774=",
+            "https://bonobos-prod-s3.imgix.net/products/222264/original/DENIM_DENIM-JEAN_BDB05260SB1044_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225081/original/DENIM_DENIM-JEAN_BDB05260SB1044_1_category.jpg?1632926418=",
+            "https://bonobos-prod-s3.imgix.net/products/225081/original/DENIM_DENIM-JEAN_BDB05260SB1044_1_category.jpg",
           color_presentation: "Rain Medium Wash",
         },
         {
@@ -2017,11 +2017,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223638/original/DENIM_DENIM-JEAN_BDB05260SG1050_5_hover.jpg?1632863349=",
+            "https://bonobos-prod-s3.imgix.net/products/223638/original/DENIM_DENIM-JEAN_BDB05260SG1050_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219126/original/DENIM_DENIM-JEAN_BDB05260SG1050_swatch.jpg?1629747943=",
+            "https://bonobos-prod-s3.imgix.net/products/219126/original/DENIM_DENIM-JEAN_BDB05260SG1050_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223639/original/DENIM_DENIM-JEAN_BDB05260SG1050_6_category.jpg?1632863354=",
+            "https://bonobos-prod-s3.imgix.net/products/223639/original/DENIM_DENIM-JEAN_BDB05260SG1050_6_category.jpg",
           color_presentation: "Charcoal Dark Wash",
         },
         {
@@ -2036,11 +2036,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg?1660848289=",
+            "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256956/original/DENIM_DENIM-JEAN_BDB05260SB2796_swatch.jpg?1658252215=",
+            "https://bonobos-prod-s3.imgix.net/products/256956/original/DENIM_DENIM-JEAN_BDB05260SB2796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg?1660848292=",
+            "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg",
           color_presentation: "Daytime Wash",
         },
         {
@@ -2055,11 +2055,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg?1660848333=",
+            "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256960/original/DENIM_DENIM-JEAN_BDB05260SB2799_swatch.jpg?1658252704=",
+            "https://bonobos-prod-s3.imgix.net/products/256960/original/DENIM_DENIM-JEAN_BDB05260SB2799_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg?1660848337=",
+            "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg",
           color_presentation: "Storm Cloud Wash",
         },
       ],
@@ -2091,11 +2091,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263790/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_2_hover.jpg?1660848240=",
+            "https://bonobos-prod-s3.imgix.net/products/263790/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258599/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_swatch.jpg?1659967615=",
+            "https://bonobos-prod-s3.imgix.net/products/258599/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263791/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_3_category.jpg?1660848243=",
+            "https://bonobos-prod-s3.imgix.net/products/263791/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_3_category.jpg",
           color_presentation: "Fall River Ginger",
         },
         {
@@ -2110,11 +2110,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg?1638813876=",
+            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg?1612473800=",
+            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg?1638813806=",
+            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg",
           color_presentation: "Rockville Charcoal",
         },
         {
@@ -2129,11 +2129,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg?1635980427=",
+            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg?1614187632=",
+            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg?1635980430=",
+            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg",
           color_presentation: "Salem Jet Black",
         },
         {
@@ -2148,11 +2148,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg?1635980489=",
+            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg?1612473917=",
+            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg?1635980476=",
+            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg",
           color_presentation: "Amarillo Tan",
         },
         {
@@ -2167,11 +2167,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg?1632868483=",
+            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg?1629748304=",
+            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg?1632868478=",
+            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg",
           color_presentation: "Montclair Cinnamon",
         },
         {
@@ -2186,11 +2186,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg?1632868541=",
+            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg?1629748343=",
+            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg?1632868520=",
+            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg",
           color_presentation: "Anchorage Dark Navy",
         },
         {
@@ -2205,17 +2205,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg?1632868662=",
+            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg?1629748420=",
+            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg?1632868641=",
+            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg",
           color_presentation: "Walla Walla Walnut",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263791/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_3_category.jpg?1660848243=",
+        "https://bonobos-prod-s3.imgix.net/products/263791/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_3_category.jpg",
       full_price: 119,
       final_sale: false,
       color_name: "fall river ginger",
@@ -2227,7 +2227,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263790/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_2_hover.jpg?1660848240=",
+        "https://bonobos-prod-s3.imgix.net/products/263790/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -2241,11 +2241,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239681/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_2_hover.jpg?1645025955=",
+            "https://bonobos-prod-s3.imgix.net/products/239681/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237767/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_swatch.jpg?1644250169=",
+            "https://bonobos-prod-s3.imgix.net/products/237767/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239682/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_3_category.jpg?1645025959=",
+            "https://bonobos-prod-s3.imgix.net/products/239682/original/DENIM_5-POCKET-JEAN_BDB05261S1110G_3_category.jpg",
           color_presentation: "Garden Grove Green",
         },
         {
@@ -2260,11 +2260,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239677/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_5_hover.jpg?1645025940=",
+            "https://bonobos-prod-s3.imgix.net/products/239677/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237765/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_swatch.jpg?1644250136=",
+            "https://bonobos-prod-s3.imgix.net/products/237765/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239676/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_3_category.jpg?1645025937=",
+            "https://bonobos-prod-s3.imgix.net/products/239676/original/DENIM_5-POCKET-JEAN_BDB05261S1096B_3_category.jpg",
           color_presentation: "Bakersfield Blue",
         },
       ],
@@ -2283,11 +2283,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263790/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_2_hover.jpg?1660848240=",
+            "https://bonobos-prod-s3.imgix.net/products/263790/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258599/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_swatch.jpg?1659967615=",
+            "https://bonobos-prod-s3.imgix.net/products/258599/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263791/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_3_category.jpg?1660848243=",
+            "https://bonobos-prod-s3.imgix.net/products/263791/original/DENIM_5-POCKET-JEAN_BDB05261S1180B_3_category.jpg",
           color_presentation: "Fall River Ginger",
         },
         {
@@ -2302,11 +2302,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg?1638813876=",
+            "https://bonobos-prod-s3.imgix.net/products/234402/original/DENIM_5-POCKET-JEAN_27719-BK746_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg?1612473800=",
+            "https://bonobos-prod-s3.imgix.net/products/208191/original/DENIM_5-POCKET-JEAN_27719-BK746_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg?1638813806=",
+            "https://bonobos-prod-s3.imgix.net/products/234396/original/DENIM_5-POCKET-JEAN_27719-BK746_1_category.jpg",
           color_presentation: "Rockville Charcoal",
         },
         {
@@ -2321,11 +2321,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg?1635980427=",
+            "https://bonobos-prod-s3.imgix.net/products/231215/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg?1614187632=",
+            "https://bonobos-prod-s3.imgix.net/products/210306/original/DENIM_5-POCKET-JEAN_27719-BK756_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg?1635980430=",
+            "https://bonobos-prod-s3.imgix.net/products/231216/original/DENIM_5-POCKET-JEAN_BDB05261SBK756_3_category.jpg",
           color_presentation: "Salem Jet Black",
         },
         {
@@ -2340,11 +2340,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg?1635980489=",
+            "https://bonobos-prod-s3.imgix.net/products/231232/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg?1612473917=",
+            "https://bonobos-prod-s3.imgix.net/products/208199/original/DENIM_5-POCKET-JEAN_27719-KH273_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg?1635980476=",
+            "https://bonobos-prod-s3.imgix.net/products/231228/original/DENIM_5-POCKET-JEAN_BDB05261SKH273_1_category.jpg",
           color_presentation: "Amarillo Tan",
         },
         {
@@ -2359,11 +2359,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg?1632868483=",
+            "https://bonobos-prod-s3.imgix.net/products/224126/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg?1629748304=",
+            "https://bonobos-prod-s3.imgix.net/products/219136/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg?1632868478=",
+            "https://bonobos-prod-s3.imgix.net/products/224125/original/DENIM_5-POCKET-JEAN_BDB05261S0063R_1_category.jpg",
           color_presentation: "Montclair Cinnamon",
         },
         {
@@ -2378,11 +2378,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg?1632868541=",
+            "https://bonobos-prod-s3.imgix.net/products/224136/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg?1629748343=",
+            "https://bonobos-prod-s3.imgix.net/products/219138/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg?1632868520=",
+            "https://bonobos-prod-s3.imgix.net/products/224132/original/DENIM_5-POCKET-JEAN_BDB05261S0001B_1_category.jpg",
           color_presentation: "Anchorage Dark Navy",
         },
         {
@@ -2397,11 +2397,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg?1632868662=",
+            "https://bonobos-prod-s3.imgix.net/products/224157/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg?1629748420=",
+            "https://bonobos-prod-s3.imgix.net/products/219144/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg?1632868641=",
+            "https://bonobos-prod-s3.imgix.net/products/224153/original/DENIM_5-POCKET-JEAN_BDB05261S0071G_1_category.jpg",
           color_presentation: "Walla Walla Walnut",
         },
       ],
@@ -2433,11 +2433,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267338/original/PANT_CHINO-PANT_BPT10629S1222B_2_hover.jpg?1662749045=",
+            "https://bonobos-prod-s3.imgix.net/products/267338/original/PANT_CHINO-PANT_BPT10629S1222B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265180/original/PANT_CHINO-PANT_BPT10629S1222B_swatch.jpg?1661452315=",
+            "https://bonobos-prod-s3.imgix.net/products/265180/original/PANT_CHINO-PANT_BPT10629S1222B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267357/original/PANT_CHINO-PANT_BPT10629S1222B_3_category.jpg?1662749055=",
+            "https://bonobos-prod-s3.imgix.net/products/267357/original/PANT_CHINO-PANT_BPT10629S1222B_3_category.jpg",
           color_presentation: "Ensign Blue",
         },
         {
@@ -2452,11 +2452,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg?1655852130=",
+            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg?1632232309=",
+            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg?1655852127=",
+            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -2471,11 +2471,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg?1635887792=",
+            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg?1632232530=",
+            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg?1635887795=",
+            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -2490,11 +2490,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg?1654257892=",
+            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg?1653416540=",
+            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg?1654257895=",
+            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -2509,11 +2509,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg?1635887862=",
+            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg?1632232256=",
+            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg?1635887865=",
+            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -2528,11 +2528,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg?1635887815=",
+            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg?1632232412=",
+            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg?1635887812=",
+            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -2547,17 +2547,17 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg?1632232653=",
+            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg?1632232707=",
+            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg?1632232658=",
+            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg",
           color_presentation: "Walnut",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267357/original/PANT_CHINO-PANT_BPT10629S1222B_3_category.jpg?1662749055=",
+        "https://bonobos-prod-s3.imgix.net/products/267357/original/PANT_CHINO-PANT_BPT10629S1222B_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "ensign blue",
@@ -2570,7 +2570,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267338/original/PANT_CHINO-PANT_BPT10629S1222B_2_hover.jpg?1662749045=",
+        "https://bonobos-prod-s3.imgix.net/products/267338/original/PANT_CHINO-PANT_BPT10629S1222B_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -2584,11 +2584,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg?1654257892=",
+            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg?1653416540=",
+            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg?1654257895=",
+            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -2603,11 +2603,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249197/original/PANT_CHINO-PANT_BPT10629S1201B_2_hover.jpg?1652195003=",
+            "https://bonobos-prod-s3.imgix.net/products/249197/original/PANT_CHINO-PANT_BPT10629S1201B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247067/original/PANT_CHINO-PANT_BPT10629S1201B_swatch.jpg?1651158597=",
+            "https://bonobos-prod-s3.imgix.net/products/247067/original/PANT_CHINO-PANT_BPT10629S1201B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249196/original/PANT_CHINO-PANT_BPT10629S1201B_1_category.jpg?1652195000=",
+            "https://bonobos-prod-s3.imgix.net/products/249196/original/PANT_CHINO-PANT_BPT10629S1201B_1_category.jpg",
           color_presentation: "Sky Blue",
         },
         {
@@ -2622,11 +2622,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263402/original/PANT_CHINO-PANT_BPT10629S1208B_2_hover.jpg?1660846691=",
+            "https://bonobos-prod-s3.imgix.net/products/263402/original/PANT_CHINO-PANT_BPT10629S1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251852/original/PANT_CHINO-PANT_BPT10629S1208B_swatch.jpg?1653416636=",
+            "https://bonobos-prod-s3.imgix.net/products/251852/original/PANT_CHINO-PANT_BPT10629S1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263403/original/PANT_CHINO-PANT_BPT10629S1208B_3_category.jpg?1660846694=",
+            "https://bonobos-prod-s3.imgix.net/products/263403/original/PANT_CHINO-PANT_BPT10629S1208B_3_category.jpg",
           color_presentation: "Duck Egg",
         },
         {
@@ -2641,11 +2641,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249416/original/PANT_CHINO-PANT_BPT10629S1192B_5_hover.jpg?1652219011=",
+            "https://bonobos-prod-s3.imgix.net/products/249416/original/PANT_CHINO-PANT_BPT10629S1192B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247073/original/PANT_CHINO-PANT_BPT10629S1192B_swatch.jpg?1651158706=",
+            "https://bonobos-prod-s3.imgix.net/products/247073/original/PANT_CHINO-PANT_BPT10629S1192B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249413/original/PANT_CHINO-PANT_BPT10629S1192B_1_category.jpg?1652219000=",
+            "https://bonobos-prod-s3.imgix.net/products/249413/original/PANT_CHINO-PANT_BPT10629S1192B_1_category.jpg",
           color_presentation: "Stonewash",
         },
         {
@@ -2660,11 +2660,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249860/original/PANT_CHINO-PANT_BPT10629S1207G_2_hover.jpg?1652363896=",
+            "https://bonobos-prod-s3.imgix.net/products/249860/original/PANT_CHINO-PANT_BPT10629S1207G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247071/original/PANT_CHINO-PANT_BPT10629S1207G_swatch.jpg?1651158672=",
+            "https://bonobos-prod-s3.imgix.net/products/247071/original/PANT_CHINO-PANT_BPT10629S1207G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249858/original/PANT_CHINO-PANT_BPT10629S1207G_1_category.jpg?1652363892=",
+            "https://bonobos-prod-s3.imgix.net/products/249858/original/PANT_CHINO-PANT_BPT10629S1207G_1_category.jpg",
           color_presentation: "Light Grass Green",
         },
         {
@@ -2679,11 +2679,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263411/original/PANT_CHINO-PANT_BPT10629S1196B_5_hover.jpg?1660846722=",
+            "https://bonobos-prod-s3.imgix.net/products/263411/original/PANT_CHINO-PANT_BPT10629S1196B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251854/original/PANT_CHINO-PANT_BPT10629S1196B_swatch.jpg?1653416715=",
+            "https://bonobos-prod-s3.imgix.net/products/251854/original/PANT_CHINO-PANT_BPT10629S1196B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263408/original/PANT_CHINO-PANT_BPT10629S1196B_1_category.jpg?1660846713=",
+            "https://bonobos-prod-s3.imgix.net/products/263408/original/PANT_CHINO-PANT_BPT10629S1196B_1_category.jpg",
           color_presentation: "Shark Blue",
         },
         {
@@ -2698,11 +2698,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256123/original/PANT_CHINO-PANT_BPT10629S1209G_2_hover.jpg?1655996585=",
+            "https://bonobos-prod-s3.imgix.net/products/256123/original/PANT_CHINO-PANT_BPT10629S1209G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256427/original/PANT_CHINO-PANT_BPT10629S1209G_swatch.jpg?1656086164=",
+            "https://bonobos-prod-s3.imgix.net/products/256427/original/PANT_CHINO-PANT_BPT10629S1209G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256124/original/PANT_CHINO-PANT_BPT10629S1209G_3_category.jpg?1655996590=",
+            "https://bonobos-prod-s3.imgix.net/products/256124/original/PANT_CHINO-PANT_BPT10629S1209G_3_category.jpg",
           color_presentation: "Pickle Green",
         },
       ],
@@ -2720,11 +2720,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg?1632232653=",
+            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg?1632232707=",
+            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg?1632232658=",
+            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg",
           color_presentation: "Walnut",
         },
         {
@@ -2739,11 +2739,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244838/original/PANT_CHINO-PANT_BPT10629S1136Y_2_hover.jpg?1649425724=",
+            "https://bonobos-prod-s3.imgix.net/products/244838/original/PANT_CHINO-PANT_BPT10629S1136Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244861/original/PANT_CHINO-PANT_BPT10629S1136Y_swatch.jpg?1649425794=",
+            "https://bonobos-prod-s3.imgix.net/products/244861/original/PANT_CHINO-PANT_BPT10629S1136Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244839/original/PANT_CHINO-PANT_BPT10629S1136Y_3_category.jpg?1649425727=",
+            "https://bonobos-prod-s3.imgix.net/products/244839/original/PANT_CHINO-PANT_BPT10629S1136Y_3_category.jpg",
           color_presentation: "Light Yellow",
         },
         {
@@ -2758,11 +2758,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222506/original/PANT_CHINO-PANT_BPT10629S0021G_2_hover.jpg?1632232371=",
+            "https://bonobos-prod-s3.imgix.net/products/222506/original/PANT_CHINO-PANT_BPT10629S0021G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222521/original/PANT_CHINO-PANT_BPT10629S0021G_swatch.jpg?1632232455=",
+            "https://bonobos-prod-s3.imgix.net/products/222521/original/PANT_CHINO-PANT_BPT10629S0021G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222505/original/PANT_CHINO-PANT_BPT10629S0021G_1_category.jpg?1632232366=",
+            "https://bonobos-prod-s3.imgix.net/products/222505/original/PANT_CHINO-PANT_BPT10629S0021G_1_category.jpg",
           color_presentation: "Faded Ivy",
         },
         {
@@ -2777,11 +2777,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222555/original/PANT_CHINO-PANT_BPT10629S0041B_2_hover.jpg?1632232613=",
+            "https://bonobos-prod-s3.imgix.net/products/222555/original/PANT_CHINO-PANT_BPT10629S0041B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222569/original/PANT_CHINO-PANT_BPT10629S0041B_swatch.jpg?1632232669=",
+            "https://bonobos-prod-s3.imgix.net/products/222569/original/PANT_CHINO-PANT_BPT10629S0041B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222554/original/PANT_CHINO-PANT_BPT10629S0041B_1_category.jpg?1632232608=",
+            "https://bonobos-prod-s3.imgix.net/products/222554/original/PANT_CHINO-PANT_BPT10629S0041B_1_category.jpg",
           color_presentation: "Sandalwood",
         },
         {
@@ -2796,11 +2796,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222535/original/PANT_CHINO-PANT_BPT10629S1055B_2_hover.jpg?1632232519=",
+            "https://bonobos-prod-s3.imgix.net/products/222535/original/PANT_CHINO-PANT_BPT10629S1055B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222548/original/PANT_CHINO-PANT_BPT10629S1055B_swatch.jpg?1632232571=",
+            "https://bonobos-prod-s3.imgix.net/products/222548/original/PANT_CHINO-PANT_BPT10629S1055B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222536/original/PANT_CHINO-PANT_BPT10629S1055B_3_category.jpg?1632232524=",
+            "https://bonobos-prod-s3.imgix.net/products/222536/original/PANT_CHINO-PANT_BPT10629S1055B_3_category.jpg",
           color_presentation: "Night Owl",
         },
         {
@@ -2815,11 +2815,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250203/original/PANT_CHINO-PANT_BPT10629S0008B_4_hover.jpg?1652452289=",
+            "https://bonobos-prod-s3.imgix.net/products/250203/original/PANT_CHINO-PANT_BPT10629S0008B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222530/original/PANT_CHINO-PANT_BPT10629S0008B_swatch.jpg?1632232493=",
+            "https://bonobos-prod-s3.imgix.net/products/222530/original/PANT_CHINO-PANT_BPT10629S0008B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250202/original/PANT_CHINO-PANT_BPT10629S0008B_3_category.jpg?1652452286=",
+            "https://bonobos-prod-s3.imgix.net/products/250202/original/PANT_CHINO-PANT_BPT10629S0008B_3_category.jpg",
           color_presentation: "Prussian",
         },
         {
@@ -2834,11 +2834,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222488/original/PANT_CHINO-PANT_BPT10629S0063R_2_hover.jpg?1632232291=",
+            "https://bonobos-prod-s3.imgix.net/products/222488/original/PANT_CHINO-PANT_BPT10629S0063R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222501/original/PANT_CHINO-PANT_BPT10629S0063R_swatch.jpg?1632232346=",
+            "https://bonobos-prod-s3.imgix.net/products/222501/original/PANT_CHINO-PANT_BPT10629S0063R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222489/original/PANT_CHINO-PANT_BPT10629S0063R_3_category.jpg?1632232297=",
+            "https://bonobos-prod-s3.imgix.net/products/222489/original/PANT_CHINO-PANT_BPT10629S0063R_3_category.jpg",
           color_presentation: "Burnt Cinnamon",
         },
       ],
@@ -2855,11 +2855,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267338/original/PANT_CHINO-PANT_BPT10629S1222B_2_hover.jpg?1662749045=",
+            "https://bonobos-prod-s3.imgix.net/products/267338/original/PANT_CHINO-PANT_BPT10629S1222B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265180/original/PANT_CHINO-PANT_BPT10629S1222B_swatch.jpg?1661452315=",
+            "https://bonobos-prod-s3.imgix.net/products/265180/original/PANT_CHINO-PANT_BPT10629S1222B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267357/original/PANT_CHINO-PANT_BPT10629S1222B_3_category.jpg?1662749055=",
+            "https://bonobos-prod-s3.imgix.net/products/267357/original/PANT_CHINO-PANT_BPT10629S1222B_3_category.jpg",
           color_presentation: "Ensign Blue",
         },
         {
@@ -2874,11 +2874,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg?1655852130=",
+            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg?1632232309=",
+            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg?1655852127=",
+            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -2893,11 +2893,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg?1635887792=",
+            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg?1632232530=",
+            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg?1635887795=",
+            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -2912,11 +2912,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg?1635887862=",
+            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg?1632232256=",
+            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg?1635887865=",
+            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -2931,11 +2931,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg?1635887815=",
+            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg?1632232412=",
+            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg?1635887812=",
+            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -2950,11 +2950,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228261/original/PANT_CHINO-PANT_BPT10629S0001B_4_hover.jpg?1635887768=",
+            "https://bonobos-prod-s3.imgix.net/products/228261/original/PANT_CHINO-PANT_BPT10629S0001B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222558/original/PANT_CHINO-PANT_BPT10629S0001B_swatch.jpg?1632232620=",
+            "https://bonobos-prod-s3.imgix.net/products/222558/original/PANT_CHINO-PANT_BPT10629S0001B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228258/original/PANT_CHINO-PANT_BPT10629S0001B_1_category.jpg?1635887758=",
+            "https://bonobos-prod-s3.imgix.net/products/228258/original/PANT_CHINO-PANT_BPT10629S0001B_1_category.jpg",
           color_presentation: "Deep Navy",
         },
         {
@@ -2969,11 +2969,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228252/original/PANT_CHINO-PANT_BPT10629S1051G_2_hover.jpg?1635887737=",
+            "https://bonobos-prod-s3.imgix.net/products/228252/original/PANT_CHINO-PANT_BPT10629S1051G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226233/original/PANT_CHINO-PANT_BPT10629S1051G_swatch.jpg?1633037522=",
+            "https://bonobos-prod-s3.imgix.net/products/226233/original/PANT_CHINO-PANT_BPT10629S1051G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228253/original/PANT_CHINO-PANT_BPT10629S1051G_3_category.jpg?1635887741=",
+            "https://bonobos-prod-s3.imgix.net/products/228253/original/PANT_CHINO-PANT_BPT10629S1051G_3_category.jpg",
           color_presentation: "After Midnights",
         },
       ],
@@ -3005,11 +3005,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg?1660848333=",
+            "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256960/original/DENIM_DENIM-JEAN_BDB05260SB2799_swatch.jpg?1658252704=",
+            "https://bonobos-prod-s3.imgix.net/products/256960/original/DENIM_DENIM-JEAN_BDB05260SB2799_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg?1660848337=",
+            "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg",
           color_presentation: "Storm Cloud Wash",
         },
         {
@@ -3024,11 +3024,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg?1615903493=",
+            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg?1610742975=",
+            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg?1615903486=",
+            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg",
           color_presentation: "Rain",
         },
         {
@@ -3043,11 +3043,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg?1617828157=",
+            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg?1610742943=",
+            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg?1617828150=",
+            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg",
           color_presentation: "Indigo",
         },
         {
@@ -3062,11 +3062,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg?1634250035=",
+            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg?1610742739=",
+            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg?1634250032=",
+            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg",
           color_presentation: "Dark Rinse",
         },
         {
@@ -3081,11 +3081,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg?1634250073=",
+            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg?1610742777=",
+            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg?1634250058=",
+            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg",
           color_presentation: "Dark Wash",
         },
         {
@@ -3100,11 +3100,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg?1616709159=",
+            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg?1614205544=",
+            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg?1616709140=",
+            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg",
           color_presentation: "Tide Wash",
         },
         {
@@ -3119,17 +3119,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg?1611095014=",
+            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg?1610742906=",
+            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg?1611095008=",
+            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg",
           color_presentation: "Light Wash",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg?1660848337=",
+        "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "storm cloud wash",
@@ -3142,7 +3142,7 @@ export default [
       number_of_fits: 4,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg?1660848333=",
+        "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -3156,11 +3156,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg?1615903493=",
+            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg?1610742975=",
+            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg?1615903486=",
+            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg",
           color_presentation: "Rain",
         },
         {
@@ -3175,11 +3175,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg?1617828157=",
+            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg?1610742943=",
+            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg?1617828150=",
+            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg",
           color_presentation: "Indigo",
         },
         {
@@ -3194,11 +3194,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg?1616709159=",
+            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg?1614205544=",
+            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg?1616709140=",
+            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg",
           color_presentation: "Tide Wash",
         },
         {
@@ -3213,11 +3213,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg?1611095014=",
+            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg?1610742906=",
+            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg?1611095008=",
+            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg",
           color_presentation: "Light Wash",
         },
         {
@@ -3232,11 +3232,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225093/original/DENIM_DENIM-JEAN_BDB05260SB1045_2_hover.jpg?1632926470=",
+            "https://bonobos-prod-s3.imgix.net/products/225093/original/DENIM_DENIM-JEAN_BDB05260SB1045_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219118/original/DENIM_DENIM-JEAN_BDB05260SB1045_swatch.jpg?1629747854=",
+            "https://bonobos-prod-s3.imgix.net/products/219118/original/DENIM_DENIM-JEAN_BDB05260SB1045_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225091/original/DENIM_DENIM-JEAN_BDB05260SB1045_1_category.jpg?1632926464=",
+            "https://bonobos-prod-s3.imgix.net/products/225091/original/DENIM_DENIM-JEAN_BDB05260SB1045_1_category.jpg",
           color_presentation: "River Light Wash",
         },
         {
@@ -3251,11 +3251,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225102/original/DENIM_DENIM-JEAN_BDB05260SB1049_3_hover.jpg?1632926518=",
+            "https://bonobos-prod-s3.imgix.net/products/225102/original/DENIM_DENIM-JEAN_BDB05260SB1049_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219124/original/DENIM_DENIM-JEAN_BDB05260SB1049_swatch.jpg?1629747914=",
+            "https://bonobos-prod-s3.imgix.net/products/219124/original/DENIM_DENIM-JEAN_BDB05260SB1049_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225101/original/DENIM_DENIM-JEAN_BDB05260SB1049_2_category.jpg?1632926514=",
+            "https://bonobos-prod-s3.imgix.net/products/225101/original/DENIM_DENIM-JEAN_BDB05260SB1049_2_category.jpg",
           color_presentation: "Sky Light Wash",
         },
         {
@@ -3270,11 +3270,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/246343/original/DENIM_DENIM-JEAN_BDB05260SB1819_2_hover.jpg?1650378152=",
+            "https://bonobos-prod-s3.imgix.net/products/246343/original/DENIM_DENIM-JEAN_BDB05260SB1819_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/246335/original/DENIM_DENIM-JEAN_BDB05260SB1819_swatch.jpg?1650376661=",
+            "https://bonobos-prod-s3.imgix.net/products/246335/original/DENIM_DENIM-JEAN_BDB05260SB1819_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/246344/original/DENIM_DENIM-JEAN_BDB05260SB1819_3_category.jpg?1650378155=",
+            "https://bonobos-prod-s3.imgix.net/products/246344/original/DENIM_DENIM-JEAN_BDB05260SB1819_3_category.jpg",
           color_presentation: "Sunflower Dark Wash",
         },
       ],
@@ -3293,11 +3293,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg?1660848333=",
+            "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256960/original/DENIM_DENIM-JEAN_BDB05260SB2799_swatch.jpg?1658252704=",
+            "https://bonobos-prod-s3.imgix.net/products/256960/original/DENIM_DENIM-JEAN_BDB05260SB2799_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg?1660848337=",
+            "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg",
           color_presentation: "Storm Cloud Wash",
         },
         {
@@ -3312,11 +3312,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg?1634250035=",
+            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg?1610742739=",
+            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg?1634250032=",
+            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg",
           color_presentation: "Dark Rinse",
         },
         {
@@ -3331,11 +3331,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg?1634250073=",
+            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg?1610742777=",
+            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg?1634250058=",
+            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg",
           color_presentation: "Dark Wash",
         },
         {
@@ -3350,11 +3350,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225084/original/DENIM_DENIM-JEAN_BDB05260SB1044_3_hover.jpg?1632926428=",
+            "https://bonobos-prod-s3.imgix.net/products/225084/original/DENIM_DENIM-JEAN_BDB05260SB1044_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222264/original/DENIM_DENIM-JEAN_BDB05260SB1044_swatch.jpg?1632159774=",
+            "https://bonobos-prod-s3.imgix.net/products/222264/original/DENIM_DENIM-JEAN_BDB05260SB1044_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225081/original/DENIM_DENIM-JEAN_BDB05260SB1044_1_category.jpg?1632926418=",
+            "https://bonobos-prod-s3.imgix.net/products/225081/original/DENIM_DENIM-JEAN_BDB05260SB1044_1_category.jpg",
           color_presentation: "Rain Medium Wash",
         },
         {
@@ -3369,11 +3369,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223638/original/DENIM_DENIM-JEAN_BDB05260SG1050_5_hover.jpg?1632863349=",
+            "https://bonobos-prod-s3.imgix.net/products/223638/original/DENIM_DENIM-JEAN_BDB05260SG1050_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219126/original/DENIM_DENIM-JEAN_BDB05260SG1050_swatch.jpg?1629747943=",
+            "https://bonobos-prod-s3.imgix.net/products/219126/original/DENIM_DENIM-JEAN_BDB05260SG1050_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223639/original/DENIM_DENIM-JEAN_BDB05260SG1050_6_category.jpg?1632863354=",
+            "https://bonobos-prod-s3.imgix.net/products/223639/original/DENIM_DENIM-JEAN_BDB05260SG1050_6_category.jpg",
           color_presentation: "Charcoal Dark Wash",
         },
         {
@@ -3388,11 +3388,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg?1660848289=",
+            "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256956/original/DENIM_DENIM-JEAN_BDB05260SB2796_swatch.jpg?1658252215=",
+            "https://bonobos-prod-s3.imgix.net/products/256956/original/DENIM_DENIM-JEAN_BDB05260SB2796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg?1660848292=",
+            "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg",
           color_presentation: "Daytime Wash",
         },
         {
@@ -3407,11 +3407,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg?1660848309=",
+            "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256958/original/DENIM_DENIM-JEAN_BDB05260SB2800_swatch.jpg?1658252559=",
+            "https://bonobos-prod-s3.imgix.net/products/256958/original/DENIM_DENIM-JEAN_BDB05260SB2800_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg?1660848313=",
+            "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg",
           color_presentation: "Midnight Dream Wash",
         },
       ],
@@ -3443,11 +3443,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg?1660846860=",
+            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg?1658251488=",
+            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg?1660846863=",
+            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg",
           color_presentation: "Navy Herringbone",
         },
         {
@@ -3462,11 +3462,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg?1597096959=",
+            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg?1592842523=",
+            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg?1597096950=",
+            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg",
           color_presentation: "Gnarled Pine",
         },
         {
@@ -3481,11 +3481,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg?1611341235=",
+            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg?1593465874=",
+            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg?1611341241=",
+            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg",
           color_presentation: "Wheat",
         },
         {
@@ -3500,11 +3500,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg?1613160325=",
+            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg?1611792437=",
+            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg?1613160314=",
+            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg",
           color_presentation: "Sage Green",
         },
         {
@@ -3519,11 +3519,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg?1632923757=",
+            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg?1628602826=",
+            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg?1632923762=",
+            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -3538,11 +3538,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg?1645629243=",
+            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg?1645638598=",
+            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg?1645629236=",
+            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg",
           color_presentation: "Blue Floral",
         },
         {
@@ -3557,17 +3557,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg?1646935170=",
+            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg?1645720032=",
+            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg?1646935167=",
+            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg",
           color_presentation: "Off White",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg?1660846863=",
+        "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "navy herringbone",
@@ -3579,7 +3579,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg?1660846860=",
+        "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -3593,11 +3593,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg?1646935170=",
+            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg?1645720032=",
+            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg?1646935167=",
+            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg",
           color_presentation: "Off White",
         },
         {
@@ -3612,11 +3612,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223728/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_2_hover.jpg?1632863870=",
+            "https://bonobos-prod-s3.imgix.net/products/223728/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218697/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_swatch.jpg?1628602958=",
+            "https://bonobos-prod-s3.imgix.net/products/218697/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223729/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_3_category.jpg?1632863874=",
+            "https://bonobos-prod-s3.imgix.net/products/223729/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_3_category.jpg",
           color_presentation: "Olive Shrub",
         },
         {
@@ -3631,11 +3631,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240361/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_5_hover.jpg?1645719780=",
+            "https://bonobos-prod-s3.imgix.net/products/240361/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240381/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_swatch.jpg?1645719913=",
+            "https://bonobos-prod-s3.imgix.net/products/240381/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240358/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_1_category.jpg?1645719769=",
+            "https://bonobos-prod-s3.imgix.net/products/240358/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_1_category.jpg",
           color_presentation: "Bluefin",
         },
         {
@@ -3650,11 +3650,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241164/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_2_hover.jpg?1646935197=",
+            "https://bonobos-prod-s3.imgix.net/products/241164/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240379/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_swatch.jpg?1645719895=",
+            "https://bonobos-prod-s3.imgix.net/products/240379/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241165/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_3_category.jpg?1646935199=",
+            "https://bonobos-prod-s3.imgix.net/products/241165/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_3_category.jpg",
           color_presentation: "Pale Oak",
         },
         {
@@ -3669,11 +3669,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245714/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_3_hover.jpg?1649689163=",
+            "https://bonobos-prod-s3.imgix.net/products/245714/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244776/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_swatch.jpg?1649340891=",
+            "https://bonobos-prod-s3.imgix.net/products/244776/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245713/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_1_category.jpg?1649689158=",
+            "https://bonobos-prod-s3.imgix.net/products/245713/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_1_category.jpg",
           color_presentation: "Bright Blue Seersucker",
         },
         {
@@ -3688,11 +3688,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263427/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_5_hover.jpg?1660846799=",
+            "https://bonobos-prod-s3.imgix.net/products/263427/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251848/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_swatch.jpg?1653416425=",
+            "https://bonobos-prod-s3.imgix.net/products/251848/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263425/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_3_category.jpg?1660846794=",
+            "https://bonobos-prod-s3.imgix.net/products/263425/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_3_category.jpg",
           color_presentation: "Persimmon Seersucker",
         },
       ],
@@ -3710,11 +3710,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg?1597096959=",
+            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg?1592842523=",
+            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg?1597096950=",
+            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg",
           color_presentation: "Gnarled Pine",
         },
         {
@@ -3729,11 +3729,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg?1611341235=",
+            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg?1593465874=",
+            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg?1611341241=",
+            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg",
           color_presentation: "Wheat",
         },
         {
@@ -3748,11 +3748,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg?1613160325=",
+            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg?1611792437=",
+            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg?1613160314=",
+            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg",
           color_presentation: "Sage Green",
         },
         {
@@ -3767,11 +3767,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg?1645629243=",
+            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg?1645638598=",
+            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg?1645629236=",
+            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg",
           color_presentation: "Blue Floral",
         },
         {
@@ -3786,11 +3786,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242269/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_2_hover.jpg?1648062278=",
+            "https://bonobos-prod-s3.imgix.net/products/242269/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240383/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_swatch.jpg?1645719942=",
+            "https://bonobos-prod-s3.imgix.net/products/240383/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242268/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_1_category.jpg?1648062275=",
+            "https://bonobos-prod-s3.imgix.net/products/242268/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_1_category.jpg",
           color_presentation: "Sea Spray",
         },
         {
@@ -3805,11 +3805,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206914/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_2_hover.jpg?1611341315=",
+            "https://bonobos-prod-s3.imgix.net/products/206914/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/201115/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_swatch.jpg?1602712786=",
+            "https://bonobos-prod-s3.imgix.net/products/201115/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206913/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_1_category.jpg?1611341310=",
+            "https://bonobos-prod-s3.imgix.net/products/206913/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_1_category.jpg",
           color_presentation: "Sapling",
         },
         {
@@ -3824,11 +3824,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215820/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_3_hover.jpg?1621440228=",
+            "https://bonobos-prod-s3.imgix.net/products/215820/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/217111/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_swatch.jpg?1623690557=",
+            "https://bonobos-prod-s3.imgix.net/products/217111/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215818/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_1_category.jpg?1621440222=",
+            "https://bonobos-prod-s3.imgix.net/products/215818/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_1_category.jpg",
           color_presentation: "Crab Red",
         },
       ],
@@ -3845,11 +3845,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg?1660846860=",
+            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg?1658251488=",
+            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg?1660846863=",
+            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg",
           color_presentation: "Navy Herringbone",
         },
         {
@@ -3864,11 +3864,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg?1632923757=",
+            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg?1628602826=",
+            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg?1632923762=",
+            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -3883,11 +3883,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263469/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_4_hover.jpg?1660846942=",
+            "https://bonobos-prod-s3.imgix.net/products/263469/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219700/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_swatch.jpg?1630536209=",
+            "https://bonobos-prod-s3.imgix.net/products/219700/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263466/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_3_category.jpg?1660846926=",
+            "https://bonobos-prod-s3.imgix.net/products/263466/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_3_category.jpg",
           color_presentation: "Taupe Herringbone",
         },
         {
@@ -3902,11 +3902,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225407/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_2_hover.jpg?1632929681=",
+            "https://bonobos-prod-s3.imgix.net/products/225407/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218699/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_swatch.jpg?1628603003=",
+            "https://bonobos-prod-s3.imgix.net/products/218699/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225406/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_1_category.jpg?1632929675=",
+            "https://bonobos-prod-s3.imgix.net/products/225406/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_1_category.jpg",
           color_presentation: "Deep Blue",
         },
         {
@@ -3921,11 +3921,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224660/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_2_hover.jpg?1632923796=",
+            "https://bonobos-prod-s3.imgix.net/products/224660/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218695/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_swatch.jpg?1628602933=",
+            "https://bonobos-prod-s3.imgix.net/products/218695/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224661/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_3_category.jpg?1632923801=",
+            "https://bonobos-prod-s3.imgix.net/products/224661/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_3_category.jpg",
           color_presentation: "Steel Grey",
         },
         {
@@ -3940,11 +3940,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg?1662749047=",
+            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg?1658251365=",
+            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg",
           color_presentation: "Charcoal Jaspe",
         },
         {
@@ -3959,11 +3959,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225393/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_2_hover.jpg?1632929599=",
+            "https://bonobos-prod-s3.imgix.net/products/225393/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219169/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_swatch.jpg?1629821189=",
+            "https://bonobos-prod-s3.imgix.net/products/219169/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225392/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_1_category.jpg?1632929594=",
+            "https://bonobos-prod-s3.imgix.net/products/225392/original/PANT_ELASTIC-WAIST-PANT_BPT05405NG0772_1_category.jpg",
           color_presentation: "Charcoal Dobby",
         },
       ],
@@ -3995,11 +3995,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264025/original/PANT_5-POCKET-PANT_GPT10994S1204P_2_hover.jpg?1660849133=",
+            "https://bonobos-prod-s3.imgix.net/products/264025/original/PANT_5-POCKET-PANT_GPT10994S1204P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259599/original/PANT_5-POCKET-PANT_GPT10994S1204P_swatch.jpg?1660227699=",
+            "https://bonobos-prod-s3.imgix.net/products/259599/original/PANT_5-POCKET-PANT_GPT10994S1204P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264026/original/PANT_5-POCKET-PANT_GPT10994S1204P_3_category.jpg?1660849135=",
+            "https://bonobos-prod-s3.imgix.net/products/264026/original/PANT_5-POCKET-PANT_GPT10994S1204P_3_category.jpg",
           color_presentation: "Heather Astral Aura",
         },
         {
@@ -4014,11 +4014,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250098/original/PANT_ACTIVE-PANT_GPT10994S1092N_5_hover.jpg?1652364414=",
+            "https://bonobos-prod-s3.imgix.net/products/250098/original/PANT_ACTIVE-PANT_GPT10994S1092N_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238188/original/PANT_ACTIVE-PANT_GPT10994S1092N_swatch.jpg?1644509183=",
+            "https://bonobos-prod-s3.imgix.net/products/238188/original/PANT_ACTIVE-PANT_GPT10994S1092N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250096/original/PANT_ACTIVE-PANT_GPT10994S1092N_3_category.jpg?1652364405=",
+            "https://bonobos-prod-s3.imgix.net/products/250096/original/PANT_ACTIVE-PANT_GPT10994S1092N_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -4033,11 +4033,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250134/original/PANT_ACTIVE-PANT_GPT10994S1133G_5_hover.jpg?1652364582=",
+            "https://bonobos-prod-s3.imgix.net/products/250134/original/PANT_ACTIVE-PANT_GPT10994S1133G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238682/original/PANT_ACTIVE-PANT_GPT10994S1133G_swatch.jpg?1644854708=",
+            "https://bonobos-prod-s3.imgix.net/products/238682/original/PANT_ACTIVE-PANT_GPT10994S1133G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250131/original/PANT_ACTIVE-PANT_GPT10994S1133G_1_category.jpg?1652364570=",
+            "https://bonobos-prod-s3.imgix.net/products/250131/original/PANT_ACTIVE-PANT_GPT10994S1133G_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -4052,11 +4052,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250878/original/PANT_5-POCKET-PANT_GPT10994S1197B_5_hover.jpg?1652902403=",
+            "https://bonobos-prod-s3.imgix.net/products/250878/original/PANT_5-POCKET-PANT_GPT10994S1197B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248502/original/PANT_5-POCKET-PANT_GPT10994S1197B_swatch.jpg?1651759493=",
+            "https://bonobos-prod-s3.imgix.net/products/248502/original/PANT_5-POCKET-PANT_GPT10994S1197B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250875/original/PANT_5-POCKET-PANT_GPT10994S1197B_3_category.jpg?1652902396=",
+            "https://bonobos-prod-s3.imgix.net/products/250875/original/PANT_5-POCKET-PANT_GPT10994S1197B_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -4071,11 +4071,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242887/original/PANT_ACTIVE-PANT_GPT10994S1177B_2_hover.jpg?1648141629=",
+            "https://bonobos-prod-s3.imgix.net/products/242887/original/PANT_ACTIVE-PANT_GPT10994S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238194/original/PANT_ACTIVE-PANT_GPT10994S1177B_swatch.jpg?1644509475=",
+            "https://bonobos-prod-s3.imgix.net/products/238194/original/PANT_ACTIVE-PANT_GPT10994S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242886/original/PANT_ACTIVE-PANT_GPT10994S1177B_1_category.jpg?1648141626=",
+            "https://bonobos-prod-s3.imgix.net/products/242886/original/PANT_ACTIVE-PANT_GPT10994S1177B_1_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -4090,11 +4090,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250892/original/PANT_5-POCKET-PANT_GPT10994S1185P_5_hover.jpg?1652902433=",
+            "https://bonobos-prod-s3.imgix.net/products/250892/original/PANT_5-POCKET-PANT_GPT10994S1185P_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248504/original/PANT_5-POCKET-PANT_GPT10994S1185P_swatch.jpg?1651759561=",
+            "https://bonobos-prod-s3.imgix.net/products/248504/original/PANT_5-POCKET-PANT_GPT10994S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250886/original/PANT_5-POCKET-PANT_GPT10994S1185P_1_category.jpg?1652902421=",
+            "https://bonobos-prod-s3.imgix.net/products/250886/original/PANT_5-POCKET-PANT_GPT10994S1185P_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -4109,17 +4109,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250143/original/PANT_ACTIVE-PANT_GPT10994S1160K_5_hover.jpg?1652364621=",
+            "https://bonobos-prod-s3.imgix.net/products/250143/original/PANT_ACTIVE-PANT_GPT10994S1160K_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238591/original/PANT_ACTIVE-PANT_GPT10994S1160K_swatch.jpg?1644598751=",
+            "https://bonobos-prod-s3.imgix.net/products/238591/original/PANT_ACTIVE-PANT_GPT10994S1160K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250140/original/PANT_ACTIVE-PANT_GPT10994S1160K_1_category.jpg?1652364609=",
+            "https://bonobos-prod-s3.imgix.net/products/250140/original/PANT_ACTIVE-PANT_GPT10994S1160K_1_category.jpg",
           color_presentation: "Khaki Heather",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264026/original/PANT_5-POCKET-PANT_GPT10994S1204P_3_category.jpg?1660849135=",
+        "https://bonobos-prod-s3.imgix.net/products/264026/original/PANT_5-POCKET-PANT_GPT10994S1204P_3_category.jpg",
       full_price: 119,
       final_sale: false,
       color_name: "heather astral aura",
@@ -4131,7 +4131,7 @@ export default [
       number_of_fits: 4,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264025/original/PANT_5-POCKET-PANT_GPT10994S1204P_2_hover.jpg?1660849133=",
+        "https://bonobos-prod-s3.imgix.net/products/264025/original/PANT_5-POCKET-PANT_GPT10994S1204P_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -4145,11 +4145,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250878/original/PANT_5-POCKET-PANT_GPT10994S1197B_5_hover.jpg?1652902403=",
+            "https://bonobos-prod-s3.imgix.net/products/250878/original/PANT_5-POCKET-PANT_GPT10994S1197B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248502/original/PANT_5-POCKET-PANT_GPT10994S1197B_swatch.jpg?1651759493=",
+            "https://bonobos-prod-s3.imgix.net/products/248502/original/PANT_5-POCKET-PANT_GPT10994S1197B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250875/original/PANT_5-POCKET-PANT_GPT10994S1197B_3_category.jpg?1652902396=",
+            "https://bonobos-prod-s3.imgix.net/products/250875/original/PANT_5-POCKET-PANT_GPT10994S1197B_3_category.jpg",
           color_presentation: "Dark Blue",
         },
         {
@@ -4164,11 +4164,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242887/original/PANT_ACTIVE-PANT_GPT10994S1177B_2_hover.jpg?1648141629=",
+            "https://bonobos-prod-s3.imgix.net/products/242887/original/PANT_ACTIVE-PANT_GPT10994S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238194/original/PANT_ACTIVE-PANT_GPT10994S1177B_swatch.jpg?1644509475=",
+            "https://bonobos-prod-s3.imgix.net/products/238194/original/PANT_ACTIVE-PANT_GPT10994S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242886/original/PANT_ACTIVE-PANT_GPT10994S1177B_1_category.jpg?1648141626=",
+            "https://bonobos-prod-s3.imgix.net/products/242886/original/PANT_ACTIVE-PANT_GPT10994S1177B_1_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -4183,11 +4183,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250892/original/PANT_5-POCKET-PANT_GPT10994S1185P_5_hover.jpg?1652902433=",
+            "https://bonobos-prod-s3.imgix.net/products/250892/original/PANT_5-POCKET-PANT_GPT10994S1185P_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248504/original/PANT_5-POCKET-PANT_GPT10994S1185P_swatch.jpg?1651759561=",
+            "https://bonobos-prod-s3.imgix.net/products/248504/original/PANT_5-POCKET-PANT_GPT10994S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250886/original/PANT_5-POCKET-PANT_GPT10994S1185P_1_category.jpg?1652902421=",
+            "https://bonobos-prod-s3.imgix.net/products/250886/original/PANT_5-POCKET-PANT_GPT10994S1185P_1_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -4202,11 +4202,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250143/original/PANT_ACTIVE-PANT_GPT10994S1160K_5_hover.jpg?1652364621=",
+            "https://bonobos-prod-s3.imgix.net/products/250143/original/PANT_ACTIVE-PANT_GPT10994S1160K_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238591/original/PANT_ACTIVE-PANT_GPT10994S1160K_swatch.jpg?1644598751=",
+            "https://bonobos-prod-s3.imgix.net/products/238591/original/PANT_ACTIVE-PANT_GPT10994S1160K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250140/original/PANT_ACTIVE-PANT_GPT10994S1160K_1_category.jpg?1652364609=",
+            "https://bonobos-prod-s3.imgix.net/products/250140/original/PANT_ACTIVE-PANT_GPT10994S1160K_1_category.jpg",
           color_presentation: "Khaki Heather",
         },
         {
@@ -4221,11 +4221,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250116/original/PANT_ACTIVE-PANT_GPT10994S1122G_5_hover.jpg?1652364497=",
+            "https://bonobos-prod-s3.imgix.net/products/250116/original/PANT_ACTIVE-PANT_GPT10994S1122G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238192/original/PANT_ACTIVE-PANT_GPT10994S1122G_swatch.jpg?1644509442=",
+            "https://bonobos-prod-s3.imgix.net/products/238192/original/PANT_ACTIVE-PANT_GPT10994S1122G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250114/original/PANT_ACTIVE-PANT_GPT10994S1122G_3_category.jpg?1652364488=",
+            "https://bonobos-prod-s3.imgix.net/products/250114/original/PANT_ACTIVE-PANT_GPT10994S1122G_3_category.jpg",
           color_presentation: "Wild Olive",
         },
         {
@@ -4240,11 +4240,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250125/original/PANT_ACTIVE-PANT_GPT10994S1131G_5_hover.jpg?1652364540=",
+            "https://bonobos-prod-s3.imgix.net/products/250125/original/PANT_ACTIVE-PANT_GPT10994S1131G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238190/original/PANT_ACTIVE-PANT_GPT10994S1131G_swatch.jpg?1644509404=",
+            "https://bonobos-prod-s3.imgix.net/products/238190/original/PANT_ACTIVE-PANT_GPT10994S1131G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250122/original/PANT_ACTIVE-PANT_GPT10994S1131G_1_category.jpg?1652364527=",
+            "https://bonobos-prod-s3.imgix.net/products/250122/original/PANT_ACTIVE-PANT_GPT10994S1131G_1_category.jpg",
           color_presentation: "Moonrock",
         },
         {
@@ -4259,11 +4259,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250107/original/PANT_ACTIVE-PANT_GPT10994S1094N_5_hover.jpg?1652364456=",
+            "https://bonobos-prod-s3.imgix.net/products/250107/original/PANT_ACTIVE-PANT_GPT10994S1094N_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238589/original/PANT_ACTIVE-PANT_GPT10994S1094N_swatch.jpg?1644598707=",
+            "https://bonobos-prod-s3.imgix.net/products/238589/original/PANT_ACTIVE-PANT_GPT10994S1094N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250104/original/PANT_ACTIVE-PANT_GPT10994S1094N_1_category.jpg?1652364441=",
+            "https://bonobos-prod-s3.imgix.net/products/250104/original/PANT_ACTIVE-PANT_GPT10994S1094N_1_category.jpg",
           color_presentation: "Downpour Heather",
         },
       ],
@@ -4282,11 +4282,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264025/original/PANT_5-POCKET-PANT_GPT10994S1204P_2_hover.jpg?1660849133=",
+            "https://bonobos-prod-s3.imgix.net/products/264025/original/PANT_5-POCKET-PANT_GPT10994S1204P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259599/original/PANT_5-POCKET-PANT_GPT10994S1204P_swatch.jpg?1660227699=",
+            "https://bonobos-prod-s3.imgix.net/products/259599/original/PANT_5-POCKET-PANT_GPT10994S1204P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264026/original/PANT_5-POCKET-PANT_GPT10994S1204P_3_category.jpg?1660849135=",
+            "https://bonobos-prod-s3.imgix.net/products/264026/original/PANT_5-POCKET-PANT_GPT10994S1204P_3_category.jpg",
           color_presentation: "Heather Astral Aura",
         },
         {
@@ -4301,11 +4301,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250098/original/PANT_ACTIVE-PANT_GPT10994S1092N_5_hover.jpg?1652364414=",
+            "https://bonobos-prod-s3.imgix.net/products/250098/original/PANT_ACTIVE-PANT_GPT10994S1092N_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238188/original/PANT_ACTIVE-PANT_GPT10994S1092N_swatch.jpg?1644509183=",
+            "https://bonobos-prod-s3.imgix.net/products/238188/original/PANT_ACTIVE-PANT_GPT10994S1092N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250096/original/PANT_ACTIVE-PANT_GPT10994S1092N_3_category.jpg?1652364405=",
+            "https://bonobos-prod-s3.imgix.net/products/250096/original/PANT_ACTIVE-PANT_GPT10994S1092N_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -4320,11 +4320,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250134/original/PANT_ACTIVE-PANT_GPT10994S1133G_5_hover.jpg?1652364582=",
+            "https://bonobos-prod-s3.imgix.net/products/250134/original/PANT_ACTIVE-PANT_GPT10994S1133G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238682/original/PANT_ACTIVE-PANT_GPT10994S1133G_swatch.jpg?1644854708=",
+            "https://bonobos-prod-s3.imgix.net/products/238682/original/PANT_ACTIVE-PANT_GPT10994S1133G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250131/original/PANT_ACTIVE-PANT_GPT10994S1133G_1_category.jpg?1652364570=",
+            "https://bonobos-prod-s3.imgix.net/products/250131/original/PANT_ACTIVE-PANT_GPT10994S1133G_1_category.jpg",
           color_presentation: "Heather Grey",
         },
         {
@@ -4339,11 +4339,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250085/original/PANT_ACTIVE-PANT_GPT10994S1074K_5_hover.jpg?1652364374=",
+            "https://bonobos-prod-s3.imgix.net/products/250085/original/PANT_ACTIVE-PANT_GPT10994S1074K_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238186/original/PANT_ACTIVE-PANT_GPT10994S1074K_swatch.jpg?1644509148=",
+            "https://bonobos-prod-s3.imgix.net/products/238186/original/PANT_ACTIVE-PANT_GPT10994S1074K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250079/original/PANT_ACTIVE-PANT_GPT10994S1074K_1_category.jpg?1652364362=",
+            "https://bonobos-prod-s3.imgix.net/products/250079/original/PANT_ACTIVE-PANT_GPT10994S1074K_1_category.jpg",
           color_presentation: "Oak Khaki",
         },
         {
@@ -4358,11 +4358,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264034/original/PANT_5-POCKET-PANT_GPT10994S1239G_5_hover.jpg?1660849160=",
+            "https://bonobos-prod-s3.imgix.net/products/264034/original/PANT_5-POCKET-PANT_GPT10994S1239G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256980/original/PANT_5-POCKET-PANT_GPT10994S1239G_swatch.jpg?1658253518=",
+            "https://bonobos-prod-s3.imgix.net/products/256980/original/PANT_5-POCKET-PANT_GPT10994S1239G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264032/original/PANT_5-POCKET-PANT_GPT10994S1239G_3_category.jpg?1660849154=",
+            "https://bonobos-prod-s3.imgix.net/products/264032/original/PANT_5-POCKET-PANT_GPT10994S1239G_3_category.jpg",
           color_presentation: "Ash Grey",
         },
       ],
@@ -4394,11 +4394,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264883/original/PANT_CHINO-PANT_BPT05342S1221B_2_hover.jpg?1661374061=",
+            "https://bonobos-prod-s3.imgix.net/products/264883/original/PANT_CHINO-PANT_BPT05342S1221B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265184/original/PANT_CHINO-PANT_BPT05342S1221B_swatch.jpg?1661452548=",
+            "https://bonobos-prod-s3.imgix.net/products/265184/original/PANT_CHINO-PANT_BPT05342S1221B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264884/original/PANT_CHINO-PANT_BPT05342S1221B_3_category.jpg?1661374064=",
+            "https://bonobos-prod-s3.imgix.net/products/264884/original/PANT_CHINO-PANT_BPT05342S1221B_3_category.jpg",
           color_presentation: "Bluestone",
         },
         {
@@ -4413,11 +4413,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg?1662748991=",
+            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg?1661452451=",
+            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg?1662748994=",
+            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg",
           color_presentation: "Mineral",
         },
         {
@@ -4432,11 +4432,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg?1649782012=",
+            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg?1649782285=",
+            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg?1649781981=",
+            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg",
           color_presentation: "Dusty Sage",
         },
         {
@@ -4451,11 +4451,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg?1660846664=",
+            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg?1657548821=",
+            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg?1660846667=",
+            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg",
           color_presentation: "Lavender",
         },
         {
@@ -4470,11 +4470,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg?1654257821=",
+            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg?1653416906=",
+            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg?1654257825=",
+            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg",
           color_presentation: "True Blue",
         },
         {
@@ -4489,11 +4489,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg?1654612588=",
+            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg?1653417105=",
+            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg?1654612593=",
+            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg",
           color_presentation: "Grey Glenplaid",
         },
         {
@@ -4508,17 +4508,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg?1649685952=",
+            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg?1649686124=",
+            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg?1649685941=",
+            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg",
           color_presentation: "Navy Seersucker",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264884/original/PANT_CHINO-PANT_BPT05342S1221B_3_category.jpg?1661374064=",
+        "https://bonobos-prod-s3.imgix.net/products/264884/original/PANT_CHINO-PANT_BPT05342S1221B_3_category.jpg",
       full_price: 139,
       final_sale: false,
       color_name: "bluestone",
@@ -4530,7 +4530,7 @@ export default [
       number_of_fits: 4,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264883/original/PANT_CHINO-PANT_BPT05342S1221B_2_hover.jpg?1661374061=",
+        "https://bonobos-prod-s3.imgix.net/products/264883/original/PANT_CHINO-PANT_BPT05342S1221B_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -4544,11 +4544,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg?1649782012=",
+            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg?1649782285=",
+            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg?1649781981=",
+            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg",
           color_presentation: "Dusty Sage",
         },
         {
@@ -4563,11 +4563,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg?1654257821=",
+            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg?1653416906=",
+            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg?1654257825=",
+            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg",
           color_presentation: "True Blue",
         },
         {
@@ -4582,11 +4582,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg?1654612588=",
+            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg?1653417105=",
+            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg?1654612593=",
+            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg",
           color_presentation: "Grey Glenplaid",
         },
         {
@@ -4601,11 +4601,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg?1649685952=",
+            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg?1649686124=",
+            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg?1649685941=",
+            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg",
           color_presentation: "Navy Seersucker",
         },
         {
@@ -4620,11 +4620,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245165/original/PANT_CHINO-PANT_BPT05342SK1852_2_hover.jpg?1649685982=",
+            "https://bonobos-prod-s3.imgix.net/products/245165/original/PANT_CHINO-PANT_BPT05342SK1852_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245202/original/PANT_CHINO-PANT_BPT05342SK1852_swatch.jpg?1649686176=",
+            "https://bonobos-prod-s3.imgix.net/products/245202/original/PANT_CHINO-PANT_BPT05342SK1852_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245164/original/PANT_CHINO-PANT_BPT05342SK1852_1_category.jpg?1649685977=",
+            "https://bonobos-prod-s3.imgix.net/products/245164/original/PANT_CHINO-PANT_BPT05342SK1852_1_category.jpg",
           color_presentation: "Khaki Seersucker",
         },
         {
@@ -4639,11 +4639,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256171/original/PANT_CHINO-PANT_BPT11008SK2197_2_hover.jpg?1655996895=",
+            "https://bonobos-prod-s3.imgix.net/products/256171/original/PANT_CHINO-PANT_BPT11008SK2197_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256439/original/PANT_CHINO-PANT_BPT11008SK2197_swatch.jpg?1656086740=",
+            "https://bonobos-prod-s3.imgix.net/products/256439/original/PANT_CHINO-PANT_BPT11008SK2197_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256172/original/PANT_CHINO-PANT_BPT11008SK2197_3_category.jpg?1655996900=",
+            "https://bonobos-prod-s3.imgix.net/products/256172/original/PANT_CHINO-PANT_BPT11008SK2197_3_category.jpg",
           color_presentation: "Khaki Stripe",
         },
         {
@@ -4658,11 +4658,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244691/original/PANT_CHINO-PANT_BPT05342S1127Y_2_hover.jpg?1649338800=",
+            "https://bonobos-prod-s3.imgix.net/products/244691/original/PANT_CHINO-PANT_BPT05342S1127Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244768/original/PANT_CHINO-PANT_BPT05342S1127Y_swatch.jpg?1649340434=",
+            "https://bonobos-prod-s3.imgix.net/products/244768/original/PANT_CHINO-PANT_BPT05342S1127Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244690/original/PANT_CHINO-PANT_BPT05342S1127Y_1_catetgory.jpg?1649338797=",
+            "https://bonobos-prod-s3.imgix.net/products/244690/original/PANT_CHINO-PANT_BPT05342S1127Y_1_catetgory.jpg",
           color_presentation: "Honey Mustard",
         },
       ],
@@ -4681,11 +4681,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264883/original/PANT_CHINO-PANT_BPT05342S1221B_2_hover.jpg?1661374061=",
+            "https://bonobos-prod-s3.imgix.net/products/264883/original/PANT_CHINO-PANT_BPT05342S1221B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265184/original/PANT_CHINO-PANT_BPT05342S1221B_swatch.jpg?1661452548=",
+            "https://bonobos-prod-s3.imgix.net/products/265184/original/PANT_CHINO-PANT_BPT05342S1221B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264884/original/PANT_CHINO-PANT_BPT05342S1221B_3_category.jpg?1661374064=",
+            "https://bonobos-prod-s3.imgix.net/products/264884/original/PANT_CHINO-PANT_BPT05342S1221B_3_category.jpg",
           color_presentation: "Bluestone",
         },
         {
@@ -4700,11 +4700,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg?1662748991=",
+            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg?1661452451=",
+            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg?1662748994=",
+            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg",
           color_presentation: "Mineral",
         },
         {
@@ -4719,11 +4719,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg?1660846664=",
+            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg?1657548821=",
+            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg?1660846667=",
+            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg",
           color_presentation: "Lavender",
         },
         {
@@ -4738,11 +4738,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244712/original/PANT_CHINO-PANT_BPT05342S1092N_2_hover.jpg?1649338878=",
+            "https://bonobos-prod-s3.imgix.net/products/244712/original/PANT_CHINO-PANT_BPT05342S1092N_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244774/original/PANT_CHINO-PANT_BPT05342S1092N_swatch.jpg?1649340539=",
+            "https://bonobos-prod-s3.imgix.net/products/244774/original/PANT_CHINO-PANT_BPT05342S1092N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244713/original/PANT_CHINO-PANT_BPT05342S1092N_3_category.jpg?1649338882=",
+            "https://bonobos-prod-s3.imgix.net/products/244713/original/PANT_CHINO-PANT_BPT05342S1092N_3_category.jpg",
           color_presentation: "Maritime Blue",
         },
         {
@@ -4757,11 +4757,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256632/original/PANT_CHINO-PANT_BPT05342S1163G_5_hover.jpg?1657288801=",
+            "https://bonobos-prod-s3.imgix.net/products/256632/original/PANT_CHINO-PANT_BPT05342S1163G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256435/original/PANT_CHINO-PANT_BPT05342S1163G_swatch.jpg?1656086578=",
+            "https://bonobos-prod-s3.imgix.net/products/256435/original/PANT_CHINO-PANT_BPT05342S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256630/original/PANT_CHINO-PANT_BPT05342S1163G_3_category.jpg?1657288791=",
+            "https://bonobos-prod-s3.imgix.net/products/256630/original/PANT_CHINO-PANT_BPT05342S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -4776,11 +4776,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244700/original/PANT_CHINO-PANT_BPT05342S1130K_5_hover.jpg?1649338831=",
+            "https://bonobos-prod-s3.imgix.net/products/244700/original/PANT_CHINO-PANT_BPT05342S1130K_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244770/original/PANT_CHINO-PANT_BPT05342S1130K_swatch.jpg?1649340464=",
+            "https://bonobos-prod-s3.imgix.net/products/244770/original/PANT_CHINO-PANT_BPT05342S1130K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244697/original/PANT_CHINO-PANT_BPT05342S1130K_1_category.jpg?1649338822=",
+            "https://bonobos-prod-s3.imgix.net/products/244697/original/PANT_CHINO-PANT_BPT05342S1130K_1_category.jpg",
           color_presentation: "Cream Beige",
         },
         {
@@ -4795,11 +4795,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244705/original/PANT_CHINO-PANT_BPT05342S1132G_2_hover.jpg?1649338849=",
+            "https://bonobos-prod-s3.imgix.net/products/244705/original/PANT_CHINO-PANT_BPT05342S1132G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244772/original/PANT_CHINO-PANT_BPT05342S1132G_swatch.jpg?1649340494=",
+            "https://bonobos-prod-s3.imgix.net/products/244772/original/PANT_CHINO-PANT_BPT05342S1132G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244706/original/PANT_CHINO-PANT_BPT05342S1132G_3_category.jpg?1649338857=",
+            "https://bonobos-prod-s3.imgix.net/products/244706/original/PANT_CHINO-PANT_BPT05342S1132G_3_category.jpg",
           color_presentation: "Silver Mist",
         },
       ],
@@ -4831,11 +4831,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266152/original/DENIM_DENIM-JEAN_BDB10919SB2795_5_hover.jpg?1662488902=",
+            "https://bonobos-prod-s3.imgix.net/products/266152/original/DENIM_DENIM-JEAN_BDB10919SB2795_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265435/original/DENIM_DENIM-JEAN_BDB10919SB2795_swatch.jpg?1662055312=",
+            "https://bonobos-prod-s3.imgix.net/products/265435/original/DENIM_DENIM-JEAN_BDB10919SB2795_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266150/original/DENIM_DENIM-JEAN_BDB10919SB2795_3_category.jpg?1662488893=",
+            "https://bonobos-prod-s3.imgix.net/products/266150/original/DENIM_DENIM-JEAN_BDB10919SB2795_3_category.jpg",
           color_presentation: "Indigo Fade",
         },
         {
@@ -4850,11 +4850,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg?1645025032=",
+            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg?1644333663=",
+            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg?1645025035=",
+            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -4869,11 +4869,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg?1645025110=",
+            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg?1644249600=",
+            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg?1645025102=",
+            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg",
           color_presentation: "Rinse",
         },
         {
@@ -4888,11 +4888,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg?1645025062=",
+            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg?1644249697=",
+            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg?1645025058=",
+            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg",
           color_presentation: "Blue Magic Wash",
         },
         {
@@ -4907,11 +4907,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg?1645024424=",
+            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg?1644333690=",
+            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg?1645024421=",
+            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg",
           color_presentation: "Light Springs Wash",
         },
         {
@@ -4926,11 +4926,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg?1645024406=",
+            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg?1644249754=",
+            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg?1645024399=",
+            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg",
           color_presentation: "Light Cosmic Wash",
         },
         {
@@ -4945,17 +4945,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg?1645025134=",
+            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg?1644249725=",
+            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg?1645025121=",
+            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg",
           color_presentation: "Whirlpool Wash",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266150/original/DENIM_DENIM-JEAN_BDB10919SB2795_3_category.jpg?1662488893=",
+        "https://bonobos-prod-s3.imgix.net/products/266150/original/DENIM_DENIM-JEAN_BDB10919SB2795_3_category.jpg",
       full_price: 149,
       final_sale: false,
       color_name: "indigo fade",
@@ -4967,7 +4967,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266152/original/DENIM_DENIM-JEAN_BDB10919SB2795_5_hover.jpg?1662488902=",
+        "https://bonobos-prod-s3.imgix.net/products/266152/original/DENIM_DENIM-JEAN_BDB10919SB2795_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -4981,11 +4981,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg?1645024424=",
+            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg?1644333690=",
+            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg?1645024421=",
+            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg",
           color_presentation: "Light Springs Wash",
         },
         {
@@ -5000,11 +5000,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg?1645024406=",
+            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg?1644249754=",
+            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg?1645024399=",
+            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg",
           color_presentation: "Light Cosmic Wash",
         },
       ],
@@ -5023,11 +5023,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266152/original/DENIM_DENIM-JEAN_BDB10919SB2795_5_hover.jpg?1662488902=",
+            "https://bonobos-prod-s3.imgix.net/products/266152/original/DENIM_DENIM-JEAN_BDB10919SB2795_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265435/original/DENIM_DENIM-JEAN_BDB10919SB2795_swatch.jpg?1662055312=",
+            "https://bonobos-prod-s3.imgix.net/products/265435/original/DENIM_DENIM-JEAN_BDB10919SB2795_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266150/original/DENIM_DENIM-JEAN_BDB10919SB2795_3_category.jpg?1662488893=",
+            "https://bonobos-prod-s3.imgix.net/products/266150/original/DENIM_DENIM-JEAN_BDB10919SB2795_3_category.jpg",
           color_presentation: "Indigo Fade",
         },
         {
@@ -5042,11 +5042,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg?1645025032=",
+            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg?1644333663=",
+            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg?1645025035=",
+            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -5061,11 +5061,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg?1645025110=",
+            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg?1644249600=",
+            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg?1645025102=",
+            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg",
           color_presentation: "Rinse",
         },
         {
@@ -5080,11 +5080,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg?1645025062=",
+            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg?1644249697=",
+            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg?1645025058=",
+            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg",
           color_presentation: "Blue Magic Wash",
         },
         {
@@ -5099,11 +5099,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg?1645025134=",
+            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg?1644249725=",
+            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg?1645025121=",
+            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg",
           color_presentation: "Whirlpool Wash",
         },
         {
@@ -5118,11 +5118,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239350/original/DENIM_DENIM-JEAN_BDB10919SB1668_5_hover.jpg?1645025086=",
+            "https://bonobos-prod-s3.imgix.net/products/239350/original/DENIM_DENIM-JEAN_BDB10919SB1668_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237757/original/DENIM_DENIM-JEAN_BDB10919SB1668_swatch.jpg?1644249651=",
+            "https://bonobos-prod-s3.imgix.net/products/237757/original/DENIM_DENIM-JEAN_BDB10919SB1668_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239347/original/DENIM_DENIM-JEAN_BDB10919SB1668_3_category.jpg?1645025083=",
+            "https://bonobos-prod-s3.imgix.net/products/239347/original/DENIM_DENIM-JEAN_BDB10919SB1668_3_category.jpg",
           color_presentation: "Mystic Wind Wash",
         },
         {
@@ -5137,11 +5137,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263120/original/DENIM_DENIM-JEAN_BDB10919S1176W_5_hover.jpg?1660845911=",
+            "https://bonobos-prod-s3.imgix.net/products/263120/original/DENIM_DENIM-JEAN_BDB10919S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251599/original/DENIM_DENIM-JEAN_BDB10919S1176W_swatch.jpg?1653316359=",
+            "https://bonobos-prod-s3.imgix.net/products/251599/original/DENIM_DENIM-JEAN_BDB10919S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263116/original/DENIM_DENIM-JEAN_BDB10919S1176W_3_category.jpg?1660845906=",
+            "https://bonobos-prod-s3.imgix.net/products/263116/original/DENIM_DENIM-JEAN_BDB10919S1176W_3_category.jpg",
           color_presentation: "Brilliant White Denim",
         },
       ],
@@ -5173,11 +5173,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267271/original/PANT_CHINO-PANT_BPT10629S1179B_2_hover.jpg?1662749018=",
+            "https://bonobos-prod-s3.imgix.net/products/267271/original/PANT_CHINO-PANT_BPT10629S1179B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265178/original/PANT_CHINO-PANT_BPT10629S1179B_swatch.jpg?1661452257=",
+            "https://bonobos-prod-s3.imgix.net/products/265178/original/PANT_CHINO-PANT_BPT10629S1179B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267278/original/PANT_CHINO-PANT_BPT10629S1179B_3_category.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267278/original/PANT_CHINO-PANT_BPT10629S1179B_3_category.jpg",
           color_presentation: "Nuthatch",
         },
         {
@@ -5192,11 +5192,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg?1655852130=",
+            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg?1632232309=",
+            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg?1655852127=",
+            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -5211,11 +5211,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg?1635887792=",
+            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg?1632232530=",
+            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg?1635887795=",
+            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -5230,11 +5230,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg?1654257892=",
+            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg?1653416540=",
+            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg?1654257895=",
+            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -5249,11 +5249,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg?1635887862=",
+            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg?1632232256=",
+            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg?1635887865=",
+            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -5268,11 +5268,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg?1635887815=",
+            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg?1632232412=",
+            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg?1635887812=",
+            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -5287,17 +5287,17 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg?1632232653=",
+            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg?1632232707=",
+            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg?1632232658=",
+            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg",
           color_presentation: "Walnut",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267278/original/PANT_CHINO-PANT_BPT10629S1179B_3_category.jpg?1662749022=",
+        "https://bonobos-prod-s3.imgix.net/products/267278/original/PANT_CHINO-PANT_BPT10629S1179B_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "nuthatch",
@@ -5310,7 +5310,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267271/original/PANT_CHINO-PANT_BPT10629S1179B_2_hover.jpg?1662749018=",
+        "https://bonobos-prod-s3.imgix.net/products/267271/original/PANT_CHINO-PANT_BPT10629S1179B_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -5324,11 +5324,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg?1654257892=",
+            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg?1653416540=",
+            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg?1654257895=",
+            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -5343,11 +5343,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249197/original/PANT_CHINO-PANT_BPT10629S1201B_2_hover.jpg?1652195003=",
+            "https://bonobos-prod-s3.imgix.net/products/249197/original/PANT_CHINO-PANT_BPT10629S1201B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247067/original/PANT_CHINO-PANT_BPT10629S1201B_swatch.jpg?1651158597=",
+            "https://bonobos-prod-s3.imgix.net/products/247067/original/PANT_CHINO-PANT_BPT10629S1201B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249196/original/PANT_CHINO-PANT_BPT10629S1201B_1_category.jpg?1652195000=",
+            "https://bonobos-prod-s3.imgix.net/products/249196/original/PANT_CHINO-PANT_BPT10629S1201B_1_category.jpg",
           color_presentation: "Sky Blue",
         },
         {
@@ -5362,11 +5362,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263402/original/PANT_CHINO-PANT_BPT10629S1208B_2_hover.jpg?1660846691=",
+            "https://bonobos-prod-s3.imgix.net/products/263402/original/PANT_CHINO-PANT_BPT10629S1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251852/original/PANT_CHINO-PANT_BPT10629S1208B_swatch.jpg?1653416636=",
+            "https://bonobos-prod-s3.imgix.net/products/251852/original/PANT_CHINO-PANT_BPT10629S1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263403/original/PANT_CHINO-PANT_BPT10629S1208B_3_category.jpg?1660846694=",
+            "https://bonobos-prod-s3.imgix.net/products/263403/original/PANT_CHINO-PANT_BPT10629S1208B_3_category.jpg",
           color_presentation: "Duck Egg",
         },
         {
@@ -5381,11 +5381,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249416/original/PANT_CHINO-PANT_BPT10629S1192B_5_hover.jpg?1652219011=",
+            "https://bonobos-prod-s3.imgix.net/products/249416/original/PANT_CHINO-PANT_BPT10629S1192B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247073/original/PANT_CHINO-PANT_BPT10629S1192B_swatch.jpg?1651158706=",
+            "https://bonobos-prod-s3.imgix.net/products/247073/original/PANT_CHINO-PANT_BPT10629S1192B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249413/original/PANT_CHINO-PANT_BPT10629S1192B_1_category.jpg?1652219000=",
+            "https://bonobos-prod-s3.imgix.net/products/249413/original/PANT_CHINO-PANT_BPT10629S1192B_1_category.jpg",
           color_presentation: "Stonewash",
         },
         {
@@ -5400,11 +5400,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249860/original/PANT_CHINO-PANT_BPT10629S1207G_2_hover.jpg?1652363896=",
+            "https://bonobos-prod-s3.imgix.net/products/249860/original/PANT_CHINO-PANT_BPT10629S1207G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247071/original/PANT_CHINO-PANT_BPT10629S1207G_swatch.jpg?1651158672=",
+            "https://bonobos-prod-s3.imgix.net/products/247071/original/PANT_CHINO-PANT_BPT10629S1207G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249858/original/PANT_CHINO-PANT_BPT10629S1207G_1_category.jpg?1652363892=",
+            "https://bonobos-prod-s3.imgix.net/products/249858/original/PANT_CHINO-PANT_BPT10629S1207G_1_category.jpg",
           color_presentation: "Light Grass Green",
         },
         {
@@ -5419,11 +5419,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263411/original/PANT_CHINO-PANT_BPT10629S1196B_5_hover.jpg?1660846722=",
+            "https://bonobos-prod-s3.imgix.net/products/263411/original/PANT_CHINO-PANT_BPT10629S1196B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251854/original/PANT_CHINO-PANT_BPT10629S1196B_swatch.jpg?1653416715=",
+            "https://bonobos-prod-s3.imgix.net/products/251854/original/PANT_CHINO-PANT_BPT10629S1196B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263408/original/PANT_CHINO-PANT_BPT10629S1196B_1_category.jpg?1660846713=",
+            "https://bonobos-prod-s3.imgix.net/products/263408/original/PANT_CHINO-PANT_BPT10629S1196B_1_category.jpg",
           color_presentation: "Shark Blue",
         },
         {
@@ -5438,11 +5438,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256123/original/PANT_CHINO-PANT_BPT10629S1209G_2_hover.jpg?1655996585=",
+            "https://bonobos-prod-s3.imgix.net/products/256123/original/PANT_CHINO-PANT_BPT10629S1209G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256427/original/PANT_CHINO-PANT_BPT10629S1209G_swatch.jpg?1656086164=",
+            "https://bonobos-prod-s3.imgix.net/products/256427/original/PANT_CHINO-PANT_BPT10629S1209G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256124/original/PANT_CHINO-PANT_BPT10629S1209G_3_category.jpg?1655996590=",
+            "https://bonobos-prod-s3.imgix.net/products/256124/original/PANT_CHINO-PANT_BPT10629S1209G_3_category.jpg",
           color_presentation: "Pickle Green",
         },
       ],
@@ -5460,11 +5460,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg?1632232653=",
+            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg?1632232707=",
+            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg?1632232658=",
+            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg",
           color_presentation: "Walnut",
         },
         {
@@ -5479,11 +5479,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244838/original/PANT_CHINO-PANT_BPT10629S1136Y_2_hover.jpg?1649425724=",
+            "https://bonobos-prod-s3.imgix.net/products/244838/original/PANT_CHINO-PANT_BPT10629S1136Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244861/original/PANT_CHINO-PANT_BPT10629S1136Y_swatch.jpg?1649425794=",
+            "https://bonobos-prod-s3.imgix.net/products/244861/original/PANT_CHINO-PANT_BPT10629S1136Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244839/original/PANT_CHINO-PANT_BPT10629S1136Y_3_category.jpg?1649425727=",
+            "https://bonobos-prod-s3.imgix.net/products/244839/original/PANT_CHINO-PANT_BPT10629S1136Y_3_category.jpg",
           color_presentation: "Light Yellow",
         },
         {
@@ -5498,11 +5498,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222506/original/PANT_CHINO-PANT_BPT10629S0021G_2_hover.jpg?1632232371=",
+            "https://bonobos-prod-s3.imgix.net/products/222506/original/PANT_CHINO-PANT_BPT10629S0021G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222521/original/PANT_CHINO-PANT_BPT10629S0021G_swatch.jpg?1632232455=",
+            "https://bonobos-prod-s3.imgix.net/products/222521/original/PANT_CHINO-PANT_BPT10629S0021G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222505/original/PANT_CHINO-PANT_BPT10629S0021G_1_category.jpg?1632232366=",
+            "https://bonobos-prod-s3.imgix.net/products/222505/original/PANT_CHINO-PANT_BPT10629S0021G_1_category.jpg",
           color_presentation: "Faded Ivy",
         },
         {
@@ -5517,11 +5517,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222555/original/PANT_CHINO-PANT_BPT10629S0041B_2_hover.jpg?1632232613=",
+            "https://bonobos-prod-s3.imgix.net/products/222555/original/PANT_CHINO-PANT_BPT10629S0041B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222569/original/PANT_CHINO-PANT_BPT10629S0041B_swatch.jpg?1632232669=",
+            "https://bonobos-prod-s3.imgix.net/products/222569/original/PANT_CHINO-PANT_BPT10629S0041B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222554/original/PANT_CHINO-PANT_BPT10629S0041B_1_category.jpg?1632232608=",
+            "https://bonobos-prod-s3.imgix.net/products/222554/original/PANT_CHINO-PANT_BPT10629S0041B_1_category.jpg",
           color_presentation: "Sandalwood",
         },
         {
@@ -5536,11 +5536,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222535/original/PANT_CHINO-PANT_BPT10629S1055B_2_hover.jpg?1632232519=",
+            "https://bonobos-prod-s3.imgix.net/products/222535/original/PANT_CHINO-PANT_BPT10629S1055B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222548/original/PANT_CHINO-PANT_BPT10629S1055B_swatch.jpg?1632232571=",
+            "https://bonobos-prod-s3.imgix.net/products/222548/original/PANT_CHINO-PANT_BPT10629S1055B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222536/original/PANT_CHINO-PANT_BPT10629S1055B_3_category.jpg?1632232524=",
+            "https://bonobos-prod-s3.imgix.net/products/222536/original/PANT_CHINO-PANT_BPT10629S1055B_3_category.jpg",
           color_presentation: "Night Owl",
         },
         {
@@ -5555,11 +5555,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250203/original/PANT_CHINO-PANT_BPT10629S0008B_4_hover.jpg?1652452289=",
+            "https://bonobos-prod-s3.imgix.net/products/250203/original/PANT_CHINO-PANT_BPT10629S0008B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222530/original/PANT_CHINO-PANT_BPT10629S0008B_swatch.jpg?1632232493=",
+            "https://bonobos-prod-s3.imgix.net/products/222530/original/PANT_CHINO-PANT_BPT10629S0008B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250202/original/PANT_CHINO-PANT_BPT10629S0008B_3_category.jpg?1652452286=",
+            "https://bonobos-prod-s3.imgix.net/products/250202/original/PANT_CHINO-PANT_BPT10629S0008B_3_category.jpg",
           color_presentation: "Prussian",
         },
         {
@@ -5574,11 +5574,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222488/original/PANT_CHINO-PANT_BPT10629S0063R_2_hover.jpg?1632232291=",
+            "https://bonobos-prod-s3.imgix.net/products/222488/original/PANT_CHINO-PANT_BPT10629S0063R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222501/original/PANT_CHINO-PANT_BPT10629S0063R_swatch.jpg?1632232346=",
+            "https://bonobos-prod-s3.imgix.net/products/222501/original/PANT_CHINO-PANT_BPT10629S0063R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222489/original/PANT_CHINO-PANT_BPT10629S0063R_3_category.jpg?1632232297=",
+            "https://bonobos-prod-s3.imgix.net/products/222489/original/PANT_CHINO-PANT_BPT10629S0063R_3_category.jpg",
           color_presentation: "Burnt Cinnamon",
         },
       ],
@@ -5595,11 +5595,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267271/original/PANT_CHINO-PANT_BPT10629S1179B_2_hover.jpg?1662749018=",
+            "https://bonobos-prod-s3.imgix.net/products/267271/original/PANT_CHINO-PANT_BPT10629S1179B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265178/original/PANT_CHINO-PANT_BPT10629S1179B_swatch.jpg?1661452257=",
+            "https://bonobos-prod-s3.imgix.net/products/265178/original/PANT_CHINO-PANT_BPT10629S1179B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267278/original/PANT_CHINO-PANT_BPT10629S1179B_3_category.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267278/original/PANT_CHINO-PANT_BPT10629S1179B_3_category.jpg",
           color_presentation: "Nuthatch",
         },
         {
@@ -5614,11 +5614,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg?1655852130=",
+            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg?1632232309=",
+            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg?1655852127=",
+            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -5633,11 +5633,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg?1635887792=",
+            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg?1632232530=",
+            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg?1635887795=",
+            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -5652,11 +5652,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg?1635887862=",
+            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg?1632232256=",
+            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg?1635887865=",
+            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -5671,11 +5671,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg?1635887815=",
+            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg?1632232412=",
+            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg?1635887812=",
+            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -5690,11 +5690,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228261/original/PANT_CHINO-PANT_BPT10629S0001B_4_hover.jpg?1635887768=",
+            "https://bonobos-prod-s3.imgix.net/products/228261/original/PANT_CHINO-PANT_BPT10629S0001B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222558/original/PANT_CHINO-PANT_BPT10629S0001B_swatch.jpg?1632232620=",
+            "https://bonobos-prod-s3.imgix.net/products/222558/original/PANT_CHINO-PANT_BPT10629S0001B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228258/original/PANT_CHINO-PANT_BPT10629S0001B_1_category.jpg?1635887758=",
+            "https://bonobos-prod-s3.imgix.net/products/228258/original/PANT_CHINO-PANT_BPT10629S0001B_1_category.jpg",
           color_presentation: "Deep Navy",
         },
         {
@@ -5709,11 +5709,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228252/original/PANT_CHINO-PANT_BPT10629S1051G_2_hover.jpg?1635887737=",
+            "https://bonobos-prod-s3.imgix.net/products/228252/original/PANT_CHINO-PANT_BPT10629S1051G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226233/original/PANT_CHINO-PANT_BPT10629S1051G_swatch.jpg?1633037522=",
+            "https://bonobos-prod-s3.imgix.net/products/226233/original/PANT_CHINO-PANT_BPT10629S1051G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228253/original/PANT_CHINO-PANT_BPT10629S1051G_3_category.jpg?1635887741=",
+            "https://bonobos-prod-s3.imgix.net/products/228253/original/PANT_CHINO-PANT_BPT10629S1051G_3_category.jpg",
           color_presentation: "After Midnights",
         },
       ],
@@ -5745,11 +5745,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -5764,11 +5764,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -5783,11 +5783,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -5802,11 +5802,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -5821,17 +5821,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+        "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "navy blazer",
@@ -5843,7 +5843,7 @@ export default [
       number_of_fits: 3,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+        "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -5860,11 +5860,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -5879,11 +5879,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -5898,11 +5898,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -5917,11 +5917,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -5936,11 +5936,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
       ],
@@ -5972,11 +5972,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263439/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_2_hover.jpg?1660846838=",
+            "https://bonobos-prod-s3.imgix.net/products/263439/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256938/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_swatch.jpg?1658251436=",
+            "https://bonobos-prod-s3.imgix.net/products/256938/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263440/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_3_category.jpg?1660846841=",
+            "https://bonobos-prod-s3.imgix.net/products/263440/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_3_category.jpg",
           color_presentation: "Coffee Houndstooth",
         },
         {
@@ -5991,11 +5991,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg?1597096959=",
+            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg?1592842523=",
+            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg?1597096950=",
+            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg",
           color_presentation: "Gnarled Pine",
         },
         {
@@ -6010,11 +6010,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg?1611341235=",
+            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg?1593465874=",
+            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg?1611341241=",
+            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg",
           color_presentation: "Wheat",
         },
         {
@@ -6029,11 +6029,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg?1613160325=",
+            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg?1611792437=",
+            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg?1613160314=",
+            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg",
           color_presentation: "Sage Green",
         },
         {
@@ -6048,11 +6048,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg?1632923757=",
+            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg?1628602826=",
+            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg?1632923762=",
+            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -6067,11 +6067,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg?1645629243=",
+            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg?1645638598=",
+            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg?1645629236=",
+            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg",
           color_presentation: "Blue Floral",
         },
         {
@@ -6086,17 +6086,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg?1660846860=",
+            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg?1658251488=",
+            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg?1660846863=",
+            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg",
           color_presentation: "Navy Herringbone",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263440/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_3_category.jpg?1660846841=",
+        "https://bonobos-prod-s3.imgix.net/products/263440/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "coffee houndstooth",
@@ -6108,7 +6108,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263439/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_2_hover.jpg?1660846838=",
+        "https://bonobos-prod-s3.imgix.net/products/263439/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -6122,11 +6122,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg?1646935170=",
+            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg?1645720032=",
+            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg?1646935167=",
+            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg",
           color_presentation: "Off White",
         },
         {
@@ -6141,11 +6141,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223728/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_2_hover.jpg?1632863870=",
+            "https://bonobos-prod-s3.imgix.net/products/223728/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218697/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_swatch.jpg?1628602958=",
+            "https://bonobos-prod-s3.imgix.net/products/218697/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223729/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_3_category.jpg?1632863874=",
+            "https://bonobos-prod-s3.imgix.net/products/223729/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_3_category.jpg",
           color_presentation: "Olive Shrub",
         },
         {
@@ -6160,11 +6160,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240361/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_5_hover.jpg?1645719780=",
+            "https://bonobos-prod-s3.imgix.net/products/240361/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240381/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_swatch.jpg?1645719913=",
+            "https://bonobos-prod-s3.imgix.net/products/240381/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240358/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_1_category.jpg?1645719769=",
+            "https://bonobos-prod-s3.imgix.net/products/240358/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_1_category.jpg",
           color_presentation: "Bluefin",
         },
         {
@@ -6179,11 +6179,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241164/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_2_hover.jpg?1646935197=",
+            "https://bonobos-prod-s3.imgix.net/products/241164/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240379/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_swatch.jpg?1645719895=",
+            "https://bonobos-prod-s3.imgix.net/products/240379/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241165/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_3_category.jpg?1646935199=",
+            "https://bonobos-prod-s3.imgix.net/products/241165/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_3_category.jpg",
           color_presentation: "Pale Oak",
         },
         {
@@ -6198,11 +6198,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245714/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_3_hover.jpg?1649689163=",
+            "https://bonobos-prod-s3.imgix.net/products/245714/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244776/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_swatch.jpg?1649340891=",
+            "https://bonobos-prod-s3.imgix.net/products/244776/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245713/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_1_category.jpg?1649689158=",
+            "https://bonobos-prod-s3.imgix.net/products/245713/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_1_category.jpg",
           color_presentation: "Bright Blue Seersucker",
         },
         {
@@ -6217,11 +6217,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263427/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_5_hover.jpg?1660846799=",
+            "https://bonobos-prod-s3.imgix.net/products/263427/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251848/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_swatch.jpg?1653416425=",
+            "https://bonobos-prod-s3.imgix.net/products/251848/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263425/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_3_category.jpg?1660846794=",
+            "https://bonobos-prod-s3.imgix.net/products/263425/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_3_category.jpg",
           color_presentation: "Persimmon Seersucker",
         },
       ],
@@ -6239,11 +6239,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg?1597096959=",
+            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg?1592842523=",
+            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg?1597096950=",
+            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg",
           color_presentation: "Gnarled Pine",
         },
         {
@@ -6258,11 +6258,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg?1611341235=",
+            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg?1593465874=",
+            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg?1611341241=",
+            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg",
           color_presentation: "Wheat",
         },
         {
@@ -6277,11 +6277,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg?1613160325=",
+            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg?1611792437=",
+            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg?1613160314=",
+            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg",
           color_presentation: "Sage Green",
         },
         {
@@ -6296,11 +6296,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg?1645629243=",
+            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg?1645638598=",
+            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg?1645629236=",
+            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg",
           color_presentation: "Blue Floral",
         },
         {
@@ -6315,11 +6315,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242269/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_2_hover.jpg?1648062278=",
+            "https://bonobos-prod-s3.imgix.net/products/242269/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240383/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_swatch.jpg?1645719942=",
+            "https://bonobos-prod-s3.imgix.net/products/240383/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242268/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_1_category.jpg?1648062275=",
+            "https://bonobos-prod-s3.imgix.net/products/242268/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_1_category.jpg",
           color_presentation: "Sea Spray",
         },
         {
@@ -6334,11 +6334,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206914/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_2_hover.jpg?1611341315=",
+            "https://bonobos-prod-s3.imgix.net/products/206914/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/201115/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_swatch.jpg?1602712786=",
+            "https://bonobos-prod-s3.imgix.net/products/201115/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206913/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_1_category.jpg?1611341310=",
+            "https://bonobos-prod-s3.imgix.net/products/206913/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_1_category.jpg",
           color_presentation: "Sapling",
         },
         {
@@ -6353,11 +6353,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215820/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_3_hover.jpg?1621440228=",
+            "https://bonobos-prod-s3.imgix.net/products/215820/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/217111/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_swatch.jpg?1623690557=",
+            "https://bonobos-prod-s3.imgix.net/products/217111/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215818/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_1_category.jpg?1621440222=",
+            "https://bonobos-prod-s3.imgix.net/products/215818/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_1_category.jpg",
           color_presentation: "Crab Red",
         },
       ],
@@ -6374,11 +6374,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263439/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_2_hover.jpg?1660846838=",
+            "https://bonobos-prod-s3.imgix.net/products/263439/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256938/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_swatch.jpg?1658251436=",
+            "https://bonobos-prod-s3.imgix.net/products/256938/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263440/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_3_category.jpg?1660846841=",
+            "https://bonobos-prod-s3.imgix.net/products/263440/original/PANT_ELASTIC-WAIST-PANT_BPT11007NB2789_3_category.jpg",
           color_presentation: "Coffee Houndstooth",
         },
         {
@@ -6393,11 +6393,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg?1632923757=",
+            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg?1628602826=",
+            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg?1632923762=",
+            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -6412,11 +6412,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg?1660846860=",
+            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg?1658251488=",
+            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg?1660846863=",
+            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg",
           color_presentation: "Navy Herringbone",
         },
         {
@@ -6431,11 +6431,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263469/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_4_hover.jpg?1660846942=",
+            "https://bonobos-prod-s3.imgix.net/products/263469/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219700/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_swatch.jpg?1630536209=",
+            "https://bonobos-prod-s3.imgix.net/products/219700/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263466/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_3_category.jpg?1660846926=",
+            "https://bonobos-prod-s3.imgix.net/products/263466/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_3_category.jpg",
           color_presentation: "Taupe Herringbone",
         },
         {
@@ -6450,11 +6450,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225407/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_2_hover.jpg?1632929681=",
+            "https://bonobos-prod-s3.imgix.net/products/225407/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218699/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_swatch.jpg?1628603003=",
+            "https://bonobos-prod-s3.imgix.net/products/218699/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225406/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_1_category.jpg?1632929675=",
+            "https://bonobos-prod-s3.imgix.net/products/225406/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_1_category.jpg",
           color_presentation: "Deep Blue",
         },
         {
@@ -6469,11 +6469,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224660/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_2_hover.jpg?1632923796=",
+            "https://bonobos-prod-s3.imgix.net/products/224660/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218695/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_swatch.jpg?1628602933=",
+            "https://bonobos-prod-s3.imgix.net/products/218695/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224661/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_3_category.jpg?1632923801=",
+            "https://bonobos-prod-s3.imgix.net/products/224661/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_3_category.jpg",
           color_presentation: "Steel Grey",
         },
         {
@@ -6488,11 +6488,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg?1662749047=",
+            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg?1658251365=",
+            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg",
           color_presentation: "Charcoal Jaspe",
         },
       ],
@@ -6524,11 +6524,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267631/original/PANT_CHINO-PANT_BPT10629A1191G_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267631/original/PANT_CHINO-PANT_BPT10629A1191G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265176/original/PANT_CHINO-PANT_BPT10629S1191G_swatch.jpg?1661452156=",
+            "https://bonobos-prod-s3.imgix.net/products/265176/original/PANT_CHINO-PANT_BPT10629S1191G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267620/original/PANT_CHINO-PANT_BPT10629A1191G_3_category.jpg?1662749202=",
+            "https://bonobos-prod-s3.imgix.net/products/267620/original/PANT_CHINO-PANT_BPT10629A1191G_3_category.jpg",
           color_presentation: "Pesto",
         },
         {
@@ -6543,11 +6543,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg?1655852130=",
+            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg?1632232309=",
+            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg?1655852127=",
+            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -6562,11 +6562,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg?1635887792=",
+            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg?1632232530=",
+            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg?1635887795=",
+            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -6581,11 +6581,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg?1654257892=",
+            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg?1653416540=",
+            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg?1654257895=",
+            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -6600,11 +6600,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg?1635887862=",
+            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg?1632232256=",
+            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg?1635887865=",
+            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -6619,11 +6619,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg?1635887815=",
+            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg?1632232412=",
+            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg?1635887812=",
+            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -6638,17 +6638,17 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg?1632232653=",
+            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg?1632232707=",
+            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg?1632232658=",
+            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg",
           color_presentation: "Walnut",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267620/original/PANT_CHINO-PANT_BPT10629A1191G_3_category.jpg?1662749202=",
+        "https://bonobos-prod-s3.imgix.net/products/267620/original/PANT_CHINO-PANT_BPT10629A1191G_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "pesto",
@@ -6661,7 +6661,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267631/original/PANT_CHINO-PANT_BPT10629A1191G_5_hover.jpg?1662749207=",
+        "https://bonobos-prod-s3.imgix.net/products/267631/original/PANT_CHINO-PANT_BPT10629A1191G_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -6675,11 +6675,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg?1654257892=",
+            "https://bonobos-prod-s3.imgix.net/products/254017/original/PANT_CHINO-PANT_BPT10629S1185P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg?1653416540=",
+            "https://bonobos-prod-s3.imgix.net/products/251850/original/PANT_CHINO-PANT_BPT10629S1185P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg?1654257895=",
+            "https://bonobos-prod-s3.imgix.net/products/254018/original/PANT_CHINO-PANT_BPT10629S1185P_3_category.jpg",
           color_presentation: "Rose",
         },
         {
@@ -6694,11 +6694,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249197/original/PANT_CHINO-PANT_BPT10629S1201B_2_hover.jpg?1652195003=",
+            "https://bonobos-prod-s3.imgix.net/products/249197/original/PANT_CHINO-PANT_BPT10629S1201B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247067/original/PANT_CHINO-PANT_BPT10629S1201B_swatch.jpg?1651158597=",
+            "https://bonobos-prod-s3.imgix.net/products/247067/original/PANT_CHINO-PANT_BPT10629S1201B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249196/original/PANT_CHINO-PANT_BPT10629S1201B_1_category.jpg?1652195000=",
+            "https://bonobos-prod-s3.imgix.net/products/249196/original/PANT_CHINO-PANT_BPT10629S1201B_1_category.jpg",
           color_presentation: "Sky Blue",
         },
         {
@@ -6713,11 +6713,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263402/original/PANT_CHINO-PANT_BPT10629S1208B_2_hover.jpg?1660846691=",
+            "https://bonobos-prod-s3.imgix.net/products/263402/original/PANT_CHINO-PANT_BPT10629S1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251852/original/PANT_CHINO-PANT_BPT10629S1208B_swatch.jpg?1653416636=",
+            "https://bonobos-prod-s3.imgix.net/products/251852/original/PANT_CHINO-PANT_BPT10629S1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263403/original/PANT_CHINO-PANT_BPT10629S1208B_3_category.jpg?1660846694=",
+            "https://bonobos-prod-s3.imgix.net/products/263403/original/PANT_CHINO-PANT_BPT10629S1208B_3_category.jpg",
           color_presentation: "Duck Egg",
         },
         {
@@ -6732,11 +6732,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249416/original/PANT_CHINO-PANT_BPT10629S1192B_5_hover.jpg?1652219011=",
+            "https://bonobos-prod-s3.imgix.net/products/249416/original/PANT_CHINO-PANT_BPT10629S1192B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247073/original/PANT_CHINO-PANT_BPT10629S1192B_swatch.jpg?1651158706=",
+            "https://bonobos-prod-s3.imgix.net/products/247073/original/PANT_CHINO-PANT_BPT10629S1192B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249413/original/PANT_CHINO-PANT_BPT10629S1192B_1_category.jpg?1652219000=",
+            "https://bonobos-prod-s3.imgix.net/products/249413/original/PANT_CHINO-PANT_BPT10629S1192B_1_category.jpg",
           color_presentation: "Stonewash",
         },
         {
@@ -6751,11 +6751,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249860/original/PANT_CHINO-PANT_BPT10629S1207G_2_hover.jpg?1652363896=",
+            "https://bonobos-prod-s3.imgix.net/products/249860/original/PANT_CHINO-PANT_BPT10629S1207G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247071/original/PANT_CHINO-PANT_BPT10629S1207G_swatch.jpg?1651158672=",
+            "https://bonobos-prod-s3.imgix.net/products/247071/original/PANT_CHINO-PANT_BPT10629S1207G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/249858/original/PANT_CHINO-PANT_BPT10629S1207G_1_category.jpg?1652363892=",
+            "https://bonobos-prod-s3.imgix.net/products/249858/original/PANT_CHINO-PANT_BPT10629S1207G_1_category.jpg",
           color_presentation: "Light Grass Green",
         },
         {
@@ -6770,11 +6770,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263411/original/PANT_CHINO-PANT_BPT10629S1196B_5_hover.jpg?1660846722=",
+            "https://bonobos-prod-s3.imgix.net/products/263411/original/PANT_CHINO-PANT_BPT10629S1196B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251854/original/PANT_CHINO-PANT_BPT10629S1196B_swatch.jpg?1653416715=",
+            "https://bonobos-prod-s3.imgix.net/products/251854/original/PANT_CHINO-PANT_BPT10629S1196B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263408/original/PANT_CHINO-PANT_BPT10629S1196B_1_category.jpg?1660846713=",
+            "https://bonobos-prod-s3.imgix.net/products/263408/original/PANT_CHINO-PANT_BPT10629S1196B_1_category.jpg",
           color_presentation: "Shark Blue",
         },
         {
@@ -6789,11 +6789,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256123/original/PANT_CHINO-PANT_BPT10629S1209G_2_hover.jpg?1655996585=",
+            "https://bonobos-prod-s3.imgix.net/products/256123/original/PANT_CHINO-PANT_BPT10629S1209G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256427/original/PANT_CHINO-PANT_BPT10629S1209G_swatch.jpg?1656086164=",
+            "https://bonobos-prod-s3.imgix.net/products/256427/original/PANT_CHINO-PANT_BPT10629S1209G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256124/original/PANT_CHINO-PANT_BPT10629S1209G_3_category.jpg?1655996590=",
+            "https://bonobos-prod-s3.imgix.net/products/256124/original/PANT_CHINO-PANT_BPT10629S1209G_3_category.jpg",
           color_presentation: "Pickle Green",
         },
       ],
@@ -6811,11 +6811,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg?1632232653=",
+            "https://bonobos-prod-s3.imgix.net/products/222564/original/PANT_CHINO-PANT_BPT10629S0071G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg?1632232707=",
+            "https://bonobos-prod-s3.imgix.net/products/222573/original/PANT_CHINO-PANT_BPT10629S0071G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg?1632232658=",
+            "https://bonobos-prod-s3.imgix.net/products/222565/original/PANT_CHINO-PANT_BPT10629S0071G_3_category.jpg",
           color_presentation: "Walnut",
         },
         {
@@ -6830,11 +6830,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244838/original/PANT_CHINO-PANT_BPT10629S1136Y_2_hover.jpg?1649425724=",
+            "https://bonobos-prod-s3.imgix.net/products/244838/original/PANT_CHINO-PANT_BPT10629S1136Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244861/original/PANT_CHINO-PANT_BPT10629S1136Y_swatch.jpg?1649425794=",
+            "https://bonobos-prod-s3.imgix.net/products/244861/original/PANT_CHINO-PANT_BPT10629S1136Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244839/original/PANT_CHINO-PANT_BPT10629S1136Y_3_category.jpg?1649425727=",
+            "https://bonobos-prod-s3.imgix.net/products/244839/original/PANT_CHINO-PANT_BPT10629S1136Y_3_category.jpg",
           color_presentation: "Light Yellow",
         },
         {
@@ -6849,11 +6849,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222506/original/PANT_CHINO-PANT_BPT10629S0021G_2_hover.jpg?1632232371=",
+            "https://bonobos-prod-s3.imgix.net/products/222506/original/PANT_CHINO-PANT_BPT10629S0021G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222521/original/PANT_CHINO-PANT_BPT10629S0021G_swatch.jpg?1632232455=",
+            "https://bonobos-prod-s3.imgix.net/products/222521/original/PANT_CHINO-PANT_BPT10629S0021G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222505/original/PANT_CHINO-PANT_BPT10629S0021G_1_category.jpg?1632232366=",
+            "https://bonobos-prod-s3.imgix.net/products/222505/original/PANT_CHINO-PANT_BPT10629S0021G_1_category.jpg",
           color_presentation: "Faded Ivy",
         },
         {
@@ -6868,11 +6868,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222555/original/PANT_CHINO-PANT_BPT10629S0041B_2_hover.jpg?1632232613=",
+            "https://bonobos-prod-s3.imgix.net/products/222555/original/PANT_CHINO-PANT_BPT10629S0041B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222569/original/PANT_CHINO-PANT_BPT10629S0041B_swatch.jpg?1632232669=",
+            "https://bonobos-prod-s3.imgix.net/products/222569/original/PANT_CHINO-PANT_BPT10629S0041B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222554/original/PANT_CHINO-PANT_BPT10629S0041B_1_category.jpg?1632232608=",
+            "https://bonobos-prod-s3.imgix.net/products/222554/original/PANT_CHINO-PANT_BPT10629S0041B_1_category.jpg",
           color_presentation: "Sandalwood",
         },
         {
@@ -6887,11 +6887,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222535/original/PANT_CHINO-PANT_BPT10629S1055B_2_hover.jpg?1632232519=",
+            "https://bonobos-prod-s3.imgix.net/products/222535/original/PANT_CHINO-PANT_BPT10629S1055B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222548/original/PANT_CHINO-PANT_BPT10629S1055B_swatch.jpg?1632232571=",
+            "https://bonobos-prod-s3.imgix.net/products/222548/original/PANT_CHINO-PANT_BPT10629S1055B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222536/original/PANT_CHINO-PANT_BPT10629S1055B_3_category.jpg?1632232524=",
+            "https://bonobos-prod-s3.imgix.net/products/222536/original/PANT_CHINO-PANT_BPT10629S1055B_3_category.jpg",
           color_presentation: "Night Owl",
         },
         {
@@ -6906,11 +6906,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250203/original/PANT_CHINO-PANT_BPT10629S0008B_4_hover.jpg?1652452289=",
+            "https://bonobos-prod-s3.imgix.net/products/250203/original/PANT_CHINO-PANT_BPT10629S0008B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222530/original/PANT_CHINO-PANT_BPT10629S0008B_swatch.jpg?1632232493=",
+            "https://bonobos-prod-s3.imgix.net/products/222530/original/PANT_CHINO-PANT_BPT10629S0008B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250202/original/PANT_CHINO-PANT_BPT10629S0008B_3_category.jpg?1652452286=",
+            "https://bonobos-prod-s3.imgix.net/products/250202/original/PANT_CHINO-PANT_BPT10629S0008B_3_category.jpg",
           color_presentation: "Prussian",
         },
         {
@@ -6925,11 +6925,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222488/original/PANT_CHINO-PANT_BPT10629S0063R_2_hover.jpg?1632232291=",
+            "https://bonobos-prod-s3.imgix.net/products/222488/original/PANT_CHINO-PANT_BPT10629S0063R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222501/original/PANT_CHINO-PANT_BPT10629S0063R_swatch.jpg?1632232346=",
+            "https://bonobos-prod-s3.imgix.net/products/222501/original/PANT_CHINO-PANT_BPT10629S0063R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222489/original/PANT_CHINO-PANT_BPT10629S0063R_3_category.jpg?1632232297=",
+            "https://bonobos-prod-s3.imgix.net/products/222489/original/PANT_CHINO-PANT_BPT10629S0063R_3_category.jpg",
           color_presentation: "Burnt Cinnamon",
         },
       ],
@@ -6946,11 +6946,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267631/original/PANT_CHINO-PANT_BPT10629A1191G_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267631/original/PANT_CHINO-PANT_BPT10629A1191G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265176/original/PANT_CHINO-PANT_BPT10629S1191G_swatch.jpg?1661452156=",
+            "https://bonobos-prod-s3.imgix.net/products/265176/original/PANT_CHINO-PANT_BPT10629S1191G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267620/original/PANT_CHINO-PANT_BPT10629A1191G_3_category.jpg?1662749202=",
+            "https://bonobos-prod-s3.imgix.net/products/267620/original/PANT_CHINO-PANT_BPT10629A1191G_3_category.jpg",
           color_presentation: "Pesto",
         },
         {
@@ -6965,11 +6965,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg?1655852130=",
+            "https://bonobos-prod-s3.imgix.net/products/255779/original/PANT_CHINO-PANT_BPT10629V1091B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg?1632232309=",
+            "https://bonobos-prod-s3.imgix.net/products/222493/original/PANT_CHINO-PANT_BPT10629S1091B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg?1655852127=",
+            "https://bonobos-prod-s3.imgix.net/products/255778/original/PANT_CHINO-PANT_BPT10629V1091B_1_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -6984,11 +6984,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg?1635887792=",
+            "https://bonobos-prod-s3.imgix.net/products/228268/original/PANT_CHINO-PANT_BPT10629S0079G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg?1632232530=",
+            "https://bonobos-prod-s3.imgix.net/products/222539/original/PANT_CHINO-PANT_BPT10629S0079G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg?1635887795=",
+            "https://bonobos-prod-s3.imgix.net/products/228269/original/PANT_CHINO-PANT_BPT10629S0079G_3_category.jpg",
           color_presentation: "Faded Black",
         },
         {
@@ -7003,11 +7003,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg?1635887862=",
+            "https://bonobos-prod-s3.imgix.net/products/228289/original/PANT_CHINO-PANT_BPT10629S1050G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg?1632232256=",
+            "https://bonobos-prod-s3.imgix.net/products/222481/original/PANT_CHINO-PANT_BPT10629S1050G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg?1635887865=",
+            "https://bonobos-prod-s3.imgix.net/products/228290/original/PANT_CHINO-PANT_BPT10629S1050G_3_category.jpg",
           color_presentation: "The Khakis",
         },
         {
@@ -7022,11 +7022,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg?1635887815=",
+            "https://bonobos-prod-s3.imgix.net/products/228275/original/PANT_CHINO-PANT_BPT10629S1052G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg?1632232412=",
+            "https://bonobos-prod-s3.imgix.net/products/222514/original/PANT_CHINO-PANT_BPT10629S1052G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg?1635887812=",
+            "https://bonobos-prod-s3.imgix.net/products/228274/original/PANT_CHINO-PANT_BPT10629S1052G_1_category.jpg",
           color_presentation: "Graphites",
         },
         {
@@ -7041,11 +7041,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228261/original/PANT_CHINO-PANT_BPT10629S0001B_4_hover.jpg?1635887768=",
+            "https://bonobos-prod-s3.imgix.net/products/228261/original/PANT_CHINO-PANT_BPT10629S0001B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222558/original/PANT_CHINO-PANT_BPT10629S0001B_swatch.jpg?1632232620=",
+            "https://bonobos-prod-s3.imgix.net/products/222558/original/PANT_CHINO-PANT_BPT10629S0001B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228258/original/PANT_CHINO-PANT_BPT10629S0001B_1_category.jpg?1635887758=",
+            "https://bonobos-prod-s3.imgix.net/products/228258/original/PANT_CHINO-PANT_BPT10629S0001B_1_category.jpg",
           color_presentation: "Deep Navy",
         },
         {
@@ -7060,11 +7060,11 @@ export default [
           novelty_badge: "Icon Status",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228252/original/PANT_CHINO-PANT_BPT10629S1051G_2_hover.jpg?1635887737=",
+            "https://bonobos-prod-s3.imgix.net/products/228252/original/PANT_CHINO-PANT_BPT10629S1051G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226233/original/PANT_CHINO-PANT_BPT10629S1051G_swatch.jpg?1633037522=",
+            "https://bonobos-prod-s3.imgix.net/products/226233/original/PANT_CHINO-PANT_BPT10629S1051G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/228253/original/PANT_CHINO-PANT_BPT10629S1051G_3_category.jpg?1635887741=",
+            "https://bonobos-prod-s3.imgix.net/products/228253/original/PANT_CHINO-PANT_BPT10629S1051G_3_category.jpg",
           color_presentation: "After Midnights",
         },
       ],
@@ -7096,11 +7096,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267632/original/DENIM_DENIM-JEAN_BDB10919SB2794_5_hover.jpg?1662749208=",
+            "https://bonobos-prod-s3.imgix.net/products/267632/original/DENIM_DENIM-JEAN_BDB10919SB2794_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265439/original/DENIM_DENIM-JEAN_BDB10919SB2794_swatch.jpg?1662055543=",
+            "https://bonobos-prod-s3.imgix.net/products/265439/original/DENIM_DENIM-JEAN_BDB10919SB2794_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267619/original/DENIM_DENIM-JEAN_BDB10919SB2794_3_category.jpg?1662749202=",
+            "https://bonobos-prod-s3.imgix.net/products/267619/original/DENIM_DENIM-JEAN_BDB10919SB2794_3_category.jpg",
           color_presentation: "Dark Ink",
         },
         {
@@ -7115,11 +7115,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg?1645025032=",
+            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg?1644333663=",
+            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg?1645025035=",
+            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -7134,11 +7134,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg?1645025110=",
+            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg?1644249600=",
+            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg?1645025102=",
+            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg",
           color_presentation: "Rinse",
         },
         {
@@ -7153,11 +7153,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg?1645025062=",
+            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg?1644249697=",
+            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg?1645025058=",
+            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg",
           color_presentation: "Blue Magic Wash",
         },
         {
@@ -7172,11 +7172,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg?1645024424=",
+            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg?1644333690=",
+            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg?1645024421=",
+            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg",
           color_presentation: "Light Springs Wash",
         },
         {
@@ -7191,11 +7191,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg?1645024406=",
+            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg?1644249754=",
+            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg?1645024399=",
+            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg",
           color_presentation: "Light Cosmic Wash",
         },
         {
@@ -7210,17 +7210,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg?1645025134=",
+            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg?1644249725=",
+            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg?1645025121=",
+            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg",
           color_presentation: "Whirlpool Wash",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267619/original/DENIM_DENIM-JEAN_BDB10919SB2794_3_category.jpg?1662749202=",
+        "https://bonobos-prod-s3.imgix.net/products/267619/original/DENIM_DENIM-JEAN_BDB10919SB2794_3_category.jpg",
       full_price: 149,
       final_sale: false,
       color_name: "dark ink",
@@ -7232,7 +7232,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267632/original/DENIM_DENIM-JEAN_BDB10919SB2794_5_hover.jpg?1662749208=",
+        "https://bonobos-prod-s3.imgix.net/products/267632/original/DENIM_DENIM-JEAN_BDB10919SB2794_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -7246,11 +7246,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg?1645024424=",
+            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg?1644333690=",
+            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg?1645024421=",
+            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg",
           color_presentation: "Light Springs Wash",
         },
         {
@@ -7265,11 +7265,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg?1645024406=",
+            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg?1644249754=",
+            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg?1645024399=",
+            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg",
           color_presentation: "Light Cosmic Wash",
         },
       ],
@@ -7288,11 +7288,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267632/original/DENIM_DENIM-JEAN_BDB10919SB2794_5_hover.jpg?1662749208=",
+            "https://bonobos-prod-s3.imgix.net/products/267632/original/DENIM_DENIM-JEAN_BDB10919SB2794_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265439/original/DENIM_DENIM-JEAN_BDB10919SB2794_swatch.jpg?1662055543=",
+            "https://bonobos-prod-s3.imgix.net/products/265439/original/DENIM_DENIM-JEAN_BDB10919SB2794_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267619/original/DENIM_DENIM-JEAN_BDB10919SB2794_3_category.jpg?1662749202=",
+            "https://bonobos-prod-s3.imgix.net/products/267619/original/DENIM_DENIM-JEAN_BDB10919SB2794_3_category.jpg",
           color_presentation: "Dark Ink",
         },
         {
@@ -7307,11 +7307,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg?1645025032=",
+            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg?1644333663=",
+            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg?1645025035=",
+            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -7326,11 +7326,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg?1645025110=",
+            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg?1644249600=",
+            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg?1645025102=",
+            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg",
           color_presentation: "Rinse",
         },
         {
@@ -7345,11 +7345,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg?1645025062=",
+            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg?1644249697=",
+            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg?1645025058=",
+            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg",
           color_presentation: "Blue Magic Wash",
         },
         {
@@ -7364,11 +7364,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg?1645025134=",
+            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg?1644249725=",
+            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg?1645025121=",
+            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg",
           color_presentation: "Whirlpool Wash",
         },
         {
@@ -7383,11 +7383,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239350/original/DENIM_DENIM-JEAN_BDB10919SB1668_5_hover.jpg?1645025086=",
+            "https://bonobos-prod-s3.imgix.net/products/239350/original/DENIM_DENIM-JEAN_BDB10919SB1668_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237757/original/DENIM_DENIM-JEAN_BDB10919SB1668_swatch.jpg?1644249651=",
+            "https://bonobos-prod-s3.imgix.net/products/237757/original/DENIM_DENIM-JEAN_BDB10919SB1668_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239347/original/DENIM_DENIM-JEAN_BDB10919SB1668_3_category.jpg?1645025083=",
+            "https://bonobos-prod-s3.imgix.net/products/239347/original/DENIM_DENIM-JEAN_BDB10919SB1668_3_category.jpg",
           color_presentation: "Mystic Wind Wash",
         },
         {
@@ -7402,11 +7402,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263120/original/DENIM_DENIM-JEAN_BDB10919S1176W_5_hover.jpg?1660845911=",
+            "https://bonobos-prod-s3.imgix.net/products/263120/original/DENIM_DENIM-JEAN_BDB10919S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251599/original/DENIM_DENIM-JEAN_BDB10919S1176W_swatch.jpg?1653316359=",
+            "https://bonobos-prod-s3.imgix.net/products/251599/original/DENIM_DENIM-JEAN_BDB10919S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263116/original/DENIM_DENIM-JEAN_BDB10919S1176W_3_category.jpg?1660845906=",
+            "https://bonobos-prod-s3.imgix.net/products/263116/original/DENIM_DENIM-JEAN_BDB10919S1176W_3_category.jpg",
           color_presentation: "Brilliant White Denim",
         },
       ],
@@ -7438,11 +7438,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg?1660848289=",
+            "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256956/original/DENIM_DENIM-JEAN_BDB05260SB2796_swatch.jpg?1658252215=",
+            "https://bonobos-prod-s3.imgix.net/products/256956/original/DENIM_DENIM-JEAN_BDB05260SB2796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg?1660848292=",
+            "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg",
           color_presentation: "Daytime Wash",
         },
         {
@@ -7457,11 +7457,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg?1615903493=",
+            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg?1610742975=",
+            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg?1615903486=",
+            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg",
           color_presentation: "Rain",
         },
         {
@@ -7476,11 +7476,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg?1617828157=",
+            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg?1610742943=",
+            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg?1617828150=",
+            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg",
           color_presentation: "Indigo",
         },
         {
@@ -7495,11 +7495,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg?1634250035=",
+            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg?1610742739=",
+            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg?1634250032=",
+            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg",
           color_presentation: "Dark Rinse",
         },
         {
@@ -7514,11 +7514,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg?1634250073=",
+            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg?1610742777=",
+            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg?1634250058=",
+            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg",
           color_presentation: "Dark Wash",
         },
         {
@@ -7533,11 +7533,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg?1616709159=",
+            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg?1614205544=",
+            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg?1616709140=",
+            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg",
           color_presentation: "Tide Wash",
         },
         {
@@ -7552,17 +7552,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg?1611095014=",
+            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg?1610742906=",
+            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg?1611095008=",
+            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg",
           color_presentation: "Light Wash",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg?1660848292=",
+        "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "daytime wash",
@@ -7574,7 +7574,7 @@ export default [
       number_of_fits: 4,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg?1660848289=",
+        "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -7588,11 +7588,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg?1615903493=",
+            "https://bonobos-prod-s3.imgix.net/products/212191/original/DENIM_DENIM-JEAN_27105-BOW88_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg?1610742975=",
+            "https://bonobos-prod-s3.imgix.net/products/206268/original/DENIM_DENIM-JEAN_27105-BOW88_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg?1615903486=",
+            "https://bonobos-prod-s3.imgix.net/products/212190/original/DENIM_DENIM-JEAN_27105-BOW88_1_category.jpg",
           color_presentation: "Rain",
         },
         {
@@ -7607,11 +7607,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg?1617828157=",
+            "https://bonobos-prod-s3.imgix.net/products/214057/original/DENIM_DENIM-JEAN_27105-BOW68_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg?1610742943=",
+            "https://bonobos-prod-s3.imgix.net/products/206266/original/DENIM_DENIM-JEAN_27105-BOW68_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg?1617828150=",
+            "https://bonobos-prod-s3.imgix.net/products/214056/original/DENIM_DENIM-JEAN_27105-BOW68_1_category.jpg",
           color_presentation: "Indigo",
         },
         {
@@ -7626,11 +7626,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg?1616709159=",
+            "https://bonobos-prod-s3.imgix.net/products/212744/original/DENIM_DENIM-JEAN_27718-BOY21_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg?1614205544=",
+            "https://bonobos-prod-s3.imgix.net/products/210317/original/DENIM_DENIM-JEAN_27718-BOY21_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg?1616709140=",
+            "https://bonobos-prod-s3.imgix.net/products/212741/original/DENIM_DENIM-JEAN_27718-BOY21_1_category.jpg",
           color_presentation: "Tide Wash",
         },
         {
@@ -7645,11 +7645,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg?1611095014=",
+            "https://bonobos-prod-s3.imgix.net/products/206481/original/DENIM_DENIM-JEAN_27718-BOY22_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg?1610742906=",
+            "https://bonobos-prod-s3.imgix.net/products/206264/original/DENIM_DENIM-JEAN_27718-BOY22_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg?1611095008=",
+            "https://bonobos-prod-s3.imgix.net/products/206480/original/DENIM_DENIM-JEAN_27718-BOY22_1_category.jpg",
           color_presentation: "Light Wash",
         },
         {
@@ -7664,11 +7664,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225093/original/DENIM_DENIM-JEAN_BDB05260SB1045_2_hover.jpg?1632926470=",
+            "https://bonobos-prod-s3.imgix.net/products/225093/original/DENIM_DENIM-JEAN_BDB05260SB1045_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219118/original/DENIM_DENIM-JEAN_BDB05260SB1045_swatch.jpg?1629747854=",
+            "https://bonobos-prod-s3.imgix.net/products/219118/original/DENIM_DENIM-JEAN_BDB05260SB1045_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225091/original/DENIM_DENIM-JEAN_BDB05260SB1045_1_category.jpg?1632926464=",
+            "https://bonobos-prod-s3.imgix.net/products/225091/original/DENIM_DENIM-JEAN_BDB05260SB1045_1_category.jpg",
           color_presentation: "River Light Wash",
         },
         {
@@ -7683,11 +7683,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225102/original/DENIM_DENIM-JEAN_BDB05260SB1049_3_hover.jpg?1632926518=",
+            "https://bonobos-prod-s3.imgix.net/products/225102/original/DENIM_DENIM-JEAN_BDB05260SB1049_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219124/original/DENIM_DENIM-JEAN_BDB05260SB1049_swatch.jpg?1629747914=",
+            "https://bonobos-prod-s3.imgix.net/products/219124/original/DENIM_DENIM-JEAN_BDB05260SB1049_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225101/original/DENIM_DENIM-JEAN_BDB05260SB1049_2_category.jpg?1632926514=",
+            "https://bonobos-prod-s3.imgix.net/products/225101/original/DENIM_DENIM-JEAN_BDB05260SB1049_2_category.jpg",
           color_presentation: "Sky Light Wash",
         },
         {
@@ -7702,11 +7702,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/246343/original/DENIM_DENIM-JEAN_BDB05260SB1819_2_hover.jpg?1650378152=",
+            "https://bonobos-prod-s3.imgix.net/products/246343/original/DENIM_DENIM-JEAN_BDB05260SB1819_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/246335/original/DENIM_DENIM-JEAN_BDB05260SB1819_swatch.jpg?1650376661=",
+            "https://bonobos-prod-s3.imgix.net/products/246335/original/DENIM_DENIM-JEAN_BDB05260SB1819_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/246344/original/DENIM_DENIM-JEAN_BDB05260SB1819_3_category.jpg?1650378155=",
+            "https://bonobos-prod-s3.imgix.net/products/246344/original/DENIM_DENIM-JEAN_BDB05260SB1819_3_category.jpg",
           color_presentation: "Sunflower Dark Wash",
         },
       ],
@@ -7725,11 +7725,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg?1660848289=",
+            "https://bonobos-prod-s3.imgix.net/products/263804/original/DENIM_DENIM-JEAN_BDB05260AB2796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256956/original/DENIM_DENIM-JEAN_BDB05260SB2796_swatch.jpg?1658252215=",
+            "https://bonobos-prod-s3.imgix.net/products/256956/original/DENIM_DENIM-JEAN_BDB05260SB2796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg?1660848292=",
+            "https://bonobos-prod-s3.imgix.net/products/263805/original/DENIM_DENIM-JEAN_BDB05260AB2796_3_category.jpg",
           color_presentation: "Daytime Wash",
         },
         {
@@ -7744,11 +7744,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg?1634250035=",
+            "https://bonobos-prod-s3.imgix.net/products/226641/original/DENIM_DENIM-JEAN_BDB05260SBOY19_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg?1610742739=",
+            "https://bonobos-prod-s3.imgix.net/products/206258/original/DENIM_DENIM-JEAN_27718-BOY19_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg?1634250032=",
+            "https://bonobos-prod-s3.imgix.net/products/226640/original/DENIM_DENIM-JEAN_BDB05260SBOY19_1.jpg",
           color_presentation: "Dark Rinse",
         },
         {
@@ -7763,11 +7763,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg?1634250073=",
+            "https://bonobos-prod-s3.imgix.net/products/226650/original/DENIM_DENIM-JEAN_BDB05260SBOY20_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg?1610742777=",
+            "https://bonobos-prod-s3.imgix.net/products/206260/original/DENIM_DENIM-JEAN_27718-BOY20_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg?1634250058=",
+            "https://bonobos-prod-s3.imgix.net/products/226646/original/DENIM_DENIM-JEAN_BDB05260SBOY20_1_category.jpg",
           color_presentation: "Dark Wash",
         },
         {
@@ -7782,11 +7782,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225084/original/DENIM_DENIM-JEAN_BDB05260SB1044_3_hover.jpg?1632926428=",
+            "https://bonobos-prod-s3.imgix.net/products/225084/original/DENIM_DENIM-JEAN_BDB05260SB1044_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/222264/original/DENIM_DENIM-JEAN_BDB05260SB1044_swatch.jpg?1632159774=",
+            "https://bonobos-prod-s3.imgix.net/products/222264/original/DENIM_DENIM-JEAN_BDB05260SB1044_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225081/original/DENIM_DENIM-JEAN_BDB05260SB1044_1_category.jpg?1632926418=",
+            "https://bonobos-prod-s3.imgix.net/products/225081/original/DENIM_DENIM-JEAN_BDB05260SB1044_1_category.jpg",
           color_presentation: "Rain Medium Wash",
         },
         {
@@ -7801,11 +7801,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223638/original/DENIM_DENIM-JEAN_BDB05260SG1050_5_hover.jpg?1632863349=",
+            "https://bonobos-prod-s3.imgix.net/products/223638/original/DENIM_DENIM-JEAN_BDB05260SG1050_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219126/original/DENIM_DENIM-JEAN_BDB05260SG1050_swatch.jpg?1629747943=",
+            "https://bonobos-prod-s3.imgix.net/products/219126/original/DENIM_DENIM-JEAN_BDB05260SG1050_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223639/original/DENIM_DENIM-JEAN_BDB05260SG1050_6_category.jpg?1632863354=",
+            "https://bonobos-prod-s3.imgix.net/products/223639/original/DENIM_DENIM-JEAN_BDB05260SG1050_6_category.jpg",
           color_presentation: "Charcoal Dark Wash",
         },
         {
@@ -7820,11 +7820,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg?1660848333=",
+            "https://bonobos-prod-s3.imgix.net/products/263816/original/DENIM_DENIM-JEAN_BDB05260SB2799_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256960/original/DENIM_DENIM-JEAN_BDB05260SB2799_swatch.jpg?1658252704=",
+            "https://bonobos-prod-s3.imgix.net/products/256960/original/DENIM_DENIM-JEAN_BDB05260SB2799_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg?1660848337=",
+            "https://bonobos-prod-s3.imgix.net/products/263817/original/DENIM_DENIM-JEAN_BDB05260SB2799_3_category.jpg",
           color_presentation: "Storm Cloud Wash",
         },
         {
@@ -7839,11 +7839,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg?1660848309=",
+            "https://bonobos-prod-s3.imgix.net/products/263809/original/DENIM_DENIM-JEAN_BDB05260SB2800_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256958/original/DENIM_DENIM-JEAN_BDB05260SB2800_swatch.jpg?1658252559=",
+            "https://bonobos-prod-s3.imgix.net/products/256958/original/DENIM_DENIM-JEAN_BDB05260SB2800_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg?1660848313=",
+            "https://bonobos-prod-s3.imgix.net/products/263810/original/DENIM_DENIM-JEAN_BDB05260SB2800_3_category.jpg",
           color_presentation: "Midnight Dream Wash",
         },
       ],
@@ -7875,11 +7875,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg?1662748991=",
+            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg?1661452451=",
+            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg?1662748994=",
+            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg",
           color_presentation: "Mineral",
         },
         {
@@ -7894,11 +7894,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg?1649782012=",
+            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg?1649782285=",
+            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg?1649781981=",
+            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg",
           color_presentation: "Dusty Sage",
         },
         {
@@ -7913,11 +7913,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg?1660846664=",
+            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg?1657548821=",
+            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg?1660846667=",
+            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg",
           color_presentation: "Lavender",
         },
         {
@@ -7932,11 +7932,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg?1654257821=",
+            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg?1653416906=",
+            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg?1654257825=",
+            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg",
           color_presentation: "True Blue",
         },
         {
@@ -7951,11 +7951,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg?1654612588=",
+            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg?1653417105=",
+            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg?1654612593=",
+            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg",
           color_presentation: "Grey Glenplaid",
         },
         {
@@ -7970,11 +7970,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg?1649685952=",
+            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg?1649686124=",
+            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg?1649685941=",
+            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg",
           color_presentation: "Navy Seersucker",
         },
         {
@@ -7989,17 +7989,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244712/original/PANT_CHINO-PANT_BPT05342S1092N_2_hover.jpg?1649338878=",
+            "https://bonobos-prod-s3.imgix.net/products/244712/original/PANT_CHINO-PANT_BPT05342S1092N_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244774/original/PANT_CHINO-PANT_BPT05342S1092N_swatch.jpg?1649340539=",
+            "https://bonobos-prod-s3.imgix.net/products/244774/original/PANT_CHINO-PANT_BPT05342S1092N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244713/original/PANT_CHINO-PANT_BPT05342S1092N_3_category.jpg?1649338882=",
+            "https://bonobos-prod-s3.imgix.net/products/244713/original/PANT_CHINO-PANT_BPT05342S1092N_3_category.jpg",
           color_presentation: "Maritime Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg?1662748994=",
+        "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg",
       full_price: 139,
       final_sale: false,
       color_name: "mineral",
@@ -8011,7 +8011,7 @@ export default [
       number_of_fits: 4,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg?1662748991=",
+        "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -8025,11 +8025,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg?1649782012=",
+            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg?1649782285=",
+            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg?1649781981=",
+            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg",
           color_presentation: "Dusty Sage",
         },
         {
@@ -8044,11 +8044,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg?1654257821=",
+            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg?1653416906=",
+            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg?1654257825=",
+            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg",
           color_presentation: "True Blue",
         },
         {
@@ -8063,11 +8063,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg?1654612588=",
+            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg?1653417105=",
+            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg?1654612593=",
+            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg",
           color_presentation: "Grey Glenplaid",
         },
         {
@@ -8082,11 +8082,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg?1649685952=",
+            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg?1649686124=",
+            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg?1649685941=",
+            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg",
           color_presentation: "Navy Seersucker",
         },
         {
@@ -8101,11 +8101,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245165/original/PANT_CHINO-PANT_BPT05342SK1852_2_hover.jpg?1649685982=",
+            "https://bonobos-prod-s3.imgix.net/products/245165/original/PANT_CHINO-PANT_BPT05342SK1852_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245202/original/PANT_CHINO-PANT_BPT05342SK1852_swatch.jpg?1649686176=",
+            "https://bonobos-prod-s3.imgix.net/products/245202/original/PANT_CHINO-PANT_BPT05342SK1852_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245164/original/PANT_CHINO-PANT_BPT05342SK1852_1_category.jpg?1649685977=",
+            "https://bonobos-prod-s3.imgix.net/products/245164/original/PANT_CHINO-PANT_BPT05342SK1852_1_category.jpg",
           color_presentation: "Khaki Seersucker",
         },
         {
@@ -8120,11 +8120,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256171/original/PANT_CHINO-PANT_BPT11008SK2197_2_hover.jpg?1655996895=",
+            "https://bonobos-prod-s3.imgix.net/products/256171/original/PANT_CHINO-PANT_BPT11008SK2197_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256439/original/PANT_CHINO-PANT_BPT11008SK2197_swatch.jpg?1656086740=",
+            "https://bonobos-prod-s3.imgix.net/products/256439/original/PANT_CHINO-PANT_BPT11008SK2197_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256172/original/PANT_CHINO-PANT_BPT11008SK2197_3_category.jpg?1655996900=",
+            "https://bonobos-prod-s3.imgix.net/products/256172/original/PANT_CHINO-PANT_BPT11008SK2197_3_category.jpg",
           color_presentation: "Khaki Stripe",
         },
         {
@@ -8139,11 +8139,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244691/original/PANT_CHINO-PANT_BPT05342S1127Y_2_hover.jpg?1649338800=",
+            "https://bonobos-prod-s3.imgix.net/products/244691/original/PANT_CHINO-PANT_BPT05342S1127Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244768/original/PANT_CHINO-PANT_BPT05342S1127Y_swatch.jpg?1649340434=",
+            "https://bonobos-prod-s3.imgix.net/products/244768/original/PANT_CHINO-PANT_BPT05342S1127Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244690/original/PANT_CHINO-PANT_BPT05342S1127Y_1_catetgory.jpg?1649338797=",
+            "https://bonobos-prod-s3.imgix.net/products/244690/original/PANT_CHINO-PANT_BPT05342S1127Y_1_catetgory.jpg",
           color_presentation: "Honey Mustard",
         },
       ],
@@ -8162,11 +8162,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg?1662748991=",
+            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg?1661452451=",
+            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg?1662748994=",
+            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg",
           color_presentation: "Mineral",
         },
         {
@@ -8181,11 +8181,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg?1660846664=",
+            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg?1657548821=",
+            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg?1660846667=",
+            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg",
           color_presentation: "Lavender",
         },
         {
@@ -8200,11 +8200,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244712/original/PANT_CHINO-PANT_BPT05342S1092N_2_hover.jpg?1649338878=",
+            "https://bonobos-prod-s3.imgix.net/products/244712/original/PANT_CHINO-PANT_BPT05342S1092N_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244774/original/PANT_CHINO-PANT_BPT05342S1092N_swatch.jpg?1649340539=",
+            "https://bonobos-prod-s3.imgix.net/products/244774/original/PANT_CHINO-PANT_BPT05342S1092N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244713/original/PANT_CHINO-PANT_BPT05342S1092N_3_category.jpg?1649338882=",
+            "https://bonobos-prod-s3.imgix.net/products/244713/original/PANT_CHINO-PANT_BPT05342S1092N_3_category.jpg",
           color_presentation: "Maritime Blue",
         },
         {
@@ -8219,11 +8219,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256632/original/PANT_CHINO-PANT_BPT05342S1163G_5_hover.jpg?1657288801=",
+            "https://bonobos-prod-s3.imgix.net/products/256632/original/PANT_CHINO-PANT_BPT05342S1163G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256435/original/PANT_CHINO-PANT_BPT05342S1163G_swatch.jpg?1656086578=",
+            "https://bonobos-prod-s3.imgix.net/products/256435/original/PANT_CHINO-PANT_BPT05342S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256630/original/PANT_CHINO-PANT_BPT05342S1163G_3_category.jpg?1657288791=",
+            "https://bonobos-prod-s3.imgix.net/products/256630/original/PANT_CHINO-PANT_BPT05342S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -8238,11 +8238,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244700/original/PANT_CHINO-PANT_BPT05342S1130K_5_hover.jpg?1649338831=",
+            "https://bonobos-prod-s3.imgix.net/products/244700/original/PANT_CHINO-PANT_BPT05342S1130K_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244770/original/PANT_CHINO-PANT_BPT05342S1130K_swatch.jpg?1649340464=",
+            "https://bonobos-prod-s3.imgix.net/products/244770/original/PANT_CHINO-PANT_BPT05342S1130K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244697/original/PANT_CHINO-PANT_BPT05342S1130K_1_category.jpg?1649338822=",
+            "https://bonobos-prod-s3.imgix.net/products/244697/original/PANT_CHINO-PANT_BPT05342S1130K_1_category.jpg",
           color_presentation: "Cream Beige",
         },
         {
@@ -8257,11 +8257,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244705/original/PANT_CHINO-PANT_BPT05342S1132G_2_hover.jpg?1649338849=",
+            "https://bonobos-prod-s3.imgix.net/products/244705/original/PANT_CHINO-PANT_BPT05342S1132G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244772/original/PANT_CHINO-PANT_BPT05342S1132G_swatch.jpg?1649340494=",
+            "https://bonobos-prod-s3.imgix.net/products/244772/original/PANT_CHINO-PANT_BPT05342S1132G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244706/original/PANT_CHINO-PANT_BPT05342S1132G_3_category.jpg?1649338857=",
+            "https://bonobos-prod-s3.imgix.net/products/244706/original/PANT_CHINO-PANT_BPT05342S1132G_3_category.jpg",
           color_presentation: "Silver Mist",
         },
         {
@@ -8276,11 +8276,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244684/original/PANT_CHINO-PANT_BPT05342S1122G_2_hover.jpg?1649338775=",
+            "https://bonobos-prod-s3.imgix.net/products/244684/original/PANT_CHINO-PANT_BPT05342S1122G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244766/original/PANT_CHINO-PANT_BPT05342S1122G_swatch.jpg?1649340399=",
+            "https://bonobos-prod-s3.imgix.net/products/244766/original/PANT_CHINO-PANT_BPT05342S1122G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244685/original/PANT_CHINO-PANT_BPT05342S1122G_3_category.jpg?1649338778=",
+            "https://bonobos-prod-s3.imgix.net/products/244685/original/PANT_CHINO-PANT_BPT05342S1122G_3_category.jpg",
           color_presentation: "Wild Olive",
         },
       ],
@@ -8312,11 +8312,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263432/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_2_hover.jpg?1660846815=",
+            "https://bonobos-prod-s3.imgix.net/products/263432/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256944/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_swatch.jpg?1658251580=",
+            "https://bonobos-prod-s3.imgix.net/products/256944/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263433/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_3_category.jpg?1660846817=",
+            "https://bonobos-prod-s3.imgix.net/products/263433/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_3_category.jpg",
           color_presentation: "Bluestone",
         },
         {
@@ -8331,11 +8331,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg?1597096959=",
+            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg?1592842523=",
+            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg?1597096950=",
+            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg",
           color_presentation: "Gnarled Pine",
         },
         {
@@ -8350,11 +8350,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg?1611341235=",
+            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg?1593465874=",
+            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg?1611341241=",
+            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg",
           color_presentation: "Wheat",
         },
         {
@@ -8369,11 +8369,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg?1613160325=",
+            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg?1611792437=",
+            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg?1613160314=",
+            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg",
           color_presentation: "Sage Green",
         },
         {
@@ -8388,11 +8388,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg?1632923757=",
+            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg?1628602826=",
+            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg?1632923762=",
+            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -8407,11 +8407,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg?1645629243=",
+            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg?1645638598=",
+            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg?1645629236=",
+            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg",
           color_presentation: "Blue Floral",
         },
         {
@@ -8426,17 +8426,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg?1660846860=",
+            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg?1658251488=",
+            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg?1660846863=",
+            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg",
           color_presentation: "Navy Herringbone",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263433/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_3_category.jpg?1660846817=",
+        "https://bonobos-prod-s3.imgix.net/products/263433/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_3_category.jpg",
       full_price: 99,
       final_sale: false,
       color_name: "bluestone",
@@ -8448,7 +8448,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263432/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_2_hover.jpg?1660846815=",
+        "https://bonobos-prod-s3.imgix.net/products/263432/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -8462,11 +8462,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg?1646935170=",
+            "https://bonobos-prod-s3.imgix.net/products/241157/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg?1645720032=",
+            "https://bonobos-prod-s3.imgix.net/products/240387/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg?1646935167=",
+            "https://bonobos-prod-s3.imgix.net/products/241156/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1135K_1_category.jpg",
           color_presentation: "Off White",
         },
         {
@@ -8481,11 +8481,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223728/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_2_hover.jpg?1632863870=",
+            "https://bonobos-prod-s3.imgix.net/products/223728/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218697/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_swatch.jpg?1628602958=",
+            "https://bonobos-prod-s3.imgix.net/products/218697/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223729/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_3_category.jpg?1632863874=",
+            "https://bonobos-prod-s3.imgix.net/products/223729/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0030Y_3_category.jpg",
           color_presentation: "Olive Shrub",
         },
         {
@@ -8500,11 +8500,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240361/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_5_hover.jpg?1645719780=",
+            "https://bonobos-prod-s3.imgix.net/products/240361/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240381/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_swatch.jpg?1645719913=",
+            "https://bonobos-prod-s3.imgix.net/products/240381/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240358/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_1_category.jpg?1645719769=",
+            "https://bonobos-prod-s3.imgix.net/products/240358/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1096B_1_category.jpg",
           color_presentation: "Bluefin",
         },
         {
@@ -8519,11 +8519,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241164/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_2_hover.jpg?1646935197=",
+            "https://bonobos-prod-s3.imgix.net/products/241164/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240379/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_swatch.jpg?1645719895=",
+            "https://bonobos-prod-s3.imgix.net/products/240379/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241165/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_3_category.jpg?1646935199=",
+            "https://bonobos-prod-s3.imgix.net/products/241165/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1074K_3_category.jpg",
           color_presentation: "Pale Oak",
         },
         {
@@ -8538,11 +8538,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245714/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_3_hover.jpg?1649689163=",
+            "https://bonobos-prod-s3.imgix.net/products/245714/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244776/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_swatch.jpg?1649340891=",
+            "https://bonobos-prod-s3.imgix.net/products/244776/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245713/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_1_category.jpg?1649689158=",
+            "https://bonobos-prod-s3.imgix.net/products/245713/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1859_1_category.jpg",
           color_presentation: "Bright Blue Seersucker",
         },
         {
@@ -8557,11 +8557,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263427/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_5_hover.jpg?1660846799=",
+            "https://bonobos-prod-s3.imgix.net/products/263427/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251848/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_swatch.jpg?1653416425=",
+            "https://bonobos-prod-s3.imgix.net/products/251848/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263425/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_3_category.jpg?1660846794=",
+            "https://bonobos-prod-s3.imgix.net/products/263425/original/PANT_ELASTIC-WAIST-PANT_BPT11007NP1974_3_category.jpg",
           color_presentation: "Persimmon Seersucker",
         },
       ],
@@ -8579,11 +8579,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg?1597096959=",
+            "https://bonobos-prod-s3.imgix.net/products/192530/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg?1592842523=",
+            "https://bonobos-prod-s3.imgix.net/products/189095/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg?1597096950=",
+            "https://bonobos-prod-s3.imgix.net/products/192528/original/PANT_ELASTIC-WAIST-PANT_26973-GRU64_1_category.jpg",
           color_presentation: "Gnarled Pine",
         },
         {
@@ -8598,11 +8598,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg?1611341235=",
+            "https://bonobos-prod-s3.imgix.net/products/206901/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1.1.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg?1593465874=",
+            "https://bonobos-prod-s3.imgix.net/products/189231/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg?1611341241=",
+            "https://bonobos-prod-s3.imgix.net/products/206902/original/PANT_ELASTIC-WAIST-PANT_26973-KH099_1_category.jpg",
           color_presentation: "Wheat",
         },
         {
@@ -8617,11 +8617,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg?1613160325=",
+            "https://bonobos-prod-s3.imgix.net/products/209314/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg?1611792437=",
+            "https://bonobos-prod-s3.imgix.net/products/207688/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg?1613160314=",
+            "https://bonobos-prod-s3.imgix.net/products/209311/original/PANT_ELASTIC-WAIST-PANT_26973-GRZ92_1_category.jpg",
           color_presentation: "Sage Green",
         },
         {
@@ -8636,11 +8636,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg?1645629243=",
+            "https://bonobos-prod-s3.imgix.net/products/240090/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg?1645638598=",
+            "https://bonobos-prod-s3.imgix.net/products/240200/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg?1645629236=",
+            "https://bonobos-prod-s3.imgix.net/products/240088/original/PANT_ELASTIC-WAIST-PANT_BPT10925NB1630_3_category.jpg",
           color_presentation: "Blue Floral",
         },
         {
@@ -8655,11 +8655,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242269/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_2_hover.jpg?1648062278=",
+            "https://bonobos-prod-s3.imgix.net/products/242269/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240383/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_swatch.jpg?1645719942=",
+            "https://bonobos-prod-s3.imgix.net/products/240383/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242268/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_1_category.jpg?1648062275=",
+            "https://bonobos-prod-s3.imgix.net/products/242268/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1110G_1_category.jpg",
           color_presentation: "Sea Spray",
         },
         {
@@ -8674,11 +8674,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206914/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_2_hover.jpg?1611341315=",
+            "https://bonobos-prod-s3.imgix.net/products/206914/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/201115/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_swatch.jpg?1602712786=",
+            "https://bonobos-prod-s3.imgix.net/products/201115/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/206913/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_1_category.jpg?1611341310=",
+            "https://bonobos-prod-s3.imgix.net/products/206913/original/PANT_ELASTIC-WAIST-PANT_26973-KH276_1_category.jpg",
           color_presentation: "Sapling",
         },
         {
@@ -8693,11 +8693,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215820/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_3_hover.jpg?1621440228=",
+            "https://bonobos-prod-s3.imgix.net/products/215820/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_3_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/217111/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_swatch.jpg?1623690557=",
+            "https://bonobos-prod-s3.imgix.net/products/217111/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215818/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_1_category.jpg?1621440222=",
+            "https://bonobos-prod-s3.imgix.net/products/215818/original/PANT_ELASTIC-WAIST-PANT_26973-REF08_1_category.jpg",
           color_presentation: "Crab Red",
         },
       ],
@@ -8714,11 +8714,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263432/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_2_hover.jpg?1660846815=",
+            "https://bonobos-prod-s3.imgix.net/products/263432/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256944/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_swatch.jpg?1658251580=",
+            "https://bonobos-prod-s3.imgix.net/products/256944/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263433/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_3_category.jpg?1660846817=",
+            "https://bonobos-prod-s3.imgix.net/products/263433/original/PANT_ELASTIC-WAIST-PANT_BPT10663N1221B_3_category.jpg",
           color_presentation: "Bluestone",
         },
         {
@@ -8733,11 +8733,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg?1632923757=",
+            "https://bonobos-prod-s3.imgix.net/products/224653/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg?1628602826=",
+            "https://bonobos-prod-s3.imgix.net/products/218689/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg?1632923762=",
+            "https://bonobos-prod-s3.imgix.net/products/224654/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -8752,11 +8752,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg?1660846860=",
+            "https://bonobos-prod-s3.imgix.net/products/263446/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg?1658251488=",
+            "https://bonobos-prod-s3.imgix.net/products/256940/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg?1660846863=",
+            "https://bonobos-prod-s3.imgix.net/products/263447/original/PANT_ELASTIC-WAIST-PANT_BPT11007NN2791_3_category.jpg",
           color_presentation: "Navy Herringbone",
         },
         {
@@ -8771,11 +8771,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263469/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_4_hover.jpg?1660846942=",
+            "https://bonobos-prod-s3.imgix.net/products/263469/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219700/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_swatch.jpg?1630536209=",
+            "https://bonobos-prod-s3.imgix.net/products/219700/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263466/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_3_category.jpg?1660846926=",
+            "https://bonobos-prod-s3.imgix.net/products/263466/original/PANT_ELASTIC-WAIST-PANT_BPT05405NK0770_3_category.jpg",
           color_presentation: "Taupe Herringbone",
         },
         {
@@ -8790,11 +8790,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225407/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_2_hover.jpg?1632929681=",
+            "https://bonobos-prod-s3.imgix.net/products/225407/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218699/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_swatch.jpg?1628603003=",
+            "https://bonobos-prod-s3.imgix.net/products/218699/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225406/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_1_category.jpg?1632929675=",
+            "https://bonobos-prod-s3.imgix.net/products/225406/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0002N_1_category.jpg",
           color_presentation: "Deep Blue",
         },
         {
@@ -8809,11 +8809,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224660/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_2_hover.jpg?1632923796=",
+            "https://bonobos-prod-s3.imgix.net/products/224660/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/218695/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_swatch.jpg?1628602933=",
+            "https://bonobos-prod-s3.imgix.net/products/218695/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224661/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_3_category.jpg?1632923801=",
+            "https://bonobos-prod-s3.imgix.net/products/224661/original/PANT_ELASTIC-WAIST-PANT_BPT10663N0078G_3_category.jpg",
           color_presentation: "Steel Grey",
         },
         {
@@ -8828,11 +8828,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg?1662749047=",
+            "https://bonobos-prod-s3.imgix.net/products/267341/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg?1658251365=",
+            "https://bonobos-prod-s3.imgix.net/products/256936/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267346/original/PANT_ELASTIC-WAIST-PANT_BPT11007NG2790_3_category.jpg",
           color_presentation: "Charcoal Jaspe",
         },
       ],
@@ -8864,11 +8864,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -8883,11 +8883,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -8902,11 +8902,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -8921,11 +8921,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -8940,17 +8940,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+        "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
       full_price: 129,
       final_sale: false,
       color_name: "asphalt grey",
@@ -8962,7 +8962,7 @@ export default [
       number_of_fits: 3,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+        "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -8979,11 +8979,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -8998,11 +8998,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -9017,11 +9017,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -9036,11 +9036,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -9055,11 +9055,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
       ],
@@ -9091,11 +9091,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267584/original/PANT_CHINO-PANT_BPT05342S1229R_2_hover.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267584/original/PANT_CHINO-PANT_BPT05342S1229R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265186/original/PANT_CHINO-PANT_BPT05342S1229R_swatch.jpg?1661452652=",
+            "https://bonobos-prod-s3.imgix.net/products/265186/original/PANT_CHINO-PANT_BPT05342S1229R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267588/original/PANT_CHINO-PANT_BPT05342S1229R_3_category.jpg?1662749181=",
+            "https://bonobos-prod-s3.imgix.net/products/267588/original/PANT_CHINO-PANT_BPT05342S1229R_3_category.jpg",
           color_presentation: "Cordial Cherry",
         },
         {
@@ -9110,11 +9110,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg?1662748991=",
+            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg?1661452451=",
+            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg?1662748994=",
+            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg",
           color_presentation: "Mineral",
         },
         {
@@ -9129,11 +9129,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg?1649782012=",
+            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg?1649782285=",
+            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg?1649781981=",
+            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg",
           color_presentation: "Dusty Sage",
         },
         {
@@ -9148,11 +9148,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg?1660846664=",
+            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg?1657548821=",
+            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg?1660846667=",
+            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg",
           color_presentation: "Lavender",
         },
         {
@@ -9167,11 +9167,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg?1654257821=",
+            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg?1653416906=",
+            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg?1654257825=",
+            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg",
           color_presentation: "True Blue",
         },
         {
@@ -9186,11 +9186,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg?1654612588=",
+            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg?1653417105=",
+            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg?1654612593=",
+            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg",
           color_presentation: "Grey Glenplaid",
         },
         {
@@ -9205,17 +9205,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg?1649685952=",
+            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg?1649686124=",
+            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg?1649685941=",
+            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg",
           color_presentation: "Navy Seersucker",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267588/original/PANT_CHINO-PANT_BPT05342S1229R_3_category.jpg?1662749181=",
+        "https://bonobos-prod-s3.imgix.net/products/267588/original/PANT_CHINO-PANT_BPT05342S1229R_3_category.jpg",
       full_price: 139,
       final_sale: false,
       color_name: "cordial cherry",
@@ -9227,7 +9227,7 @@ export default [
       number_of_fits: 4,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267584/original/PANT_CHINO-PANT_BPT05342S1229R_2_hover.jpg?1662749178=",
+        "https://bonobos-prod-s3.imgix.net/products/267584/original/PANT_CHINO-PANT_BPT05342S1229R_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -9241,11 +9241,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg?1649782012=",
+            "https://bonobos-prod-s3.imgix.net/products/245789/original/PANT_CHINO-PANT_BPT05342S1111G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg?1649782285=",
+            "https://bonobos-prod-s3.imgix.net/products/245838/original/PANT_CHINO-PANT_BPT05342S1111G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg?1649781981=",
+            "https://bonobos-prod-s3.imgix.net/products/245788/original/PANT_CHINO-PANT_BPT05342S1111G_1_category.jpg",
           color_presentation: "Dusty Sage",
         },
         {
@@ -9260,11 +9260,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg?1654257821=",
+            "https://bonobos-prod-s3.imgix.net/products/253997/original/PANT_CHINO-PANT_BPT05342S1195B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg?1653416906=",
+            "https://bonobos-prod-s3.imgix.net/products/251856/original/PANT_CHINO-PANT_BPT05342S1195B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg?1654257825=",
+            "https://bonobos-prod-s3.imgix.net/products/253998/original/PANT_CHINO-PANT_BPT05342S1195B_3_category.jpg",
           color_presentation: "True Blue",
         },
         {
@@ -9279,11 +9279,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg?1654612588=",
+            "https://bonobos-prod-s3.imgix.net/products/254375/original/PANT_CHINO-PANT_BPT11008SG2199_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg?1653417105=",
+            "https://bonobos-prod-s3.imgix.net/products/251858/original/PANT_CHINO-PANT_BPT11008SG2199_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg?1654612593=",
+            "https://bonobos-prod-s3.imgix.net/products/254377/original/PANT_CHINO-PANT_BPT11008SG2199_3_category.jpg",
           color_presentation: "Grey Glenplaid",
         },
         {
@@ -9298,11 +9298,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg?1649685952=",
+            "https://bonobos-prod-s3.imgix.net/products/245160/original/PANT_CHINO-PANT_BPT05342SN1854_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg?1649686124=",
+            "https://bonobos-prod-s3.imgix.net/products/245191/original/PANT_CHINO-PANT_BPT05342SN1854_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg?1649685941=",
+            "https://bonobos-prod-s3.imgix.net/products/245158/original/PANT_CHINO-PANT_BPT05342SN1854_3_category.jpg",
           color_presentation: "Navy Seersucker",
         },
         {
@@ -9317,11 +9317,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245165/original/PANT_CHINO-PANT_BPT05342SK1852_2_hover.jpg?1649685982=",
+            "https://bonobos-prod-s3.imgix.net/products/245165/original/PANT_CHINO-PANT_BPT05342SK1852_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245202/original/PANT_CHINO-PANT_BPT05342SK1852_swatch.jpg?1649686176=",
+            "https://bonobos-prod-s3.imgix.net/products/245202/original/PANT_CHINO-PANT_BPT05342SK1852_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/245164/original/PANT_CHINO-PANT_BPT05342SK1852_1_category.jpg?1649685977=",
+            "https://bonobos-prod-s3.imgix.net/products/245164/original/PANT_CHINO-PANT_BPT05342SK1852_1_category.jpg",
           color_presentation: "Khaki Seersucker",
         },
         {
@@ -9336,11 +9336,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256171/original/PANT_CHINO-PANT_BPT11008SK2197_2_hover.jpg?1655996895=",
+            "https://bonobos-prod-s3.imgix.net/products/256171/original/PANT_CHINO-PANT_BPT11008SK2197_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256439/original/PANT_CHINO-PANT_BPT11008SK2197_swatch.jpg?1656086740=",
+            "https://bonobos-prod-s3.imgix.net/products/256439/original/PANT_CHINO-PANT_BPT11008SK2197_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256172/original/PANT_CHINO-PANT_BPT11008SK2197_3_category.jpg?1655996900=",
+            "https://bonobos-prod-s3.imgix.net/products/256172/original/PANT_CHINO-PANT_BPT11008SK2197_3_category.jpg",
           color_presentation: "Khaki Stripe",
         },
         {
@@ -9355,11 +9355,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244691/original/PANT_CHINO-PANT_BPT05342S1127Y_2_hover.jpg?1649338800=",
+            "https://bonobos-prod-s3.imgix.net/products/244691/original/PANT_CHINO-PANT_BPT05342S1127Y_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244768/original/PANT_CHINO-PANT_BPT05342S1127Y_swatch.jpg?1649340434=",
+            "https://bonobos-prod-s3.imgix.net/products/244768/original/PANT_CHINO-PANT_BPT05342S1127Y_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244690/original/PANT_CHINO-PANT_BPT05342S1127Y_1_catetgory.jpg?1649338797=",
+            "https://bonobos-prod-s3.imgix.net/products/244690/original/PANT_CHINO-PANT_BPT05342S1127Y_1_catetgory.jpg",
           color_presentation: "Honey Mustard",
         },
       ],
@@ -9378,11 +9378,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267584/original/PANT_CHINO-PANT_BPT05342S1229R_2_hover.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267584/original/PANT_CHINO-PANT_BPT05342S1229R_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265186/original/PANT_CHINO-PANT_BPT05342S1229R_swatch.jpg?1661452652=",
+            "https://bonobos-prod-s3.imgix.net/products/265186/original/PANT_CHINO-PANT_BPT05342S1229R_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267588/original/PANT_CHINO-PANT_BPT05342S1229R_3_category.jpg?1662749181=",
+            "https://bonobos-prod-s3.imgix.net/products/267588/original/PANT_CHINO-PANT_BPT05342S1229R_3_category.jpg",
           color_presentation: "Cordial Cherry",
         },
         {
@@ -9397,11 +9397,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg?1662748991=",
+            "https://bonobos-prod-s3.imgix.net/products/267209/original/PANT_CHINO-PANT_BPT05342S1198G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg?1661452451=",
+            "https://bonobos-prod-s3.imgix.net/products/265182/original/PANT_CHINO-PANT_BPT05342S1198G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg?1662748994=",
+            "https://bonobos-prod-s3.imgix.net/products/267213/original/PANT_CHINO-PANT_BPT05342S1198G_3_category.jpg",
           color_presentation: "Mineral",
         },
         {
@@ -9416,11 +9416,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg?1660846664=",
+            "https://bonobos-prod-s3.imgix.net/products/263395/original/PANT_CHINO-PANT_BPT05342S1178P_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg?1657548821=",
+            "https://bonobos-prod-s3.imgix.net/products/256641/original/PANT_CHINO-PANT_BPT05342S1178P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg?1660846667=",
+            "https://bonobos-prod-s3.imgix.net/products/263396/original/PANT_CHINO-PANT_BPT05342S1178P_3_category.jpg",
           color_presentation: "Lavender",
         },
         {
@@ -9435,11 +9435,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244712/original/PANT_CHINO-PANT_BPT05342S1092N_2_hover.jpg?1649338878=",
+            "https://bonobos-prod-s3.imgix.net/products/244712/original/PANT_CHINO-PANT_BPT05342S1092N_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244774/original/PANT_CHINO-PANT_BPT05342S1092N_swatch.jpg?1649340539=",
+            "https://bonobos-prod-s3.imgix.net/products/244774/original/PANT_CHINO-PANT_BPT05342S1092N_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244713/original/PANT_CHINO-PANT_BPT05342S1092N_3_category.jpg?1649338882=",
+            "https://bonobos-prod-s3.imgix.net/products/244713/original/PANT_CHINO-PANT_BPT05342S1092N_3_category.jpg",
           color_presentation: "Maritime Blue",
         },
         {
@@ -9454,11 +9454,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256632/original/PANT_CHINO-PANT_BPT05342S1163G_5_hover.jpg?1657288801=",
+            "https://bonobos-prod-s3.imgix.net/products/256632/original/PANT_CHINO-PANT_BPT05342S1163G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256435/original/PANT_CHINO-PANT_BPT05342S1163G_swatch.jpg?1656086578=",
+            "https://bonobos-prod-s3.imgix.net/products/256435/original/PANT_CHINO-PANT_BPT05342S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256630/original/PANT_CHINO-PANT_BPT05342S1163G_3_category.jpg?1657288791=",
+            "https://bonobos-prod-s3.imgix.net/products/256630/original/PANT_CHINO-PANT_BPT05342S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -9473,11 +9473,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244700/original/PANT_CHINO-PANT_BPT05342S1130K_5_hover.jpg?1649338831=",
+            "https://bonobos-prod-s3.imgix.net/products/244700/original/PANT_CHINO-PANT_BPT05342S1130K_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244770/original/PANT_CHINO-PANT_BPT05342S1130K_swatch.jpg?1649340464=",
+            "https://bonobos-prod-s3.imgix.net/products/244770/original/PANT_CHINO-PANT_BPT05342S1130K_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244697/original/PANT_CHINO-PANT_BPT05342S1130K_1_category.jpg?1649338822=",
+            "https://bonobos-prod-s3.imgix.net/products/244697/original/PANT_CHINO-PANT_BPT05342S1130K_1_category.jpg",
           color_presentation: "Cream Beige",
         },
         {
@@ -9492,11 +9492,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244705/original/PANT_CHINO-PANT_BPT05342S1132G_2_hover.jpg?1649338849=",
+            "https://bonobos-prod-s3.imgix.net/products/244705/original/PANT_CHINO-PANT_BPT05342S1132G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244772/original/PANT_CHINO-PANT_BPT05342S1132G_swatch.jpg?1649340494=",
+            "https://bonobos-prod-s3.imgix.net/products/244772/original/PANT_CHINO-PANT_BPT05342S1132G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/244706/original/PANT_CHINO-PANT_BPT05342S1132G_3_category.jpg?1649338857=",
+            "https://bonobos-prod-s3.imgix.net/products/244706/original/PANT_CHINO-PANT_BPT05342S1132G_3_category.jpg",
           color_presentation: "Silver Mist",
         },
       ],
@@ -9528,11 +9528,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267557/original/DENIM_DENIM-JEAN_BDB10919SB2793_5_hover.jpg?1662749162=",
+            "https://bonobos-prod-s3.imgix.net/products/267557/original/DENIM_DENIM-JEAN_BDB10919SB2793_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265437/original/DENIM_DENIM-JEAN_BDB10919SB2793_swatch.jpg?1662055410=",
+            "https://bonobos-prod-s3.imgix.net/products/265437/original/DENIM_DENIM-JEAN_BDB10919SB2793_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267547/original/DENIM_DENIM-JEAN_BDB10919SB2793_3_category.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267547/original/DENIM_DENIM-JEAN_BDB10919SB2793_3_category.jpg",
           color_presentation: "Blue Chalk",
         },
         {
@@ -9547,11 +9547,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg?1645025032=",
+            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg?1644333663=",
+            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg?1645025035=",
+            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -9566,11 +9566,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg?1645025110=",
+            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg?1644249600=",
+            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg?1645025102=",
+            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg",
           color_presentation: "Rinse",
         },
         {
@@ -9585,11 +9585,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg?1645025062=",
+            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg?1644249697=",
+            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg?1645025058=",
+            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg",
           color_presentation: "Blue Magic Wash",
         },
         {
@@ -9604,11 +9604,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg?1645024424=",
+            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg?1644333690=",
+            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg?1645024421=",
+            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg",
           color_presentation: "Light Springs Wash",
         },
         {
@@ -9623,11 +9623,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg?1645024406=",
+            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg?1644249754=",
+            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg?1645024399=",
+            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg",
           color_presentation: "Light Cosmic Wash",
         },
         {
@@ -9642,17 +9642,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg?1645025134=",
+            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg?1644249725=",
+            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg?1645025121=",
+            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg",
           color_presentation: "Whirlpool Wash",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267547/original/DENIM_DENIM-JEAN_BDB10919SB2793_3_category.jpg?1662749155=",
+        "https://bonobos-prod-s3.imgix.net/products/267547/original/DENIM_DENIM-JEAN_BDB10919SB2793_3_category.jpg",
       full_price: 149,
       final_sale: false,
       color_name: "blue chalk",
@@ -9664,7 +9664,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267557/original/DENIM_DENIM-JEAN_BDB10919SB2793_5_hover.jpg?1662749162=",
+        "https://bonobos-prod-s3.imgix.net/products/267557/original/DENIM_DENIM-JEAN_BDB10919SB2793_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -9678,11 +9678,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg?1645024424=",
+            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg?1644333690=",
+            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg?1645024421=",
+            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg",
           color_presentation: "Light Springs Wash",
         },
         {
@@ -9697,11 +9697,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg?1645024406=",
+            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg?1644249754=",
+            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg?1645024399=",
+            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg",
           color_presentation: "Light Cosmic Wash",
         },
       ],
@@ -9720,11 +9720,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267557/original/DENIM_DENIM-JEAN_BDB10919SB2793_5_hover.jpg?1662749162=",
+            "https://bonobos-prod-s3.imgix.net/products/267557/original/DENIM_DENIM-JEAN_BDB10919SB2793_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265437/original/DENIM_DENIM-JEAN_BDB10919SB2793_swatch.jpg?1662055410=",
+            "https://bonobos-prod-s3.imgix.net/products/265437/original/DENIM_DENIM-JEAN_BDB10919SB2793_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267547/original/DENIM_DENIM-JEAN_BDB10919SB2793_3_category.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267547/original/DENIM_DENIM-JEAN_BDB10919SB2793_3_category.jpg",
           color_presentation: "Blue Chalk",
         },
         {
@@ -9739,11 +9739,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg?1645025032=",
+            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg?1644333663=",
+            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg?1645025035=",
+            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -9758,11 +9758,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg?1645025110=",
+            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg?1644249600=",
+            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg?1645025102=",
+            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg",
           color_presentation: "Rinse",
         },
         {
@@ -9777,11 +9777,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg?1645025062=",
+            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg?1644249697=",
+            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg?1645025058=",
+            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg",
           color_presentation: "Blue Magic Wash",
         },
         {
@@ -9796,11 +9796,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg?1645025134=",
+            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg?1644249725=",
+            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg?1645025121=",
+            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg",
           color_presentation: "Whirlpool Wash",
         },
         {
@@ -9815,11 +9815,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239350/original/DENIM_DENIM-JEAN_BDB10919SB1668_5_hover.jpg?1645025086=",
+            "https://bonobos-prod-s3.imgix.net/products/239350/original/DENIM_DENIM-JEAN_BDB10919SB1668_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237757/original/DENIM_DENIM-JEAN_BDB10919SB1668_swatch.jpg?1644249651=",
+            "https://bonobos-prod-s3.imgix.net/products/237757/original/DENIM_DENIM-JEAN_BDB10919SB1668_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239347/original/DENIM_DENIM-JEAN_BDB10919SB1668_3_category.jpg?1645025083=",
+            "https://bonobos-prod-s3.imgix.net/products/239347/original/DENIM_DENIM-JEAN_BDB10919SB1668_3_category.jpg",
           color_presentation: "Mystic Wind Wash",
         },
         {
@@ -9834,11 +9834,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263120/original/DENIM_DENIM-JEAN_BDB10919S1176W_5_hover.jpg?1660845911=",
+            "https://bonobos-prod-s3.imgix.net/products/263120/original/DENIM_DENIM-JEAN_BDB10919S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251599/original/DENIM_DENIM-JEAN_BDB10919S1176W_swatch.jpg?1653316359=",
+            "https://bonobos-prod-s3.imgix.net/products/251599/original/DENIM_DENIM-JEAN_BDB10919S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263116/original/DENIM_DENIM-JEAN_BDB10919S1176W_3_category.jpg?1660845906=",
+            "https://bonobos-prod-s3.imgix.net/products/263116/original/DENIM_DENIM-JEAN_BDB10919S1176W_3_category.jpg",
           color_presentation: "Brilliant White Denim",
         },
       ],
@@ -9870,11 +9870,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267675/original/DENIM_DENIM-JEAN_BDB10919SB2792_5_hover.jpg?1662749233=",
+            "https://bonobos-prod-s3.imgix.net/products/267675/original/DENIM_DENIM-JEAN_BDB10919SB2792_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265441/original/DENIM_DENIM-JEAN_BDB10919SB2792_swatch.jpg?1662055631=",
+            "https://bonobos-prod-s3.imgix.net/products/265441/original/DENIM_DENIM-JEAN_BDB10919SB2792_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267663/original/DENIM_DENIM-JEAN_BDB10919SB2792_3_category.jpg?1662749227=",
+            "https://bonobos-prod-s3.imgix.net/products/267663/original/DENIM_DENIM-JEAN_BDB10919SB2792_3_category.jpg",
           color_presentation: "River Bank",
         },
         {
@@ -9889,11 +9889,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg?1645025032=",
+            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg?1644333663=",
+            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg?1645025035=",
+            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -9908,11 +9908,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg?1645025110=",
+            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg?1644249600=",
+            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg?1645025102=",
+            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg",
           color_presentation: "Rinse",
         },
         {
@@ -9927,11 +9927,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg?1645025062=",
+            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg?1644249697=",
+            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg?1645025058=",
+            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg",
           color_presentation: "Blue Magic Wash",
         },
         {
@@ -9946,11 +9946,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg?1645024424=",
+            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg?1644333690=",
+            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg?1645024421=",
+            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg",
           color_presentation: "Light Springs Wash",
         },
         {
@@ -9965,11 +9965,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg?1645024406=",
+            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg?1644249754=",
+            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg?1645024399=",
+            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg",
           color_presentation: "Light Cosmic Wash",
         },
         {
@@ -9984,17 +9984,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg?1645025134=",
+            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg?1644249725=",
+            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg?1645025121=",
+            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg",
           color_presentation: "Whirlpool Wash",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267663/original/DENIM_DENIM-JEAN_BDB10919SB2792_3_category.jpg?1662749227=",
+        "https://bonobos-prod-s3.imgix.net/products/267663/original/DENIM_DENIM-JEAN_BDB10919SB2792_3_category.jpg",
       full_price: 149,
       final_sale: false,
       color_name: "river bank",
@@ -10006,7 +10006,7 @@ export default [
       number_of_fits: 5,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267675/original/DENIM_DENIM-JEAN_BDB10919SB2792_5_hover.jpg?1662749233=",
+        "https://bonobos-prod-s3.imgix.net/products/267675/original/DENIM_DENIM-JEAN_BDB10919SB2792_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -10020,11 +10020,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg?1645024424=",
+            "https://bonobos-prod-s3.imgix.net/products/238951/original/DENIM_DENIM-JEAN_BDB10919SB1675_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg?1644333690=",
+            "https://bonobos-prod-s3.imgix.net/products/237855/original/DENIM_DENIM-JEAN_BDB10919SB1675_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg?1645024421=",
+            "https://bonobos-prod-s3.imgix.net/products/238949/original/DENIM_DENIM-JEAN_BDB10919SB1675_1_category.jpg",
           color_presentation: "Light Springs Wash",
         },
         {
@@ -10039,11 +10039,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg?1645024406=",
+            "https://bonobos-prod-s3.imgix.net/products/238945/original/DENIM_DENIM-JEAN_BDB10919SB1674_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg?1644249754=",
+            "https://bonobos-prod-s3.imgix.net/products/237763/original/DENIM_DENIM-JEAN_BDB10919SB1674_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg?1645024399=",
+            "https://bonobos-prod-s3.imgix.net/products/238943/original/DENIM_DENIM-JEAN_BDB10919SB1674_3_category.jpg",
           color_presentation: "Light Cosmic Wash",
         },
       ],
@@ -10062,11 +10062,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267675/original/DENIM_DENIM-JEAN_BDB10919SB2792_5_hover.jpg?1662749233=",
+            "https://bonobos-prod-s3.imgix.net/products/267675/original/DENIM_DENIM-JEAN_BDB10919SB2792_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265441/original/DENIM_DENIM-JEAN_BDB10919SB2792_swatch.jpg?1662055631=",
+            "https://bonobos-prod-s3.imgix.net/products/265441/original/DENIM_DENIM-JEAN_BDB10919SB2792_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267663/original/DENIM_DENIM-JEAN_BDB10919SB2792_3_category.jpg?1662749227=",
+            "https://bonobos-prod-s3.imgix.net/products/267663/original/DENIM_DENIM-JEAN_BDB10919SB2792_3_category.jpg",
           color_presentation: "River Bank",
         },
         {
@@ -10081,11 +10081,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg?1645025032=",
+            "https://bonobos-prod-s3.imgix.net/products/239307/original/DENIM_DENIM-JEAN_BDB10919S0080B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg?1644333663=",
+            "https://bonobos-prod-s3.imgix.net/products/237853/original/DENIM_DENIM-JEAN_BDB10919S0080B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg?1645025035=",
+            "https://bonobos-prod-s3.imgix.net/products/239309/original/DENIM_DENIM-JEAN_BDB10919S0080B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -10100,11 +10100,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg?1645025110=",
+            "https://bonobos-prod-s3.imgix.net/products/239367/original/DENIM_DENIM-JEAN_BDB10919SB1051_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg?1644249600=",
+            "https://bonobos-prod-s3.imgix.net/products/237755/original/DENIM_DENIM-JEAN_BDB10919SB1051_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg?1645025102=",
+            "https://bonobos-prod-s3.imgix.net/products/239361/original/DENIM_DENIM-JEAN_BDB10919SB1051_3_category.jpg",
           color_presentation: "Rinse",
         },
         {
@@ -10119,11 +10119,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg?1645025062=",
+            "https://bonobos-prod-s3.imgix.net/products/239331/original/DENIM_DENIM-JEAN_BDB10919SB1670_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg?1644249697=",
+            "https://bonobos-prod-s3.imgix.net/products/237759/original/DENIM_DENIM-JEAN_BDB10919SB1670_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg?1645025058=",
+            "https://bonobos-prod-s3.imgix.net/products/239327/original/DENIM_DENIM-JEAN_BDB10919SB1670_3_category.jpg",
           color_presentation: "Blue Magic Wash",
         },
         {
@@ -10138,11 +10138,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg?1645025134=",
+            "https://bonobos-prod-s3.imgix.net/products/239388/original/DENIM_DENIM-JEAN_BDB10919SB1671_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg?1644249725=",
+            "https://bonobos-prod-s3.imgix.net/products/237761/original/DENIM_DENIM-JEAN_BDB10919SB1671_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg?1645025121=",
+            "https://bonobos-prod-s3.imgix.net/products/239377/original/DENIM_DENIM-JEAN_BDB10919SB1671_1_category.jpg",
           color_presentation: "Whirlpool Wash",
         },
         {
@@ -10157,11 +10157,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239350/original/DENIM_DENIM-JEAN_BDB10919SB1668_5_hover.jpg?1645025086=",
+            "https://bonobos-prod-s3.imgix.net/products/239350/original/DENIM_DENIM-JEAN_BDB10919SB1668_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/237757/original/DENIM_DENIM-JEAN_BDB10919SB1668_swatch.jpg?1644249651=",
+            "https://bonobos-prod-s3.imgix.net/products/237757/original/DENIM_DENIM-JEAN_BDB10919SB1668_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/239347/original/DENIM_DENIM-JEAN_BDB10919SB1668_3_category.jpg?1645025083=",
+            "https://bonobos-prod-s3.imgix.net/products/239347/original/DENIM_DENIM-JEAN_BDB10919SB1668_3_category.jpg",
           color_presentation: "Mystic Wind Wash",
         },
         {
@@ -10176,11 +10176,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263120/original/DENIM_DENIM-JEAN_BDB10919S1176W_5_hover.jpg?1660845911=",
+            "https://bonobos-prod-s3.imgix.net/products/263120/original/DENIM_DENIM-JEAN_BDB10919S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/251599/original/DENIM_DENIM-JEAN_BDB10919S1176W_swatch.jpg?1653316359=",
+            "https://bonobos-prod-s3.imgix.net/products/251599/original/DENIM_DENIM-JEAN_BDB10919S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263116/original/DENIM_DENIM-JEAN_BDB10919S1176W_3_category.jpg?1660845906=",
+            "https://bonobos-prod-s3.imgix.net/products/263116/original/DENIM_DENIM-JEAN_BDB10919S1176W_3_category.jpg",
           color_presentation: "Brilliant White Denim",
         },
       ],
@@ -10212,11 +10212,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
         {
@@ -10231,11 +10231,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -10250,11 +10250,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -10269,11 +10269,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -10288,17 +10288,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+        "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
       full_price: 129,
       final_sale: false,
       color_name: "chicory coffee",
@@ -10310,7 +10310,7 @@ export default [
       number_of_fits: 3,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+        "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -10327,11 +10327,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
         {
@@ -10346,11 +10346,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -10365,11 +10365,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -10384,11 +10384,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -10403,11 +10403,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
       ],
@@ -10439,11 +10439,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -10458,11 +10458,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -10477,11 +10477,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -10496,11 +10496,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -10515,17 +10515,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+        "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
       full_price: 129,
       final_sale: false,
       color_name: "jet black",
@@ -10537,7 +10537,7 @@ export default [
       number_of_fits: 3,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+        "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -10554,11 +10554,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -10573,11 +10573,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -10592,11 +10592,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -10611,11 +10611,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -10630,11 +10630,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
       ],
@@ -10666,11 +10666,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -10685,11 +10685,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -10704,11 +10704,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -10723,11 +10723,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -10742,17 +10742,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+        "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
       full_price: 129,
       final_sale: false,
       color_name: "duffel green",
@@ -10764,7 +10764,7 @@ export default [
       number_of_fits: 3,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+        "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -10781,11 +10781,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267551/original/PANT_5-POCKET-PANT_BPT11116S1233G_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg?1662223602=",
+            "https://bonobos-prod-s3.imgix.net/products/265716/original/PANT_5-POCKET-PANT_BPT11116S1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267538/original/PANT_5-POCKET-PANT_BPT11116S1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -10800,11 +10800,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg?1662749175=",
+            "https://bonobos-prod-s3.imgix.net/products/267580/original/PANT_5-POCKET-PANT_BPT11116S1177B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg?1662223520=",
+            "https://bonobos-prod-s3.imgix.net/products/265712/original/PANT_5-POCKET-PANT_BPT11116S1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg?1662749178=",
+            "https://bonobos-prod-s3.imgix.net/products/267585/original/PANT_5-POCKET-PANT_BPT11116S1177B_3_category.jpg",
           color_presentation: "Jet Black",
         },
         {
@@ -10819,11 +10819,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg?1662749207=",
+            "https://bonobos-prod-s3.imgix.net/products/267630/original/PANT_5-POCKET-PANT_BPT11116S1171B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg?1662223446=",
+            "https://bonobos-prod-s3.imgix.net/products/265688/original/PANT_5-POCKET-PANT_BPT11116S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg?1662749201=",
+            "https://bonobos-prod-s3.imgix.net/products/267618/original/PANT_5-POCKET-PANT_BPT11116S1171B_3_category.jpg",
           color_presentation: "Navy Blazer",
         },
         {
@@ -10838,11 +10838,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg?1662223419=",
+            "https://bonobos-prod-s3.imgix.net/products/265680/original/PANT_5-POCKET-PANT_BPT11116S1163G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg?1662223483=",
+            "https://bonobos-prod-s3.imgix.net/products/265701/original/PANT_5-POCKET-PANT_BPT11116S1163G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg?1662223422=",
+            "https://bonobos-prod-s3.imgix.net/products/265681/original/PANT_5-POCKET-PANT_BPT11116S1163G_3_category.jpg",
           color_presentation: "Asphalt Grey",
         },
         {
@@ -10857,11 +10857,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg?1662749155=",
+            "https://bonobos-prod-s3.imgix.net/products/267546/original/PANT_5-POCKET-PANT_BPT11116S1230B_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg?1662223561=",
+            "https://bonobos-prod-s3.imgix.net/products/265714/original/PANT_5-POCKET-PANT_BPT11116S1230B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg?1662749149=",
+            "https://bonobos-prod-s3.imgix.net/products/267536/original/PANT_5-POCKET-PANT_BPT11116S1230B_3_category.jpg",
           color_presentation: "Chicory Coffee",
         },
       ],

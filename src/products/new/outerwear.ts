@@ -18,11 +18,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261951/original/JACKET_BOMBER-JACKET_BOT01535N1233G_4_hover.jpg?1660844797=",
+            "https://bonobos-prod-s3.imgix.net/products/261951/original/JACKET_BOMBER-JACKET_BOT01535N1233G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257022/original/JACKET_BOMBER-JACKET_BOT01535N1233G_swatch.jpg?1658256384=",
+            "https://bonobos-prod-s3.imgix.net/products/257022/original/JACKET_BOMBER-JACKET_BOT01535N1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261947/original/JACKET_BOMBER-JACKET_BOT01535N1233G_3_category.jpg?1660844794=",
+            "https://bonobos-prod-s3.imgix.net/products/261947/original/JACKET_BOMBER-JACKET_BOT01535N1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -37,11 +37,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227100/original/JACKET_BOMBER-JACKET_BOT01535NBK714_5_hover.jpg?1634251730=",
+            "https://bonobos-prod-s3.imgix.net/products/227100/original/JACKET_BOMBER-JACKET_BOT01535NBK714_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/195099/original/JACKET_BOMBER-JACKET_27023-BK714_swatch.jpg?1600117924=",
+            "https://bonobos-prod-s3.imgix.net/products/195099/original/JACKET_BOMBER-JACKET_27023-BK714_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227098/original/JACKET_BOMBER-JACKET_BOT01535NBK714_3_category.jpg?1634251725=",
+            "https://bonobos-prod-s3.imgix.net/products/227098/original/JACKET_BOMBER-JACKET_BOT01535NBK714_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -56,17 +56,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223388/original/JACKET_BOMBER-JACKET_BOT01535N0010B_2_hover.jpg?1632861871=",
+            "https://bonobos-prod-s3.imgix.net/products/223388/original/JACKET_BOMBER-JACKET_BOT01535N0010B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220912/original/JACKET_BOMBER-JACKET_BOT01535N0010B_swatch.jpg?1631634798=",
+            "https://bonobos-prod-s3.imgix.net/products/220912/original/JACKET_BOMBER-JACKET_BOT01535N0010B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223389/original/JACKET_BOMBER-JACKET_BOT01535N0010B_3_category.jpg?1632861876=",
+            "https://bonobos-prod-s3.imgix.net/products/223389/original/JACKET_BOMBER-JACKET_BOT01535N0010B_3_category.jpg",
           color_presentation: "Teal Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/261947/original/JACKET_BOMBER-JACKET_BOT01535N1233G_3_category.jpg?1660844794=",
+        "https://bonobos-prod-s3.imgix.net/products/261947/original/JACKET_BOMBER-JACKET_BOT01535N1233G_3_category.jpg",
       color_name: "duffel green",
       full_price: 189,
       final_sale: false,
@@ -78,7 +78,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/261951/original/JACKET_BOMBER-JACKET_BOT01535N1233G_4_hover.jpg?1660844797=",
+        "https://bonobos-prod-s3.imgix.net/products/261951/original/JACKET_BOMBER-JACKET_BOT01535N1233G_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -92,11 +92,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223388/original/JACKET_BOMBER-JACKET_BOT01535N0010B_2_hover.jpg?1632861871=",
+            "https://bonobos-prod-s3.imgix.net/products/223388/original/JACKET_BOMBER-JACKET_BOT01535N0010B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220912/original/JACKET_BOMBER-JACKET_BOT01535N0010B_swatch.jpg?1631634798=",
+            "https://bonobos-prod-s3.imgix.net/products/220912/original/JACKET_BOMBER-JACKET_BOT01535N0010B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/223389/original/JACKET_BOMBER-JACKET_BOT01535N0010B_3_category.jpg?1632861876=",
+            "https://bonobos-prod-s3.imgix.net/products/223389/original/JACKET_BOMBER-JACKET_BOT01535N0010B_3_category.jpg",
           color_presentation: "Teal Blue",
         },
       ],
@@ -115,11 +115,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261951/original/JACKET_BOMBER-JACKET_BOT01535N1233G_4_hover.jpg?1660844797=",
+            "https://bonobos-prod-s3.imgix.net/products/261951/original/JACKET_BOMBER-JACKET_BOT01535N1233G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257022/original/JACKET_BOMBER-JACKET_BOT01535N1233G_swatch.jpg?1658256384=",
+            "https://bonobos-prod-s3.imgix.net/products/257022/original/JACKET_BOMBER-JACKET_BOT01535N1233G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261947/original/JACKET_BOMBER-JACKET_BOT01535N1233G_3_category.jpg?1660844794=",
+            "https://bonobos-prod-s3.imgix.net/products/261947/original/JACKET_BOMBER-JACKET_BOT01535N1233G_3_category.jpg",
           color_presentation: "Duffel Green",
         },
         {
@@ -134,11 +134,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227100/original/JACKET_BOMBER-JACKET_BOT01535NBK714_5_hover.jpg?1634251730=",
+            "https://bonobos-prod-s3.imgix.net/products/227100/original/JACKET_BOMBER-JACKET_BOT01535NBK714_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/195099/original/JACKET_BOMBER-JACKET_27023-BK714_swatch.jpg?1600117924=",
+            "https://bonobos-prod-s3.imgix.net/products/195099/original/JACKET_BOMBER-JACKET_27023-BK714_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227098/original/JACKET_BOMBER-JACKET_BOT01535NBK714_3_category.jpg?1634251725=",
+            "https://bonobos-prod-s3.imgix.net/products/227098/original/JACKET_BOMBER-JACKET_BOT01535NBK714_3_category.jpg",
           color_presentation: "Black",
         },
       ],
@@ -170,11 +170,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg?1662739039=",
+            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -189,17 +189,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg?1662739061=",
+            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
           color_presentation: "Navy",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+        "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
       color_name: "black",
       full_price: 229,
       final_sale: false,
@@ -211,7 +211,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+        "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 2,
       final_sale_swatches: [],
@@ -228,11 +228,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg?1662739039=",
+            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -247,11 +247,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg?1662739061=",
+            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
           color_presentation: "Navy",
         },
       ],
@@ -283,11 +283,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg?1662739061=",
+            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -302,17 +302,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg?1662739039=",
+            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
           color_presentation: "Black",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+        "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
       color_name: "navy",
       full_price: 229,
       final_sale: false,
@@ -324,7 +324,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+        "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 2,
       final_sale_swatches: [],
@@ -341,11 +341,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg?1662739061=",
+            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -360,11 +360,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg?1662739039=",
+            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
           color_presentation: "Black",
         },
       ],

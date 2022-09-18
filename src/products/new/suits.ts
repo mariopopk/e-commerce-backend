@@ -18,11 +18,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266975/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_2_hover.jpg?1662748886=",
+            "https://bonobos-prod-s3.imgix.net/products/266975/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265130/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_swatch.jpg?1661448428=",
+            "https://bonobos-prod-s3.imgix.net/products/265130/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266981/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_3_category.jpg?1662748888=",
+            "https://bonobos-prod-s3.imgix.net/products/266981/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_3_category.jpg",
           color_presentation: "Dark Grey Glen Plaid",
         },
         {
@@ -37,11 +37,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -56,11 +56,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -75,11 +75,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -94,11 +94,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -113,11 +113,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -132,17 +132,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266981/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_3_category.jpg?1662748888=",
+        "https://bonobos-prod-s3.imgix.net/products/266981/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_3_category.jpg",
       color_name: "dark grey glen plaid",
       full_price: 450,
       final_sale: false,
@@ -153,7 +153,7 @@ export default [
       number_of_fits: 3,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266975/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_2_hover.jpg?1662748886=",
+        "https://bonobos-prod-s3.imgix.net/products/266975/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -167,11 +167,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg?1634250384=",
+            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg?1630445439=",
+            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg?1634250377=",
+            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg",
           color_presentation: "Grey Melange Plaid",
         },
       ],
@@ -189,11 +189,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg?1634250317=",
+            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg?1630430125=",
+            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg?1634250313=",
+            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg",
           color_presentation: "Bright Navy Herringbone",
         },
         {
@@ -208,11 +208,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg?1634250344=",
+            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg?1630430290=",
+            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg?1634250347=",
+            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg",
           color_presentation: "Dark Navy Windowpane",
         },
       ],
@@ -229,11 +229,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266975/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_2_hover.jpg?1662748886=",
+            "https://bonobos-prod-s3.imgix.net/products/266975/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265130/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_swatch.jpg?1661448428=",
+            "https://bonobos-prod-s3.imgix.net/products/265130/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266981/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_3_category.jpg?1662748888=",
+            "https://bonobos-prod-s3.imgix.net/products/266981/original/BLAZER_CASUAL-BLAZER_BBZ01472SG2669_3_category.jpg",
           color_presentation: "Dark Grey Glen Plaid",
         },
         {
@@ -248,11 +248,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -267,11 +267,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -286,11 +286,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -305,11 +305,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -324,11 +324,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -343,11 +343,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],
@@ -379,11 +379,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267495/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_4_hover.jpg?1662749126=",
+            "https://bonobos-prod-s3.imgix.net/products/267495/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265132/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_swatch.jpg?1661448494=",
+            "https://bonobos-prod-s3.imgix.net/products/265132/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267490/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_3_category.jpg?1662749123=",
+            "https://bonobos-prod-s3.imgix.net/products/267490/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_3_category.jpg",
           color_presentation: "Blue Donegal Fleck",
         },
         {
@@ -398,11 +398,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -417,11 +417,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -436,11 +436,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -455,11 +455,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -474,11 +474,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -493,17 +493,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267490/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_3_category.jpg?1662749123=",
+        "https://bonobos-prod-s3.imgix.net/products/267490/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_3_category.jpg",
       color_name: "blue donegal fleck",
       full_price: 450,
       final_sale: false,
@@ -514,7 +514,7 @@ export default [
       number_of_fits: 3,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267495/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_4_hover.jpg?1662749126=",
+        "https://bonobos-prod-s3.imgix.net/products/267495/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -528,11 +528,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg?1634250384=",
+            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg?1630445439=",
+            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg?1634250377=",
+            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg",
           color_presentation: "Grey Melange Plaid",
         },
       ],
@@ -550,11 +550,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg?1634250317=",
+            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg?1630430125=",
+            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg?1634250313=",
+            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg",
           color_presentation: "Bright Navy Herringbone",
         },
         {
@@ -569,11 +569,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg?1634250344=",
+            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg?1630430290=",
+            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg?1634250347=",
+            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg",
           color_presentation: "Dark Navy Windowpane",
         },
       ],
@@ -590,11 +590,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267495/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_4_hover.jpg?1662749126=",
+            "https://bonobos-prod-s3.imgix.net/products/267495/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265132/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_swatch.jpg?1661448494=",
+            "https://bonobos-prod-s3.imgix.net/products/265132/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267490/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_3_category.jpg?1662749123=",
+            "https://bonobos-prod-s3.imgix.net/products/267490/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2677_3_category.jpg",
           color_presentation: "Blue Donegal Fleck",
         },
         {
@@ -609,11 +609,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -628,11 +628,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -647,11 +647,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -666,11 +666,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -685,11 +685,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -704,11 +704,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],
@@ -729,16 +729,15 @@ export default [
       stores: ["Bonobos"],
       is_bundle: true,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266733/original/SUIT_SUIT-BLAZER_BSU11059SB2354_1.jpg?1662741700=",
+        "https://bonobos-prod-s3.imgix.net/products/266733/original/SUIT_SUIT-BLAZER_BSU11059SB2354_1.jpg",
       color_name: "charcoal glen plaid",
       full_price: 700,
-      description:
-        "Business or pleasure? This suit does both. It has a hint of stretch for comfort while you move, and the silhouette is always razor-sharp.",
+      description: "Business or pleasure",
       is_gift_card: false,
       current_price: 700,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266734/original/SUIT_SUIT-BLAZER_BSU11059SB2354_2_hover.jpg?1662741704=",
+        "https://bonobos-prod-s3.imgix.net/products/266734/original/SUIT_SUIT-BLAZER_BSU11059SB2354_2_hover.jpg",
       variation_id: "bundle-674-variation",
     },
     value: "Jetsetter Stretch Italian Wool Suit",
@@ -753,7 +752,7 @@ export default [
       stores: ["Bonobos"],
       is_bundle: true,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269017/original/SUIT_SUIT-BLAZER_BSU11060SG2653_1.jpg?1662827006=",
+        "https://bonobos-prod-s3.imgix.net/products/269017/original/SUIT_SUIT-BLAZER_BSU11060SG2653_1.jpg",
       color_name: "sage green",
       full_price: 700,
       description:
@@ -762,7 +761,7 @@ export default [
       current_price: 700,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269018/original/SUIT_SUIT-BLAZER_BSU11060SG2653_4_hover.jpg?1662827009=",
+        "https://bonobos-prod-s3.imgix.net/products/269018/original/SUIT_SUIT-BLAZER_BSU11060SG2653_4_hover.jpg",
       variation_id: "bundle-678-variation",
     },
     value: "Italian Stretch Brushed Wool Suit",
@@ -788,11 +787,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267038/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_2_hover.jpg?1662748918=",
+            "https://bonobos-prod-s3.imgix.net/products/267038/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265134/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_swatch.jpg?1661448583=",
+            "https://bonobos-prod-s3.imgix.net/products/265134/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267044/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267044/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_3_category.jpg",
           color_presentation: "Brown Houndstooth",
         },
         {
@@ -807,11 +806,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -826,11 +825,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -845,11 +844,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -864,11 +863,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -883,11 +882,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -902,17 +901,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267044/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_3_category.jpg?1662748923=",
+        "https://bonobos-prod-s3.imgix.net/products/267044/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_3_category.jpg",
       color_name: "brown houndstooth",
       full_price: 450,
       final_sale: false,
@@ -923,7 +922,7 @@ export default [
       number_of_fits: 3,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267038/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_2_hover.jpg?1662748918=",
+        "https://bonobos-prod-s3.imgix.net/products/267038/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -937,11 +936,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg?1634250384=",
+            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg?1630445439=",
+            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg?1634250377=",
+            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg",
           color_presentation: "Grey Melange Plaid",
         },
       ],
@@ -959,11 +958,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg?1634250317=",
+            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg?1630430125=",
+            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg?1634250313=",
+            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg",
           color_presentation: "Bright Navy Herringbone",
         },
         {
@@ -978,11 +977,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg?1634250344=",
+            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg?1630430290=",
+            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg?1634250347=",
+            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg",
           color_presentation: "Dark Navy Windowpane",
         },
       ],
@@ -999,11 +998,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267038/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_2_hover.jpg?1662748918=",
+            "https://bonobos-prod-s3.imgix.net/products/267038/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265134/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_swatch.jpg?1661448583=",
+            "https://bonobos-prod-s3.imgix.net/products/265134/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267044/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267044/original/BLAZER_CASUAL-BLAZER_BBZ01472SB2367_3_category.jpg",
           color_presentation: "Brown Houndstooth",
         },
         {
@@ -1018,11 +1017,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -1037,11 +1036,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -1056,11 +1055,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -1075,11 +1074,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1094,11 +1093,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -1113,11 +1112,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],
@@ -1138,16 +1137,15 @@ export default [
       stores: ["Bonobos"],
       is_bundle: true,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266735/original/SUIT_SUIT-BLAZER_BSU11059SG2651_1.jpg?1662742295=",
+        "https://bonobos-prod-s3.imgix.net/products/266735/original/SUIT_SUIT-BLAZER_BSU11059SG2651_1.jpg",
       color_name: "grey mini herringbone",
       full_price: 650,
-      description:
-        "Business or pleasure? This suit does both. It has a hint of stretch for comfort while you move, and the silhouette is always razor-sharp.",
+      description: "Business or pleasure",
       is_gift_card: false,
       current_price: 650,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266736/original/SUIT_SUIT-BLAZER_BSU11059SG2651_4_hover.jpg?1662742298=",
+        "https://bonobos-prod-s3.imgix.net/products/266736/original/SUIT_SUIT-BLAZER_BSU11059SG2651_4_hover.jpg",
       variation_id: "bundle-675-variation",
     },
     value: "Jetsetter Stretch Italian Wool Suit",
@@ -1162,7 +1160,7 @@ export default [
       stores: ["Bonobos"],
       is_bundle: true,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269015/original/SUIT_SUIT-BLAZER_BSU11060SP2654_1.jpg?1662826809=",
+        "https://bonobos-prod-s3.imgix.net/products/269015/original/SUIT_SUIT-BLAZER_BSU11060SP2654_1.jpg",
       color_name: "dusty rose",
       full_price: 700,
       description:
@@ -1171,7 +1169,7 @@ export default [
       current_price: 700,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269016/original/SUIT_SUIT-BLAZER_BSU11060SP2654_4_hover.jpg?1662826815=",
+        "https://bonobos-prod-s3.imgix.net/products/269016/original/SUIT_SUIT-BLAZER_BSU11060SP2654_4_hover.jpg",
       variation_id: "bundle-677-variation",
     },
     value: "Italian Stretch Brushed Wool Suit",
@@ -1186,7 +1184,7 @@ export default [
       stores: ["Bonobos"],
       is_bundle: true,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269013/original/SUIT_SUIT-BLAZER_BSU11060SN2675_1.jpg?1662826538=",
+        "https://bonobos-prod-s3.imgix.net/products/269013/original/SUIT_SUIT-BLAZER_BSU11060SN2675_1.jpg",
       color_name: "heather navy",
       full_price: 700,
       description:
@@ -1195,7 +1193,7 @@ export default [
       current_price: 700,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269014/original/SUIT_SUIT-BLAZER_BSU11060SN2675_2_hover.jpg?1662826546=",
+        "https://bonobos-prod-s3.imgix.net/products/269014/original/SUIT_SUIT-BLAZER_BSU11060SN2675_2_hover.jpg",
       variation_id: "bundle-676-variation",
     },
     value: "Italian Stretch Brushed Wool Suit",
@@ -1210,7 +1208,7 @@ export default [
       stores: ["Bonobos"],
       is_bundle: true,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269021/original/SUIT_SUIT-BLAZER_BSU11060SB2655_1.jpg?1662827624=",
+        "https://bonobos-prod-s3.imgix.net/products/269021/original/SUIT_SUIT-BLAZER_BSU11060SB2655_1.jpg",
       color_name: "chocolate",
       full_price: 700,
       description:
@@ -1219,7 +1217,7 @@ export default [
       current_price: 700,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269022/original/SUIT_SUIT-BLAZER_BSU11060SB2655_4_hover.jpg?1662827627=",
+        "https://bonobos-prod-s3.imgix.net/products/269022/original/SUIT_SUIT-BLAZER_BSU11060SB2655_4_hover.jpg",
       variation_id: "bundle-680-variation",
     },
     value: "Italian Stretch Brushed Wool Suit",
@@ -1245,11 +1243,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266939/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_2_hover.jpg?1662748863=",
+            "https://bonobos-prod-s3.imgix.net/products/266939/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265138/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_swatch.jpg?1661448738=",
+            "https://bonobos-prod-s3.imgix.net/products/265138/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266945/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_3_category.jpg?1662748866=",
+            "https://bonobos-prod-s3.imgix.net/products/266945/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_3_category.jpg",
           color_presentation: "Navy Blue Check",
         },
         {
@@ -1264,11 +1262,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -1283,11 +1281,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -1302,11 +1300,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -1321,11 +1319,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1340,11 +1338,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -1359,17 +1357,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266945/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_3_category.jpg?1662748866=",
+        "https://bonobos-prod-s3.imgix.net/products/266945/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_3_category.jpg",
       color_name: "navy blue check",
       full_price: 450,
       final_sale: false,
@@ -1380,7 +1378,7 @@ export default [
       number_of_fits: 3,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266939/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_2_hover.jpg?1662748863=",
+        "https://bonobos-prod-s3.imgix.net/products/266939/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1394,11 +1392,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg?1634250384=",
+            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg?1630445439=",
+            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg?1634250377=",
+            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg",
           color_presentation: "Grey Melange Plaid",
         },
       ],
@@ -1416,11 +1414,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg?1634250317=",
+            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg?1630430125=",
+            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg?1634250313=",
+            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg",
           color_presentation: "Bright Navy Herringbone",
         },
         {
@@ -1435,11 +1433,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg?1634250344=",
+            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg?1630430290=",
+            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg?1634250347=",
+            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg",
           color_presentation: "Dark Navy Windowpane",
         },
       ],
@@ -1456,11 +1454,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266939/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_2_hover.jpg?1662748863=",
+            "https://bonobos-prod-s3.imgix.net/products/266939/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265138/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_swatch.jpg?1661448738=",
+            "https://bonobos-prod-s3.imgix.net/products/265138/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266945/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_3_category.jpg?1662748866=",
+            "https://bonobos-prod-s3.imgix.net/products/266945/original/BLAZER_CASUAL-BLAZER_BBZ01472SN2659_3_category.jpg",
           color_presentation: "Navy Blue Check",
         },
         {
@@ -1475,11 +1473,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -1494,11 +1492,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -1513,11 +1511,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -1532,11 +1530,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1551,11 +1549,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -1570,11 +1568,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],
@@ -1595,7 +1593,7 @@ export default [
       stores: ["Bonobos"],
       is_bundle: true,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269019/original/SUIT_SUIT-BLAZER_BSU11060SG2656_1.jpg?1662827451=",
+        "https://bonobos-prod-s3.imgix.net/products/269019/original/SUIT_SUIT-BLAZER_BSU11060SG2656_1.jpg",
       color_name: "heather grey",
       full_price: 700,
       description:
@@ -1604,7 +1602,7 @@ export default [
       current_price: 700,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/269020/original/SUIT_SUIT-BLAZER_BSU11060SG2656_4_hover.jpg?1662827453=",
+        "https://bonobos-prod-s3.imgix.net/products/269020/original/SUIT_SUIT-BLAZER_BSU11060SG2656_4_hover.jpg",
       variation_id: "bundle-679-variation",
     },
     value: "Italian Stretch Brushed Wool Suit",
@@ -1630,11 +1628,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267420/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_2_hover.jpg?1662749087=",
+            "https://bonobos-prod-s3.imgix.net/products/267420/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265136/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_swatch.jpg?1661448674=",
+            "https://bonobos-prod-s3.imgix.net/products/265136/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267427/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_3_category.jpg?1662749090=",
+            "https://bonobos-prod-s3.imgix.net/products/267427/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_3_category.jpg",
           color_presentation: "Grey Deco",
         },
         {
@@ -1649,11 +1647,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -1668,11 +1666,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -1687,11 +1685,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -1706,11 +1704,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1725,11 +1723,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -1744,17 +1742,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267427/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_3_category.jpg?1662749090=",
+        "https://bonobos-prod-s3.imgix.net/products/267427/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_3_category.jpg",
       color_name: "grey deco",
       full_price: 450,
       final_sale: false,
@@ -1766,7 +1764,7 @@ export default [
       number_of_fits: 3,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267420/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_2_hover.jpg?1662749087=",
+        "https://bonobos-prod-s3.imgix.net/products/267420/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1780,11 +1778,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg?1634250384=",
+            "https://bonobos-prod-s3.imgix.net/products/226736/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg?1630445439=",
+            "https://bonobos-prod-s3.imgix.net/products/219508/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg?1634250377=",
+            "https://bonobos-prod-s3.imgix.net/products/226734/original/BLAZER_CASUAL-BLAZER_BBZ01472SGY618_3_category.jpg",
           color_presentation: "Grey Melange Plaid",
         },
       ],
@@ -1802,11 +1800,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg?1634250317=",
+            "https://bonobos-prod-s3.imgix.net/products/226718/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg?1630430125=",
+            "https://bonobos-prod-s3.imgix.net/products/219502/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg?1634250313=",
+            "https://bonobos-prod-s3.imgix.net/products/226717/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW42_3_category.jpg",
           color_presentation: "Bright Navy Herringbone",
         },
         {
@@ -1821,11 +1819,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg?1634250344=",
+            "https://bonobos-prod-s3.imgix.net/products/226725/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg?1630430290=",
+            "https://bonobos-prod-s3.imgix.net/products/219504/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg?1634250347=",
+            "https://bonobos-prod-s3.imgix.net/products/226726/original/BLAZER_CASUAL-BLAZER_BBZ01472SBOW43_3_category.jpg",
           color_presentation: "Dark Navy Windowpane",
         },
       ],
@@ -1842,11 +1840,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267420/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_2_hover.jpg?1662749087=",
+            "https://bonobos-prod-s3.imgix.net/products/267420/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265136/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_swatch.jpg?1661448674=",
+            "https://bonobos-prod-s3.imgix.net/products/265136/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267427/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_3_category.jpg?1662749090=",
+            "https://bonobos-prod-s3.imgix.net/products/267427/original/BLAZER_CASUAL-BLAZER_BBZ01472SK2372_3_category.jpg",
           color_presentation: "Grey Deco",
         },
         {
@@ -1861,11 +1859,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg?1655313983=",
+            "https://bonobos-prod-s3.imgix.net/products/255148/original/BLAZER_CASUAL-BLAZER_16797-GY486_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg?1486415022=",
+            "https://bonobos-prod-s3.imgix.net/products/34054/original/light_grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg?1655313986=",
+            "https://bonobos-prod-s3.imgix.net/products/255150/original/BLAZER_CASUAL-BLAZER_16797-GY486_3_category.jpg",
           color_presentation: "Light Grey",
         },
         {
@@ -1880,11 +1878,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg?1573239471=",
+            "https://bonobos-prod-s3.imgix.net/products/156459/original/BLAZER_CASUAL-BLAZER_16797-GYV03_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg?1563824103=",
+            "https://bonobos-prod-s3.imgix.net/products/140099/original/BLAZER_CASUAL-BLAZER_16797-GYV03_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg?1573239472=",
+            "https://bonobos-prod-s3.imgix.net/products/156460/original/BLAZER_CASUAL-BLAZER_16797-GYV03_3_category.jpg",
           color_presentation: "Charcoal",
         },
         {
@@ -1899,11 +1897,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg?1655313907=",
+            "https://bonobos-prod-s3.imgix.net/products/255105/original/BLAZER_CASUAL-BLAZER_16797-BLD23_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34064/original/bright_navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg?1655313910=",
+            "https://bonobos-prod-s3.imgix.net/products/255107/original/BLAZER_CASUAL-BLAZER_16797-BLD23_3_category.jpg",
           color_presentation: "Bright Navy",
         },
         {
@@ -1918,11 +1916,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg?1634306719=",
+            "https://bonobos-prod-s3.imgix.net/products/227709/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34060/original/navy.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg?1634306723=",
+            "https://bonobos-prod-s3.imgix.net/products/227710/original/BLAZER_CASUAL-BLAZER_BBZ00351SBLN89_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1937,11 +1935,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg?1658506497=",
+            "https://bonobos-prod-s3.imgix.net/products/257334/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg?1500925822=",
+            "https://bonobos-prod-s3.imgix.net/products/44007/original/Tailored_Blazers_16797_BK394_thumb1.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg?1658506490=",
+            "https://bonobos-prod-s3.imgix.net/products/257331/original/BLAZER_CASUAL-BLAZER_BBZ00351SBK394_2_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -1956,11 +1954,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg?1655313944=",
+            "https://bonobos-prod-s3.imgix.net/products/255127/original/BLAZER_CASUAL-BLAZER_16797-GY405_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg?1486415024=",
+            "https://bonobos-prod-s3.imgix.net/products/34061/original/grey.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg?1655313946=",
+            "https://bonobos-prod-s3.imgix.net/products/255129/original/BLAZER_CASUAL-BLAZER_16797-GY405_3_category.jpg",
           color_presentation: "Grey",
         },
       ],

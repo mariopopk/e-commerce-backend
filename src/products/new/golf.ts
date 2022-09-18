@@ -18,11 +18,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg?1642089326=",
+            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg?1642107118=",
+            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg?1642089318=",
+            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg",
           color_presentation: "Tuberose Stripe",
         },
         {
@@ -37,11 +37,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -56,11 +56,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -75,11 +75,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -94,11 +94,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -113,11 +113,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -132,17 +132,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg?1642089318=",
+        "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg",
       final_sale: false,
       full_price: 79,
       color_name: "tuberose stripe",
@@ -153,7 +153,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg?1642089326=",
+        "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -167,11 +167,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -186,11 +186,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -205,11 +205,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -224,11 +224,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
         {
@@ -243,11 +243,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg?1620917619=",
+            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg?1620924942=",
+            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg?1620917625=",
+            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg",
           color_presentation: "Lavender Stripe",
         },
         {
@@ -263,9 +263,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg?1629839800=",
+            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg?1635977351=",
+            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg",
           color_presentation: "Dark Surf And Bright White Stripe",
         },
         {
@@ -281,9 +281,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg?1629839844=",
+            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg?1635977358=",
+            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg",
           color_presentation: "Sky High And Bright White Stripe",
         },
       ],
@@ -302,11 +302,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg?1642089326=",
+            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg?1642107118=",
+            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg?1642089318=",
+            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg",
           color_presentation: "Tuberose Stripe",
         },
         {
@@ -321,11 +321,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -340,11 +340,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -359,11 +359,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg?1660848778=",
+            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg?1659968070=",
+            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg?1660848775=",
+            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg",
           color_presentation: "Astral Aura White Stripe",
         },
         {
@@ -378,11 +378,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg?1660848795=",
+            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg?1659968003=",
+            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg?1660848800=",
+            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg",
           color_presentation: "Chicory Coffee White Stripe",
         },
         {
@@ -397,11 +397,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg?1660848862=",
+            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg?1659968103=",
+            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg?1660848856=",
+            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg",
           color_presentation: "Grey White Stripe",
         },
         {
@@ -416,11 +416,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg?1660844991=",
+            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg?1659968039=",
+            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg?1660844987=",
+            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg",
           color_presentation: "Patina Blue Stripe",
         },
       ],
@@ -452,11 +452,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263262/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_4_hover.jpg?1660846197=",
+            "https://bonobos-prod-s3.imgix.net/products/263262/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258641/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_swatch.jpg?1659968843=",
+            "https://bonobos-prod-s3.imgix.net/products/258641/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263260/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_3_category.jpg?1660846194=",
+            "https://bonobos-prod-s3.imgix.net/products/263260/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_3_category.jpg",
           color_presentation: "White Mineral Floral",
         },
         {
@@ -471,11 +471,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -490,11 +490,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -509,11 +509,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -528,11 +528,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -547,11 +547,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -566,17 +566,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263260/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_3_category.jpg?1660846194=",
+        "https://bonobos-prod-s3.imgix.net/products/263260/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "white mineral floral",
@@ -588,7 +588,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263262/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_4_hover.jpg?1660846197=",
+        "https://bonobos-prod-s3.imgix.net/products/263262/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -602,11 +602,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -621,11 +621,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -640,11 +640,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -659,11 +659,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -678,11 +678,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
         {
@@ -697,11 +697,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg?1648823552=",
+            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg?1648827788=",
+            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg?1648823556=",
+            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg",
           color_presentation: "Maltby Floral",
         },
         {
@@ -716,11 +716,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg?1647535788=",
+            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg?1646662983=",
+            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg?1647535791=",
+            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg",
           color_presentation: "Navy Flamingoes",
         },
       ],
@@ -739,11 +739,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263262/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_4_hover.jpg?1660846197=",
+            "https://bonobos-prod-s3.imgix.net/products/263262/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258641/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_swatch.jpg?1659968843=",
+            "https://bonobos-prod-s3.imgix.net/products/258641/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263260/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_3_category.jpg?1660846194=",
+            "https://bonobos-prod-s3.imgix.net/products/263260/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2808_3_category.jpg",
           color_presentation: "White Mineral Floral",
         },
         {
@@ -758,11 +758,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -777,11 +777,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg?1660846053=",
+            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg?1654282648=",
+            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg?1660846050=",
+            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg",
           color_presentation: "White Golf Day",
         },
         {
@@ -796,11 +796,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg?1655996541=",
+            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg?1656086035=",
+            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg?1655996546=",
+            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg",
           color_presentation: "Parrot Pandemonium",
         },
         {
@@ -815,11 +815,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg?1660846152=",
+            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg?1659968717=",
+            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg?1660846149=",
+            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg",
           color_presentation: "Drink Up",
         },
         {
@@ -834,11 +834,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg?1660846213=",
+            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg?1659968807=",
+            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg?1660846216=",
+            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg",
           color_presentation: "Navy Fall Floral",
         },
         {
@@ -853,11 +853,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg?1662749000=",
+            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg?1662488688=",
+            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg?1662749004=",
+            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg",
           color_presentation: "Duffel Green Ducks",
         },
       ],
@@ -889,11 +889,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg?1660848862=",
+            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg?1659968103=",
+            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg?1660848856=",
+            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg",
           color_presentation: "Grey White Stripe",
         },
         {
@@ -908,11 +908,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -927,11 +927,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -946,11 +946,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -965,11 +965,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -984,11 +984,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -1003,17 +1003,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg?1660848856=",
+        "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg",
       final_sale: false,
       full_price: 79,
       color_name: "grey white stripe",
@@ -1024,7 +1024,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg?1660848862=",
+        "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1038,11 +1038,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -1057,11 +1057,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -1076,11 +1076,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -1095,11 +1095,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
         {
@@ -1114,11 +1114,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg?1620917619=",
+            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg?1620924942=",
+            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg?1620917625=",
+            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg",
           color_presentation: "Lavender Stripe",
         },
         {
@@ -1134,9 +1134,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg?1629839800=",
+            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg?1635977351=",
+            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg",
           color_presentation: "Dark Surf And Bright White Stripe",
         },
         {
@@ -1152,9 +1152,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg?1629839844=",
+            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg?1635977358=",
+            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg",
           color_presentation: "Sky High And Bright White Stripe",
         },
       ],
@@ -1173,11 +1173,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg?1660848862=",
+            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg?1659968103=",
+            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg?1660848856=",
+            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg",
           color_presentation: "Grey White Stripe",
         },
         {
@@ -1192,11 +1192,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1211,11 +1211,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -1230,11 +1230,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg?1642089326=",
+            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg?1642107118=",
+            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg?1642089318=",
+            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg",
           color_presentation: "Tuberose Stripe",
         },
         {
@@ -1249,11 +1249,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg?1660848778=",
+            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg?1659968070=",
+            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg?1660848775=",
+            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg",
           color_presentation: "Astral Aura White Stripe",
         },
         {
@@ -1268,11 +1268,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg?1660848795=",
+            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg?1659968003=",
+            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg?1660848800=",
+            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg",
           color_presentation: "Chicory Coffee White Stripe",
         },
         {
@@ -1287,11 +1287,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg?1660844991=",
+            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg?1659968039=",
+            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg?1660844987=",
+            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg",
           color_presentation: "Patina Blue Stripe",
         },
       ],
@@ -1323,11 +1323,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg?1660844991=",
+            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg?1659968039=",
+            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg?1660844987=",
+            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg",
           color_presentation: "Patina Blue Stripe",
         },
         {
@@ -1342,11 +1342,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1361,11 +1361,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -1380,11 +1380,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -1399,11 +1399,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -1418,11 +1418,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -1437,17 +1437,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg?1660844987=",
+        "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg",
       final_sale: false,
       full_price: 79,
       color_name: "patina blue stripe",
@@ -1458,7 +1458,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg?1660844991=",
+        "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1472,11 +1472,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -1491,11 +1491,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -1510,11 +1510,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -1529,11 +1529,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
         {
@@ -1548,11 +1548,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg?1620917619=",
+            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg?1620924942=",
+            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg?1620917625=",
+            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg",
           color_presentation: "Lavender Stripe",
         },
         {
@@ -1568,9 +1568,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg?1629839800=",
+            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg?1635977351=",
+            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg",
           color_presentation: "Dark Surf And Bright White Stripe",
         },
         {
@@ -1586,9 +1586,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg?1629839844=",
+            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg?1635977358=",
+            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg",
           color_presentation: "Sky High And Bright White Stripe",
         },
       ],
@@ -1607,11 +1607,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg?1660844991=",
+            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg?1659968039=",
+            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg?1660844987=",
+            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg",
           color_presentation: "Patina Blue Stripe",
         },
         {
@@ -1626,11 +1626,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1645,11 +1645,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -1664,11 +1664,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg?1642089326=",
+            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg?1642107118=",
+            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg?1642089318=",
+            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg",
           color_presentation: "Tuberose Stripe",
         },
         {
@@ -1683,11 +1683,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg?1660848778=",
+            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg?1659968070=",
+            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg?1660848775=",
+            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg",
           color_presentation: "Astral Aura White Stripe",
         },
         {
@@ -1702,11 +1702,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg?1660848795=",
+            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg?1659968003=",
+            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg?1660848800=",
+            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg",
           color_presentation: "Chicory Coffee White Stripe",
         },
         {
@@ -1721,11 +1721,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg?1660848862=",
+            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg?1659968103=",
+            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg?1660848856=",
+            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg",
           color_presentation: "Grey White Stripe",
         },
       ],
@@ -1757,11 +1757,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg?1662739039=",
+            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -1776,17 +1776,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg?1662739061=",
+            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
           color_presentation: "Navy",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+        "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
       final_sale: false,
       full_price: 229,
       color_name: "black",
@@ -1798,7 +1798,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+        "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 2,
       final_sale_swatches: [],
@@ -1815,11 +1815,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg?1662739039=",
+            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -1834,11 +1834,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg?1662739061=",
+            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
           color_presentation: "Navy",
         },
       ],
@@ -1870,11 +1870,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg?1662739061=",
+            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1889,17 +1889,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg?1662739039=",
+            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
           color_presentation: "Black",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+        "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
       final_sale: false,
       full_price: 229,
       color_name: "navy",
@@ -1911,7 +1911,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+        "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 2,
       final_sale_swatches: [],
@@ -1928,11 +1928,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg?1662749387=",
+            "https://bonobos-prod-s3.imgix.net/products/267929/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg?1662739061=",
+            "https://bonobos-prod-s3.imgix.net/products/266732/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg?1662749390=",
+            "https://bonobos-prod-s3.imgix.net/products/267933/original/JACKET_ACTIVE-JACKET_BOT11096N1000B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -1947,11 +1947,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg?1662749371=",
+            "https://bonobos-prod-s3.imgix.net/products/267907/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_6_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg?1662739039=",
+            "https://bonobos-prod-s3.imgix.net/products/266730/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg?1662749362=",
+            "https://bonobos-prod-s3.imgix.net/products/267891/original/JACKET_ACTIVE-JACKET_BOT11096N1177B_3_category.jpg",
           color_presentation: "Black",
         },
       ],
@@ -1983,11 +1983,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263252/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_4_hover.jpg?1660846175=",
+            "https://bonobos-prod-s3.imgix.net/products/263252/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258637/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_swatch.jpg?1659968761=",
+            "https://bonobos-prod-s3.imgix.net/products/258637/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263251/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_3_category.jpg?1660846172=",
+            "https://bonobos-prod-s3.imgix.net/products/263251/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_3_category.jpg",
           color_presentation: "Bordeaux Geo",
         },
         {
@@ -2002,11 +2002,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -2021,11 +2021,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -2040,11 +2040,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -2059,11 +2059,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -2078,11 +2078,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -2097,17 +2097,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263251/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_3_category.jpg?1660846172=",
+        "https://bonobos-prod-s3.imgix.net/products/263251/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "bordeaux geo",
@@ -2119,7 +2119,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263252/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_4_hover.jpg?1660846175=",
+        "https://bonobos-prod-s3.imgix.net/products/263252/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -2133,11 +2133,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -2152,11 +2152,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -2171,11 +2171,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -2190,11 +2190,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -2209,11 +2209,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
         {
@@ -2228,11 +2228,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg?1648823552=",
+            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg?1648827788=",
+            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg?1648823556=",
+            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg",
           color_presentation: "Maltby Floral",
         },
         {
@@ -2247,11 +2247,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg?1647535788=",
+            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg?1646662983=",
+            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg?1647535791=",
+            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg",
           color_presentation: "Navy Flamingoes",
         },
       ],
@@ -2270,11 +2270,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263252/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_4_hover.jpg?1660846175=",
+            "https://bonobos-prod-s3.imgix.net/products/263252/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258637/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_swatch.jpg?1659968761=",
+            "https://bonobos-prod-s3.imgix.net/products/258637/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263251/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_3_category.jpg?1660846172=",
+            "https://bonobos-prod-s3.imgix.net/products/263251/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2809_3_category.jpg",
           color_presentation: "Bordeaux Geo",
         },
         {
@@ -2289,11 +2289,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -2308,11 +2308,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg?1660846053=",
+            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg?1654282648=",
+            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg?1660846050=",
+            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg",
           color_presentation: "White Golf Day",
         },
         {
@@ -2327,11 +2327,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg?1655996541=",
+            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg?1656086035=",
+            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg?1655996546=",
+            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg",
           color_presentation: "Parrot Pandemonium",
         },
         {
@@ -2346,11 +2346,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg?1660846152=",
+            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg?1659968717=",
+            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg?1660846149=",
+            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg",
           color_presentation: "Drink Up",
         },
         {
@@ -2365,11 +2365,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg?1660846213=",
+            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg?1659968807=",
+            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg?1660846216=",
+            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg",
           color_presentation: "Navy Fall Floral",
         },
         {
@@ -2384,11 +2384,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg?1662749000=",
+            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg?1662488688=",
+            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg?1662749004=",
+            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg",
           color_presentation: "Duffel Green Ducks",
         },
       ],
@@ -2420,11 +2420,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg?1655996541=",
+            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg?1656086035=",
+            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg?1655996546=",
+            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg",
           color_presentation: "Parrot Pandemonium",
         },
         {
@@ -2439,11 +2439,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -2458,11 +2458,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -2477,11 +2477,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -2496,11 +2496,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -2515,11 +2515,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -2534,17 +2534,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg?1655996546=",
+        "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "parrot pandemonium",
@@ -2556,7 +2556,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg?1655996541=",
+        "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -2570,11 +2570,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -2589,11 +2589,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -2608,11 +2608,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -2627,11 +2627,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -2646,11 +2646,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
         {
@@ -2665,11 +2665,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg?1648823552=",
+            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg?1648827788=",
+            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg?1648823556=",
+            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg",
           color_presentation: "Maltby Floral",
         },
         {
@@ -2684,11 +2684,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg?1647535788=",
+            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg?1646662983=",
+            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg?1647535791=",
+            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg",
           color_presentation: "Navy Flamingoes",
         },
       ],
@@ -2707,11 +2707,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg?1655996541=",
+            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg?1656086035=",
+            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg?1655996546=",
+            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg",
           color_presentation: "Parrot Pandemonium",
         },
         {
@@ -2726,11 +2726,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -2745,11 +2745,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg?1660846053=",
+            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg?1654282648=",
+            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg?1660846050=",
+            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg",
           color_presentation: "White Golf Day",
         },
         {
@@ -2764,11 +2764,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg?1660846152=",
+            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg?1659968717=",
+            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg?1660846149=",
+            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg",
           color_presentation: "Drink Up",
         },
         {
@@ -2783,11 +2783,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg?1660846213=",
+            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg?1659968807=",
+            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg?1660846216=",
+            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg",
           color_presentation: "Navy Fall Floral",
         },
         {
@@ -2802,11 +2802,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg?1662749000=",
+            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg?1662488688=",
+            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg?1662749004=",
+            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg",
           color_presentation: "Duffel Green Ducks",
         },
         {
@@ -2821,11 +2821,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267175/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_2_hover.jpg?1662748978=",
+            "https://bonobos-prod-s3.imgix.net/products/267175/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266147/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_swatch.jpg?1662488722=",
+            "https://bonobos-prod-s3.imgix.net/products/266147/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267182/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_3_category.jpg?1662748980=",
+            "https://bonobos-prod-s3.imgix.net/products/267182/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_3_category.jpg",
           color_presentation: "White Duffel Green Stripe",
         },
       ],
@@ -2857,11 +2857,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg?1660848778=",
+            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg?1659968070=",
+            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg?1660848775=",
+            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg",
           color_presentation: "Astral Aura White Stripe",
         },
         {
@@ -2876,11 +2876,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -2895,11 +2895,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -2914,11 +2914,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -2933,11 +2933,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -2952,11 +2952,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -2971,17 +2971,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg?1660848775=",
+        "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg",
       final_sale: false,
       full_price: 79,
       color_name: "astral aura white stripe",
@@ -2992,7 +2992,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg?1660848778=",
+        "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -3006,11 +3006,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -3025,11 +3025,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -3044,11 +3044,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -3063,11 +3063,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
         {
@@ -3082,11 +3082,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg?1620917619=",
+            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg?1620924942=",
+            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg?1620917625=",
+            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg",
           color_presentation: "Lavender Stripe",
         },
         {
@@ -3102,9 +3102,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg?1629839800=",
+            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg?1635977351=",
+            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg",
           color_presentation: "Dark Surf And Bright White Stripe",
         },
         {
@@ -3120,9 +3120,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg?1629839844=",
+            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg?1635977358=",
+            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg",
           color_presentation: "Sky High And Bright White Stripe",
         },
       ],
@@ -3141,11 +3141,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg?1660848778=",
+            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg?1659968070=",
+            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg?1660848775=",
+            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg",
           color_presentation: "Astral Aura White Stripe",
         },
         {
@@ -3160,11 +3160,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -3179,11 +3179,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -3198,11 +3198,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg?1642089326=",
+            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg?1642107118=",
+            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg?1642089318=",
+            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg",
           color_presentation: "Tuberose Stripe",
         },
         {
@@ -3217,11 +3217,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg?1660848795=",
+            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg?1659968003=",
+            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg?1660848800=",
+            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg",
           color_presentation: "Chicory Coffee White Stripe",
         },
         {
@@ -3236,11 +3236,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg?1660848862=",
+            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg?1659968103=",
+            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg?1660848856=",
+            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg",
           color_presentation: "Grey White Stripe",
         },
         {
@@ -3255,11 +3255,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg?1660844991=",
+            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg?1659968039=",
+            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg?1660844987=",
+            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg",
           color_presentation: "Patina Blue Stripe",
         },
       ],
@@ -3291,11 +3291,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg?1660846213=",
+            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg?1659968807=",
+            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg?1660846216=",
+            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg",
           color_presentation: "Navy Fall Floral",
         },
         {
@@ -3310,11 +3310,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -3329,11 +3329,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -3348,11 +3348,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -3367,11 +3367,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -3386,11 +3386,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -3405,17 +3405,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg?1660846216=",
+        "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "navy fall floral",
@@ -3427,7 +3427,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg?1660846213=",
+        "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -3441,11 +3441,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -3460,11 +3460,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -3479,11 +3479,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -3498,11 +3498,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -3517,11 +3517,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
         {
@@ -3536,11 +3536,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg?1648823552=",
+            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg?1648827788=",
+            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg?1648823556=",
+            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg",
           color_presentation: "Maltby Floral",
         },
         {
@@ -3555,11 +3555,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg?1647535788=",
+            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg?1646662983=",
+            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg?1647535791=",
+            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg",
           color_presentation: "Navy Flamingoes",
         },
       ],
@@ -3578,11 +3578,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg?1660846213=",
+            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg?1659968807=",
+            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg?1660846216=",
+            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg",
           color_presentation: "Navy Fall Floral",
         },
         {
@@ -3597,11 +3597,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -3616,11 +3616,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg?1660846053=",
+            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg?1654282648=",
+            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg?1660846050=",
+            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg",
           color_presentation: "White Golf Day",
         },
         {
@@ -3635,11 +3635,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg?1655996541=",
+            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg?1656086035=",
+            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg?1655996546=",
+            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg",
           color_presentation: "Parrot Pandemonium",
         },
         {
@@ -3654,11 +3654,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg?1660846152=",
+            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg?1659968717=",
+            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg?1660846149=",
+            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg",
           color_presentation: "Drink Up",
         },
         {
@@ -3673,11 +3673,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg?1662749000=",
+            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg?1662488688=",
+            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg?1662749004=",
+            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg",
           color_presentation: "Duffel Green Ducks",
         },
         {
@@ -3692,11 +3692,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267175/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_2_hover.jpg?1662748978=",
+            "https://bonobos-prod-s3.imgix.net/products/267175/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266147/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_swatch.jpg?1662488722=",
+            "https://bonobos-prod-s3.imgix.net/products/266147/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267182/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_3_category.jpg?1662748980=",
+            "https://bonobos-prod-s3.imgix.net/products/267182/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_3_category.jpg",
           color_presentation: "White Duffel Green Stripe",
         },
       ],
@@ -3728,11 +3728,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg?1660846152=",
+            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg?1659968717=",
+            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg?1660846149=",
+            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg",
           color_presentation: "Drink Up",
         },
         {
@@ -3747,11 +3747,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -3766,11 +3766,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -3785,11 +3785,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -3804,11 +3804,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -3823,11 +3823,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -3842,17 +3842,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg?1660846149=",
+        "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "drink up",
@@ -3865,7 +3865,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg?1660846152=",
+        "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -3879,11 +3879,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg?1654784700=",
+            "https://bonobos-prod-s3.imgix.net/products/254835/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg?1654625996=",
+            "https://bonobos-prod-s3.imgix.net/products/254749/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg?1654784704=",
+            "https://bonobos-prod-s3.imgix.net/products/254836/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR2001_3_category.jpg",
           color_presentation: "Burgundy Floral",
         },
         {
@@ -3898,11 +3898,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg?1648061990=",
+            "https://bonobos-prod-s3.imgix.net/products/242199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg?1646663151=",
+            "https://bonobos-prod-s3.imgix.net/products/240881/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg?1648061993=",
+            "https://bonobos-prod-s3.imgix.net/products/242200/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG1580_3_category.jpg",
           color_presentation: "Green Geo",
         },
         {
@@ -3917,11 +3917,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg?1651759213=",
+            "https://bonobos-prod-s3.imgix.net/products/248498/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg?1651761093=",
+            "https://bonobos-prod-s3.imgix.net/products/248516/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg?1651759204=",
+            "https://bonobos-prod-s3.imgix.net/products/248496/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1591_3_category.jpg",
           color_presentation: "Cheers",
         },
         {
@@ -3936,11 +3936,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg?1647266270=",
+            "https://bonobos-prod-s3.imgix.net/products/241596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg?1644940281=",
+            "https://bonobos-prod-s3.imgix.net/products/238750/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg?1647266260=",
+            "https://bonobos-prod-s3.imgix.net/products/241593/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SR1797_1.jpg",
           color_presentation: "Speedboats",
         },
         {
@@ -3955,11 +3955,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg?1646935845=",
+            "https://bonobos-prod-s3.imgix.net/products/241326/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg?1644507478=",
+            "https://bonobos-prod-s3.imgix.net/products/238166/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg?1646935849=",
+            "https://bonobos-prod-s3.imgix.net/products/241327/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1796_3_category.jpg",
           color_presentation: "Baker Floral",
         },
         {
@@ -3974,11 +3974,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg?1648823552=",
+            "https://bonobos-prod-s3.imgix.net/products/243611/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg?1648827788=",
+            "https://bonobos-prod-s3.imgix.net/products/243787/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg?1648823556=",
+            "https://bonobos-prod-s3.imgix.net/products/243612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1583_3_category.jpg",
           color_presentation: "Maltby Floral",
         },
         {
@@ -3993,11 +3993,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg?1647535788=",
+            "https://bonobos-prod-s3.imgix.net/products/241945/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg?1646662983=",
+            "https://bonobos-prod-s3.imgix.net/products/240879/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg?1647535791=",
+            "https://bonobos-prod-s3.imgix.net/products/241946/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB1589_3_category.jpg",
           color_presentation: "Navy Flamingoes",
         },
       ],
@@ -4016,11 +4016,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg?1660846152=",
+            "https://bonobos-prod-s3.imgix.net/products/263245/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg?1659968717=",
+            "https://bonobos-prod-s3.imgix.net/products/258635/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg?1660846149=",
+            "https://bonobos-prod-s3.imgix.net/products/263244/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2806_3_category.jpg",
           color_presentation: "Drink Up",
         },
         {
@@ -4035,11 +4035,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg?1660846130=",
+            "https://bonobos-prod-s3.imgix.net/products/263235/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg?1660138906=",
+            "https://bonobos-prod-s3.imgix.net/products/259533/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg?1660846127=",
+            "https://bonobos-prod-s3.imgix.net/products/263233/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2287_3_category.jpg",
           color_presentation: "Green Cacti",
         },
         {
@@ -4054,11 +4054,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg?1660846053=",
+            "https://bonobos-prod-s3.imgix.net/products/263201/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg?1654282648=",
+            "https://bonobos-prod-s3.imgix.net/products/254152/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg?1660846050=",
+            "https://bonobos-prod-s3.imgix.net/products/263199/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SW2284_3_category.jpg",
           color_presentation: "White Golf Day",
         },
         {
@@ -4073,11 +4073,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg?1655996541=",
+            "https://bonobos-prod-s3.imgix.net/products/256116/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg?1656086035=",
+            "https://bonobos-prod-s3.imgix.net/products/256425/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg?1655996546=",
+            "https://bonobos-prod-s3.imgix.net/products/256117/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SN2288_3_category.jpg",
           color_presentation: "Parrot Pandemonium",
         },
         {
@@ -4092,11 +4092,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg?1660846213=",
+            "https://bonobos-prod-s3.imgix.net/products/263270/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg?1659968807=",
+            "https://bonobos-prod-s3.imgix.net/products/258639/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg?1660846216=",
+            "https://bonobos-prod-s3.imgix.net/products/263271/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SB2807_3_category.jpg",
           color_presentation: "Navy Fall Floral",
         },
         {
@@ -4111,11 +4111,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg?1662749000=",
+            "https://bonobos-prod-s3.imgix.net/products/267228/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg?1662488688=",
+            "https://bonobos-prod-s3.imgix.net/products/266143/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg?1662749004=",
+            "https://bonobos-prod-s3.imgix.net/products/267237/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2805_3_category.jpg",
           color_presentation: "Duffel Green Ducks",
         },
         {
@@ -4130,11 +4130,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267175/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_2_hover.jpg?1662748978=",
+            "https://bonobos-prod-s3.imgix.net/products/267175/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266147/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_swatch.jpg?1662488722=",
+            "https://bonobos-prod-s3.imgix.net/products/266147/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267182/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_3_category.jpg?1662748980=",
+            "https://bonobos-prod-s3.imgix.net/products/267182/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10929SG2825_3_category.jpg",
           color_presentation: "White Duffel Green Stripe",
         },
       ],
@@ -4166,11 +4166,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg?1660848795=",
+            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg?1659968003=",
+            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg?1660848800=",
+            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg",
           color_presentation: "Chicory Coffee White Stripe",
         },
         {
@@ -4185,11 +4185,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -4204,11 +4204,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -4223,11 +4223,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -4242,11 +4242,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -4261,11 +4261,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -4280,17 +4280,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg?1660848800=",
+        "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg",
       final_sale: false,
       full_price: 79,
       color_name: "chicory coffee white stripe",
@@ -4301,7 +4301,7 @@ export default [
       number_of_fits: 2,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg?1660848795=",
+        "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -4315,11 +4315,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg?1646935762=",
+            "https://bonobos-prod-s3.imgix.net/products/241308/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg?1646159591=",
+            "https://bonobos-prod-s3.imgix.net/products/240596/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg?1646935756=",
+            "https://bonobos-prod-s3.imgix.net/products/241306/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SN1802_3_category.jpg",
           color_presentation: "Blue Stripe",
         },
         {
@@ -4334,11 +4334,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg?1648823535=",
+            "https://bonobos-prod-s3.imgix.net/products/243607/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg?1648827741=",
+            "https://bonobos-prod-s3.imgix.net/products/243785/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg?1648823528=",
+            "https://bonobos-prod-s3.imgix.net/products/243605/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SP1803_3_category.jpg",
           color_presentation: "Pink Stripe",
         },
         {
@@ -4353,11 +4353,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg?1632928835=",
+            "https://bonobos-prod-s3.imgix.net/products/225293/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg?1631640855=",
+            "https://bonobos-prod-s3.imgix.net/products/220951/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg?1632928824=",
+            "https://bonobos-prod-s3.imgix.net/products/225291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1010_3_category.jpg",
           color_presentation: "Teal Stripe",
         },
         {
@@ -4372,11 +4372,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg?1652471130=",
+            "https://bonobos-prod-s3.imgix.net/products/250535/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg?1651509451=",
+            "https://bonobos-prod-s3.imgix.net/products/247612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg?1652471124=",
+            "https://bonobos-prod-s3.imgix.net/products/250531/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2227_3_category.jpg",
           color_presentation: "Teal Blue Stripe",
         },
         {
@@ -4391,11 +4391,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg?1620917619=",
+            "https://bonobos-prod-s3.imgix.net/products/215087/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg?1620924942=",
+            "https://bonobos-prod-s3.imgix.net/products/215108/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg?1620917625=",
+            "https://bonobos-prod-s3.imgix.net/products/215088/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_25937-P0699_3_category.jpg",
           color_presentation: "Lavender Stripe",
         },
         {
@@ -4411,9 +4411,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg?1629839800=",
+            "https://bonobos-prod-s3.imgix.net/products/219199/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg?1635977351=",
+            "https://bonobos-prod-s3.imgix.net/products/230407/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-MVD73_40_outfitter.jpg",
           color_presentation: "Dark Surf And Bright White Stripe",
         },
         {
@@ -4429,9 +4429,9 @@ export default [
           urgency_badge: "Only a few left",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg?1629839844=",
+            "https://bonobos-prod-s3.imgix.net/products/219201/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg?1635977358=",
+            "https://bonobos-prod-s3.imgix.net/products/230409/original/OTHER-CASUAL-SHIRT_POLO-SHIRT_26143-PR439_40_outfitter.jpg",
           color_presentation: "Sky High And Bright White Stripe",
         },
       ],
@@ -4450,11 +4450,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg?1660848795=",
+            "https://bonobos-prod-s3.imgix.net/products/263928/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg?1659968003=",
+            "https://bonobos-prod-s3.imgix.net/products/258608/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg?1660848800=",
+            "https://bonobos-prod-s3.imgix.net/products/263930/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2816_3_category.jpg",
           color_presentation: "Chicory Coffee White Stripe",
         },
         {
@@ -4469,11 +4469,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg?1647266211=",
+            "https://bonobos-prod-s3.imgix.net/products/241580/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg?1644598526=",
+            "https://bonobos-prod-s3.imgix.net/products/238585/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg?1647266214=",
+            "https://bonobos-prod-s3.imgix.net/products/241581/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1171B_3_category.jpg",
           color_presentation: "Navy",
         },
         {
@@ -4488,11 +4488,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg?1646935704=",
+            "https://bonobos-prod-s3.imgix.net/products/241294/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg?1644598569=",
+            "https://bonobos-prod-s3.imgix.net/products/238587/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg?1646935695=",
+            "https://bonobos-prod-s3.imgix.net/products/241291/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928S1176W_2_category.jpg",
           color_presentation: "White",
         },
         {
@@ -4507,11 +4507,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg?1642089326=",
+            "https://bonobos-prod-s3.imgix.net/products/235434/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg?1642107118=",
+            "https://bonobos-prod-s3.imgix.net/products/235454/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg?1642089318=",
+            "https://bonobos-prod-s3.imgix.net/products/235432/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT00592SP1375_3_category.jpg",
           color_presentation: "Tuberose Stripe",
         },
         {
@@ -4526,11 +4526,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg?1660848778=",
+            "https://bonobos-prod-s3.imgix.net/products/263923/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg?1659968070=",
+            "https://bonobos-prod-s3.imgix.net/products/258612/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg?1660848775=",
+            "https://bonobos-prod-s3.imgix.net/products/263922/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SB2814_3_category.jpg",
           color_presentation: "Astral Aura White Stripe",
         },
         {
@@ -4545,11 +4545,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg?1660848862=",
+            "https://bonobos-prod-s3.imgix.net/products/263944/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg?1659968103=",
+            "https://bonobos-prod-s3.imgix.net/products/258614/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg?1660848856=",
+            "https://bonobos-prod-s3.imgix.net/products/263942/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2812_3_category.jpg",
           color_presentation: "Grey White Stripe",
         },
         {
@@ -4564,11 +4564,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg?1660844991=",
+            "https://bonobos-prod-s3.imgix.net/products/262227/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg?1659968039=",
+            "https://bonobos-prod-s3.imgix.net/products/258610/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg?1660844987=",
+            "https://bonobos-prod-s3.imgix.net/products/262224/original/KNIT-CASUAL-SHIRT_POLO-SHIRT_GKT10928SG2815_3_category.jpg",
           color_presentation: "Patina Blue Stripe",
         },
       ],

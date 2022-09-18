@@ -9,11 +9,13 @@ type Query {
 type Category {
   id: ID!
   parentId: ID
+  slug: String!
   imageThumbnailUrl: String
   imageBannerUrl: String
   name: String!
   subcategories: [Category]
   showInDesktopNav: Boolean
+  showInMobileNav: Boolean
   products: [Product]
 }
 
@@ -24,7 +26,8 @@ type Product {
   slug: String!
   imageUrl: String!
   description: String!
-  fullPrice: Int!
+  price: Int!
+  purchasable: Boolean!
   variants: [ProductVariant]
 }
 
@@ -36,6 +39,12 @@ type ProductVariant {
   imageUrl: String
   hoverImageUrl: String
   swatchImageUrl: String
+  sizes: ProductSizes
+}
+
+type ProductSizes {
+  labels: [String]
+  counts: [Int]
 }
 
 type Query {

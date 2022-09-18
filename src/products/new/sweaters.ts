@@ -18,11 +18,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -37,11 +37,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -56,11 +56,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -75,11 +75,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
         {
@@ -94,17 +94,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+        "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "black",
@@ -116,7 +116,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+        "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -133,11 +133,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -152,11 +152,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -171,11 +171,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -190,11 +190,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
         {
@@ -209,11 +209,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
       ],
@@ -245,11 +245,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg?1658249718=",
+            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
           color_presentation: "Silver Snow Stripe",
         },
         {
@@ -264,11 +264,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -283,11 +283,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -302,11 +302,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -321,11 +321,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
         {
@@ -340,11 +340,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -359,17 +359,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+        "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
       final_sale: false,
       full_price: 99,
       color_name: "silver snow stripe",
@@ -381,7 +381,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+        "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 8,
       final_sale_swatches: [
@@ -397,11 +397,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -416,11 +416,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -435,11 +435,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
       ],
@@ -456,11 +456,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg?1658249718=",
+            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
           color_presentation: "Silver Snow Stripe",
         },
         {
@@ -475,11 +475,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -494,11 +494,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -513,11 +513,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
         {
@@ -532,11 +532,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg?1660579016=",
+            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg?1658249799=",
+            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg?1660579013=",
+            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg",
           color_presentation: "Blue Snow Stripe",
         },
       ],
@@ -568,11 +568,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -587,11 +587,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -606,11 +606,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -625,11 +625,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
         {
@@ -644,17 +644,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+        "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "blue",
@@ -666,7 +666,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+        "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -683,11 +683,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -702,11 +702,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -721,11 +721,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -740,11 +740,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
         {
@@ -759,11 +759,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
       ],
@@ -795,11 +795,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg?1661356644=",
+            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg?1661351197=",
+            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg?1661356640=",
+            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -814,11 +814,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg?1661350973=",
+            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg?1661351256=",
+            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg?1661350970=",
+            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -833,17 +833,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg?1661350931=",
+            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg?1661351227=",
+            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg?1661350925=",
+            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg",
           color_presentation: "Army Green",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg?1661356640=",
+        "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg",
       final_sale: false,
       full_price: 119,
       color_name: "asphalt",
@@ -854,7 +854,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg?1661356644=",
+        "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 3,
       final_sale_swatches: [],
@@ -871,11 +871,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg?1661356644=",
+            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg?1661351197=",
+            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg?1661356640=",
+            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -890,11 +890,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg?1661350973=",
+            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg?1661351256=",
+            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg?1661350970=",
+            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -909,11 +909,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg?1661350931=",
+            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg?1661351227=",
+            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg?1661350925=",
+            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg",
           color_presentation: "Army Green",
         },
       ],
@@ -945,17 +945,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268025/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_2_hover.jpg?1662749451=",
+            "https://bonobos-prod-s3.imgix.net/products/268025/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234367/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_swatch.jpg?1638373303=",
+            "https://bonobos-prod-s3.imgix.net/products/234367/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268028/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_3_category.jpg?1662749454=",
+            "https://bonobos-prod-s3.imgix.net/products/268028/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_3_category.jpg",
           color_presentation: "Racing Green",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268028/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_3_category.jpg?1662749454=",
+        "https://bonobos-prod-s3.imgix.net/products/268028/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_3_category.jpg",
       final_sale: false,
       full_price: 139,
       color_name: "racing green",
@@ -967,7 +967,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268025/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_2_hover.jpg?1662749451=",
+        "https://bonobos-prod-s3.imgix.net/products/268025/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 1,
       final_sale_swatches: [],
@@ -984,11 +984,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268025/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_2_hover.jpg?1662749451=",
+            "https://bonobos-prod-s3.imgix.net/products/268025/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234367/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_swatch.jpg?1638373303=",
+            "https://bonobos-prod-s3.imgix.net/products/234367/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268028/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_3_category.jpg?1662749454=",
+            "https://bonobos-prod-s3.imgix.net/products/268028/original/SWEATER_HOODIE-SWEATER_BST00675NG1237_3_category.jpg",
           color_presentation: "Racing Green",
         },
       ],
@@ -1020,11 +1020,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
         {
@@ -1039,11 +1039,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -1058,11 +1058,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -1077,11 +1077,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -1096,17 +1096,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+        "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "silver",
@@ -1118,7 +1118,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+        "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -1135,11 +1135,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
         {
@@ -1154,11 +1154,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -1173,11 +1173,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -1192,11 +1192,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -1211,11 +1211,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
       ],
@@ -1247,11 +1247,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -1266,11 +1266,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -1285,11 +1285,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -1304,11 +1304,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -1323,17 +1323,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+        "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "olive green",
@@ -1345,7 +1345,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+        "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -1362,11 +1362,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -1381,11 +1381,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -1400,11 +1400,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -1419,11 +1419,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -1438,11 +1438,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
@@ -1474,11 +1474,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -1493,11 +1493,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -1512,11 +1512,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -1531,11 +1531,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -1550,17 +1550,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+        "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "blue and white stripe",
@@ -1572,7 +1572,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+        "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -1589,11 +1589,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -1608,11 +1608,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -1627,11 +1627,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -1646,11 +1646,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -1665,11 +1665,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
@@ -1701,11 +1701,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -1720,11 +1720,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -1739,11 +1739,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -1758,11 +1758,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
         {
@@ -1777,11 +1777,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
         {
@@ -1796,11 +1796,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
         {
@@ -1815,17 +1815,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+        "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
       final_sale: false,
       full_price: 129,
       color_name: "striated charcoal",
@@ -1837,7 +1837,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+        "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -1851,11 +1851,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
@@ -1873,11 +1873,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
       ],
@@ -1894,11 +1894,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -1913,11 +1913,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -1932,11 +1932,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -1951,11 +1951,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
         {
@@ -1970,11 +1970,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
       ],
@@ -2006,11 +2006,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -2025,11 +2025,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -2044,11 +2044,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -2063,11 +2063,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -2082,17 +2082,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+        "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "oatmeal",
@@ -2104,7 +2104,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+        "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -2121,11 +2121,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -2140,11 +2140,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -2159,11 +2159,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -2178,11 +2178,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -2197,11 +2197,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
@@ -2233,11 +2233,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -2252,11 +2252,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -2271,11 +2271,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -2290,11 +2290,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -2309,17 +2309,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+        "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "oatmeal",
@@ -2331,7 +2331,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+        "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -2348,11 +2348,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -2367,11 +2367,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -2386,11 +2386,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -2405,11 +2405,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -2424,11 +2424,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
@@ -2460,11 +2460,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -2479,11 +2479,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -2498,11 +2498,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -2517,11 +2517,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -2536,17 +2536,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+        "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "heather cyan blue",
@@ -2558,7 +2558,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+        "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -2575,11 +2575,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -2594,11 +2594,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -2613,11 +2613,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -2632,11 +2632,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -2651,11 +2651,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
@@ -2687,11 +2687,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -2706,11 +2706,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -2725,11 +2725,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -2744,11 +2744,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -2763,17 +2763,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+        "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "heather cyan blue",
@@ -2785,7 +2785,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+        "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -2802,11 +2802,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -2821,11 +2821,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -2840,11 +2840,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -2859,11 +2859,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -2878,11 +2878,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
@@ -2914,11 +2914,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
         {
@@ -2933,11 +2933,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -2952,11 +2952,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -2971,11 +2971,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -2990,11 +2990,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
         {
@@ -3009,11 +3009,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -3028,17 +3028,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg?1658249718=",
+            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
           color_presentation: "Silver Snow Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+        "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
       final_sale: false,
       full_price: 99,
       color_name: "asphalt stripe",
@@ -3050,7 +3050,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+        "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 8,
       final_sale_swatches: [
@@ -3066,11 +3066,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -3085,11 +3085,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -3104,11 +3104,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
       ],
@@ -3125,11 +3125,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
         {
@@ -3144,11 +3144,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -3163,11 +3163,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -3182,11 +3182,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg?1658249718=",
+            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
           color_presentation: "Silver Snow Stripe",
         },
         {
@@ -3201,11 +3201,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg?1660579016=",
+            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg?1658249799=",
+            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg?1660579013=",
+            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg",
           color_presentation: "Blue Snow Stripe",
         },
       ],
@@ -3237,11 +3237,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg?1661350973=",
+            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg?1661351256=",
+            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg?1661350970=",
+            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -3256,11 +3256,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg?1661356644=",
+            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg?1661351197=",
+            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg?1661356640=",
+            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -3275,17 +3275,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg?1661350931=",
+            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg?1661351227=",
+            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg?1661350925=",
+            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg",
           color_presentation: "Army Green",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg?1661350970=",
+        "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg",
       final_sale: false,
       full_price: 119,
       color_name: "black",
@@ -3296,7 +3296,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg?1661350973=",
+        "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 3,
       final_sale_swatches: [],
@@ -3313,11 +3313,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg?1661350973=",
+            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg?1661351256=",
+            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg?1661350970=",
+            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -3332,11 +3332,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg?1661356644=",
+            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg?1661351197=",
+            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg?1661356640=",
+            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -3351,11 +3351,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg?1661350931=",
+            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg?1661351227=",
+            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg?1661350925=",
+            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg",
           color_presentation: "Army Green",
         },
       ],
@@ -3387,11 +3387,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -3406,11 +3406,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -3425,11 +3425,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -3444,11 +3444,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -3463,17 +3463,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+        "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "olive green",
@@ -3485,7 +3485,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+        "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -3502,11 +3502,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -3521,11 +3521,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -3540,11 +3540,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -3559,11 +3559,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -3578,11 +3578,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
@@ -3614,11 +3614,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -3633,11 +3633,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -3652,11 +3652,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
         {
@@ -3671,11 +3671,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -3690,11 +3690,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
         {
@@ -3709,11 +3709,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
         {
@@ -3728,17 +3728,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+        "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
       final_sale: false,
       full_price: 129,
       color_name: "blue dot",
@@ -3750,7 +3750,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+        "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -3764,11 +3764,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
@@ -3786,11 +3786,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
       ],
@@ -3807,11 +3807,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -3826,11 +3826,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -3845,11 +3845,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -3864,11 +3864,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
         {
@@ -3883,11 +3883,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
       ],
@@ -3919,11 +3919,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -3938,11 +3938,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -3957,11 +3957,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -3976,11 +3976,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -3995,17 +3995,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+        "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "blue and white stripe",
@@ -4017,7 +4017,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+        "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -4034,11 +4034,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -4053,11 +4053,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -4072,11 +4072,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -4091,11 +4091,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
         {
@@ -4110,11 +4110,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
       ],
@@ -4146,11 +4146,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -4165,11 +4165,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -4184,11 +4184,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -4203,11 +4203,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
         {
@@ -4222,17 +4222,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+        "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "asphalt",
@@ -4244,7 +4244,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+        "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -4261,11 +4261,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -4280,11 +4280,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -4299,11 +4299,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -4318,11 +4318,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
         {
@@ -4337,11 +4337,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
       ],
@@ -4373,11 +4373,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
         {
@@ -4392,11 +4392,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -4411,11 +4411,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -4430,11 +4430,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
         {
@@ -4449,11 +4449,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -4468,11 +4468,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
         {
@@ -4487,17 +4487,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+        "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
       final_sale: false,
       full_price: 129,
       color_name: "egret",
@@ -4509,7 +4509,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+        "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -4523,11 +4523,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
@@ -4545,11 +4545,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
       ],
@@ -4566,11 +4566,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
         {
@@ -4585,11 +4585,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -4604,11 +4604,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -4623,11 +4623,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -4642,11 +4642,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
       ],
@@ -4678,11 +4678,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg?1660579016=",
+            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg?1658249799=",
+            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg?1660579013=",
+            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg",
           color_presentation: "Blue Snow Stripe",
         },
         {
@@ -4697,11 +4697,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -4716,11 +4716,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -4735,11 +4735,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -4754,11 +4754,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
         {
@@ -4773,11 +4773,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -4792,17 +4792,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg?1660579013=",
+        "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg",
       final_sale: false,
       full_price: 99,
       color_name: "blue snow stripe",
@@ -4814,7 +4814,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg?1660579016=",
+        "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 8,
       final_sale_swatches: [
@@ -4830,11 +4830,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -4849,11 +4849,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -4868,11 +4868,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
       ],
@@ -4889,11 +4889,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg?1660579016=",
+            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg?1658249799=",
+            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg?1660579013=",
+            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg",
           color_presentation: "Blue Snow Stripe",
         },
         {
@@ -4908,11 +4908,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -4927,11 +4927,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -4946,11 +4946,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
         {
@@ -4965,11 +4965,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg?1658249718=",
+            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
           color_presentation: "Silver Snow Stripe",
         },
       ],
@@ -5001,11 +5001,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
         {
@@ -5020,11 +5020,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -5039,11 +5039,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -5058,11 +5058,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -5077,17 +5077,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+        "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
       final_sale: false,
       full_price: 89,
       color_name: "army green",
@@ -5099,7 +5099,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+        "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -5116,11 +5116,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg?1660849829=",
+            "https://bonobos-prod-s3.imgix.net/products/264203/original/SWEATER_OTHER-SWEATER_BST00727NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg?1658249551=",
+            "https://bonobos-prod-s3.imgix.net/products/256904/original/SWEATER_OTHER-SWEATER_BST00727NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg?1660849826=",
+            "https://bonobos-prod-s3.imgix.net/products/264202/original/SWEATER_OTHER-SWEATER_BST00727NG2524_3_category.jpg",
           color_presentation: "Army Green",
         },
         {
@@ -5135,11 +5135,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg?1660845003=",
+            "https://bonobos-prod-s3.imgix.net/products/262247/original/SWEATER_OTHER-SWEATER_BST00727NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg?1658249623=",
+            "https://bonobos-prod-s3.imgix.net/products/256906/original/SWEATER_OTHER-SWEATER_BST00727NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg?1660845001=",
+            "https://bonobos-prod-s3.imgix.net/products/262244/original/SWEATER_OTHER-SWEATER_BST00727NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -5154,11 +5154,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg?1660845565=",
+            "https://bonobos-prod-s3.imgix.net/products/262900/original/SWEATER_OTHER-SWEATER_BST00727NG2719_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg?1658249337=",
+            "https://bonobos-prod-s3.imgix.net/products/256898/original/SWEATER_OTHER-SWEATER_BST00727NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg?1660845569=",
+            "https://bonobos-prod-s3.imgix.net/products/262902/original/SWEATER_OTHER-SWEATER_BST00727NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
         {
@@ -5173,11 +5173,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg?1660845623=",
+            "https://bonobos-prod-s3.imgix.net/products/262939/original/SWEATER_OTHER-SWEATER_BST00727NB2515_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg?1658249462=",
+            "https://bonobos-prod-s3.imgix.net/products/256902/original/SWEATER_OTHER-SWEATER_BST00727NB2515_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg?1660845617=",
+            "https://bonobos-prod-s3.imgix.net/products/262937/original/SWEATER_OTHER-SWEATER_BST00727NB2515_2_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -5192,11 +5192,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg?1660849894=",
+            "https://bonobos-prod-s3.imgix.net/products/264213/original/SWEATER_OTHER-SWEATER_BST00727NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg?1658249402=",
+            "https://bonobos-prod-s3.imgix.net/products/256900/original/SWEATER_OTHER-SWEATER_BST00727NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg?1660849891=",
+            "https://bonobos-prod-s3.imgix.net/products/264212/original/SWEATER_OTHER-SWEATER_BST00727NG2514_3_category.jpg",
           color_presentation: "Silver",
         },
       ],
@@ -5228,11 +5228,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -5247,11 +5247,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -5266,11 +5266,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -5285,11 +5285,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
         {
@@ -5304,11 +5304,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -5323,11 +5323,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
         {
@@ -5342,17 +5342,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg?1658249718=",
+            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
           color_presentation: "Silver Snow Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+        "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
       final_sale: false,
       full_price: 99,
       color_name: "black stripe",
@@ -5364,7 +5364,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+        "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 8,
       final_sale_swatches: [
@@ -5380,11 +5380,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -5399,11 +5399,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -5418,11 +5418,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
       ],
@@ -5439,11 +5439,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -5458,11 +5458,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -5477,11 +5477,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
         {
@@ -5496,11 +5496,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg?1658249718=",
+            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
           color_presentation: "Silver Snow Stripe",
         },
         {
@@ -5515,11 +5515,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg?1660579016=",
+            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg?1658249799=",
+            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg?1660579013=",
+            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg",
           color_presentation: "Blue Snow Stripe",
         },
       ],
@@ -5551,11 +5551,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268064/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_4_hover.jpg?1662749475=",
+            "https://bonobos-prod-s3.imgix.net/products/268064/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265128/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_swatch.jpg?1661447824=",
+            "https://bonobos-prod-s3.imgix.net/products/265128/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268060/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_3_category.jpg?1662749472=",
+            "https://bonobos-prod-s3.imgix.net/products/268060/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_3_category.jpg",
           color_presentation: "Sand Flying Birds",
         },
         {
@@ -5570,11 +5570,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233986/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_4_hover.jpg?1637783581=",
+            "https://bonobos-prod-s3.imgix.net/products/233986/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234201/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_swatch.jpg?1637937542=",
+            "https://bonobos-prod-s3.imgix.net/products/234201/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233982/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_2_category.jpg?1637783573=",
+            "https://bonobos-prod-s3.imgix.net/products/233982/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_2_category.jpg",
           color_presentation: "Green Fair Isle",
         },
         {
@@ -5589,11 +5589,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234050/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_2_hover.jpg?1637783699=",
+            "https://bonobos-prod-s3.imgix.net/products/234050/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226344/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_swatch.jpg?1633409787=",
+            "https://bonobos-prod-s3.imgix.net/products/226344/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234052/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_3_category.jpg?1637783703=",
+            "https://bonobos-prod-s3.imgix.net/products/234052/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_3_category.jpg",
           color_presentation: "Housewarming",
         },
         {
@@ -5608,11 +5608,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233996/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_2_hover.jpg?1637783599=",
+            "https://bonobos-prod-s3.imgix.net/products/233996/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234185/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_swatch.jpg?1637852006=",
+            "https://bonobos-prod-s3.imgix.net/products/234185/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233997/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_3_category.jpg?1637783603=",
+            "https://bonobos-prod-s3.imgix.net/products/233997/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_3_category.jpg",
           color_presentation: "Graphic Fair Isle",
         },
         {
@@ -5627,11 +5627,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233499/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_4_hover.jpg?1637510265=",
+            "https://bonobos-prod-s3.imgix.net/products/233499/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233603/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_swatch.jpg?1637589193=",
+            "https://bonobos-prod-s3.imgix.net/products/233603/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233497/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_2_category.jpg?1637510258=",
+            "https://bonobos-prod-s3.imgix.net/products/233497/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_2_category.jpg",
           color_presentation: "Teal Pug",
         },
         {
@@ -5646,11 +5646,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234024/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_2_hover.jpg?1637783654=",
+            "https://bonobos-prod-s3.imgix.net/products/234024/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233601/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_swatch.jpg?1637589174=",
+            "https://bonobos-prod-s3.imgix.net/products/233601/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234026/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_3_category.jpg?1637783657=",
+            "https://bonobos-prod-s3.imgix.net/products/234026/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_3_category.jpg",
           color_presentation: "Downward Racing Dog",
         },
         {
@@ -5665,17 +5665,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233490/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_2_hover.jpg?1637510231=",
+            "https://bonobos-prod-s3.imgix.net/products/233490/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233605/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_swatch.jpg?1637589215=",
+            "https://bonobos-prod-s3.imgix.net/products/233605/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233491/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_3_category.jpg?1637510235=",
+            "https://bonobos-prod-s3.imgix.net/products/233491/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_3_category.jpg",
           color_presentation: "Flamingo Fair Isle",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268060/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_3_category.jpg?1662749472=",
+        "https://bonobos-prod-s3.imgix.net/products/268060/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_3_category.jpg",
       final_sale: false,
       full_price: 129,
       color_name: "sand flying birds",
@@ -5687,7 +5687,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268064/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_4_hover.jpg?1662749475=",
+        "https://bonobos-prod-s3.imgix.net/products/268064/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 11,
       final_sale_swatches: [
@@ -5703,11 +5703,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233986/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_4_hover.jpg?1637783581=",
+            "https://bonobos-prod-s3.imgix.net/products/233986/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234201/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_swatch.jpg?1637937542=",
+            "https://bonobos-prod-s3.imgix.net/products/234201/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233982/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_2_category.jpg?1637783573=",
+            "https://bonobos-prod-s3.imgix.net/products/233982/original/SWEATER_CREWNECK-SWEATER_BST00678NG1225_2_category.jpg",
           color_presentation: "Green Fair Isle",
         },
         {
@@ -5722,11 +5722,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234050/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_2_hover.jpg?1637783699=",
+            "https://bonobos-prod-s3.imgix.net/products/234050/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/226344/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_swatch.jpg?1633409787=",
+            "https://bonobos-prod-s3.imgix.net/products/226344/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234052/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_3_category.jpg?1637783703=",
+            "https://bonobos-prod-s3.imgix.net/products/234052/original/SWEATER_CREWNECK-SWEATER_BST00221NB1179_3_category.jpg",
           color_presentation: "Housewarming",
         },
         {
@@ -5741,11 +5741,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233996/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_2_hover.jpg?1637783599=",
+            "https://bonobos-prod-s3.imgix.net/products/233996/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234185/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_swatch.jpg?1637852006=",
+            "https://bonobos-prod-s3.imgix.net/products/234185/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233997/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_3_category.jpg?1637783603=",
+            "https://bonobos-prod-s3.imgix.net/products/233997/original/SWEATER_CREWNECK-SWEATER_BST00663NK1232_3_category.jpg",
           color_presentation: "Graphic Fair Isle",
         },
         {
@@ -5760,11 +5760,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233499/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_4_hover.jpg?1637510265=",
+            "https://bonobos-prod-s3.imgix.net/products/233499/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233603/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_swatch.jpg?1637589193=",
+            "https://bonobos-prod-s3.imgix.net/products/233603/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233497/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_2_category.jpg?1637510258=",
+            "https://bonobos-prod-s3.imgix.net/products/233497/original/SWEATER_CREWNECK-SWEATER_BST00657NG1231_2_category.jpg",
           color_presentation: "Teal Pug",
         },
         {
@@ -5779,11 +5779,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234024/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_2_hover.jpg?1637783654=",
+            "https://bonobos-prod-s3.imgix.net/products/234024/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233601/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_swatch.jpg?1637589174=",
+            "https://bonobos-prod-s3.imgix.net/products/233601/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234026/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_3_category.jpg?1637783657=",
+            "https://bonobos-prod-s3.imgix.net/products/234026/original/SWEATER_CREWNECK-SWEATER_BST00658NR1393_3_category.jpg",
           color_presentation: "Downward Racing Dog",
         },
         {
@@ -5798,11 +5798,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233490/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_2_hover.jpg?1637510231=",
+            "https://bonobos-prod-s3.imgix.net/products/233490/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233605/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_swatch.jpg?1637589215=",
+            "https://bonobos-prod-s3.imgix.net/products/233605/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233491/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_3_category.jpg?1637510235=",
+            "https://bonobos-prod-s3.imgix.net/products/233491/original/SWEATER_CREWNECK-SWEATER_BST00662NN1226_3_category.jpg",
           color_presentation: "Flamingo Fair Isle",
         },
         {
@@ -5817,11 +5817,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234042/original/SWEATER_CREWNECK-SWEATER_BST00664NW1229_5_hover.jpg?1637783686=",
+            "https://bonobos-prod-s3.imgix.net/products/234042/original/SWEATER_CREWNECK-SWEATER_BST00664NW1229_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234197/original/SWEATER_CREWNECK-SWEATER_BST00664NW1229_swatch.jpg?1637936816=",
+            "https://bonobos-prod-s3.imgix.net/products/234197/original/SWEATER_CREWNECK-SWEATER_BST00664NW1229_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234039/original/SWEATER_CREWNECK-SWEATER_BST00664NW1229_3_category.jpg?1637783680=",
+            "https://bonobos-prod-s3.imgix.net/products/234039/original/SWEATER_CREWNECK-SWEATER_BST00664NW1229_3_category.jpg",
           color_presentation: "Sasquatch Your Step",
         },
       ],
@@ -5838,11 +5838,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268064/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_4_hover.jpg?1662749475=",
+            "https://bonobos-prod-s3.imgix.net/products/268064/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265128/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_swatch.jpg?1661447824=",
+            "https://bonobos-prod-s3.imgix.net/products/265128/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268060/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_3_category.jpg?1662749472=",
+            "https://bonobos-prod-s3.imgix.net/products/268060/original/SWEATER_CREWNECK-SWEATER_BST00729NB2824_3_category.jpg",
           color_presentation: "Sand Flying Birds",
         },
       ],
@@ -5874,11 +5874,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg?1662749503=",
+            "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265397/original/SWEATER_OTHER-SWEATER_BST00728NG2620_swatch.jpg?1662053272=",
+            "https://bonobos-prod-s3.imgix.net/products/265397/original/SWEATER_OTHER-SWEATER_BST00728NG2620_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg?1662749492=",
+            "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg",
           color_presentation: "Army Green",
         },
         {
@@ -5893,17 +5893,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg?1662749518=",
+            "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265399/original/SWEATER_OTHER-SWEATER_BST00728NN2621_swatch.jpg?1662053497=",
+            "https://bonobos-prod-s3.imgix.net/products/265399/original/SWEATER_OTHER-SWEATER_BST00728NN2621_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg?1662749521=",
+            "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg",
           color_presentation: "Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg?1662749492=",
+        "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg",
       final_sale: false,
       full_price: 129,
       color_name: "army green",
@@ -5915,7 +5915,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg?1662749503=",
+        "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 2,
       final_sale_swatches: [],
@@ -5932,11 +5932,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg?1662749503=",
+            "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265397/original/SWEATER_OTHER-SWEATER_BST00728NG2620_swatch.jpg?1662053272=",
+            "https://bonobos-prod-s3.imgix.net/products/265397/original/SWEATER_OTHER-SWEATER_BST00728NG2620_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg?1662749492=",
+            "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg",
           color_presentation: "Army Green",
         },
         {
@@ -5951,11 +5951,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg?1662749518=",
+            "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265399/original/SWEATER_OTHER-SWEATER_BST00728NN2621_swatch.jpg?1662053497=",
+            "https://bonobos-prod-s3.imgix.net/products/265399/original/SWEATER_OTHER-SWEATER_BST00728NN2621_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg?1662749521=",
+            "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg",
           color_presentation: "Blue",
         },
       ],
@@ -5987,11 +5987,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267058/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_2_hover.jpg?1662748928=",
+            "https://bonobos-prod-s3.imgix.net/products/267058/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266127/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_swatch.jpg?1662488304=",
+            "https://bonobos-prod-s3.imgix.net/products/266127/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267067/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_3_category.jpg?1662748932=",
+            "https://bonobos-prod-s3.imgix.net/products/267067/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_3_category.jpg",
           color_presentation: "Olive Geo Birds",
         },
         {
@@ -6006,11 +6006,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262042/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_2_hover.jpg?1660844862=",
+            "https://bonobos-prod-s3.imgix.net/products/262042/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256888/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_swatch.jpg?1658248863=",
+            "https://bonobos-prod-s3.imgix.net/products/256888/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262046/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_3_category.jpg?1660844866=",
+            "https://bonobos-prod-s3.imgix.net/products/262046/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_3_category.jpg",
           color_presentation: "Tobacco Brown",
         },
         {
@@ -6025,11 +6025,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224380/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_4_hover.jpg?1632869988=",
+            "https://bonobos-prod-s3.imgix.net/products/224380/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220139/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_swatch.jpg?1631035497=",
+            "https://bonobos-prod-s3.imgix.net/products/220139/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224378/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_2_category.jpg?1632869978=",
+            "https://bonobos-prod-s3.imgix.net/products/224378/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_2_category.jpg",
           color_presentation: "Lilac Basset",
         },
         {
@@ -6044,11 +6044,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233869/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_2_hover.jpg?1637783326=",
+            "https://bonobos-prod-s3.imgix.net/products/233869/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234377/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_swatch.jpg?1638456686=",
+            "https://bonobos-prod-s3.imgix.net/products/234377/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233870/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_3_category.jpg?1637783329=",
+            "https://bonobos-prod-s3.imgix.net/products/233870/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_3_category.jpg",
           color_presentation: "Cranberry Sled Dog",
         },
         {
@@ -6064,9 +6064,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234291/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NG1197_swatch.jpg?1638285289=",
+            "https://bonobos-prod-s3.imgix.net/products/234291/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NG1197_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231107/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NG1197_40_outfitter.jpg?1635980017=",
+            "https://bonobos-prod-s3.imgix.net/products/231107/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NG1197_40_outfitter.jpg",
           color_presentation: "Pine Hockey Bear",
         },
         {
@@ -6081,11 +6081,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233886/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_2_hover.jpg?1637783362=",
+            "https://bonobos-prod-s3.imgix.net/products/233886/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234373/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_swatch.jpg?1638456603=",
+            "https://bonobos-prod-s3.imgix.net/products/234373/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233887/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_3_category.jpg?1637783365=",
+            "https://bonobos-prod-s3.imgix.net/products/233887/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_3_category.jpg",
           color_presentation: "Gold Chevron",
         },
         {
@@ -6100,17 +6100,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263904/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_2_hover.jpg?1660848683=",
+            "https://bonobos-prod-s3.imgix.net/products/263904/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256886/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_swatch.jpg?1658248800=",
+            "https://bonobos-prod-s3.imgix.net/products/256886/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263905/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_3_category.jpg?1660848685=",
+            "https://bonobos-prod-s3.imgix.net/products/263905/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_3_category.jpg",
           color_presentation: "Blue Bear",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267067/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_3_category.jpg?1662748932=",
+        "https://bonobos-prod-s3.imgix.net/products/267067/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_3_category.jpg",
       final_sale: false,
       full_price: 129,
       color_name: "olive geo birds",
@@ -6122,7 +6122,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/267058/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_2_hover.jpg?1662748928=",
+        "https://bonobos-prod-s3.imgix.net/products/267058/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 8,
       final_sale_swatches: [
@@ -6138,11 +6138,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224380/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_4_hover.jpg?1632869988=",
+            "https://bonobos-prod-s3.imgix.net/products/224380/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220139/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_swatch.jpg?1631035497=",
+            "https://bonobos-prod-s3.imgix.net/products/220139/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/224378/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_2_category.jpg?1632869978=",
+            "https://bonobos-prod-s3.imgix.net/products/224378/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640N0057P_2_category.jpg",
           color_presentation: "Lilac Basset",
         },
         {
@@ -6157,11 +6157,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233869/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_2_hover.jpg?1637783326=",
+            "https://bonobos-prod-s3.imgix.net/products/233869/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234377/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_swatch.jpg?1638456686=",
+            "https://bonobos-prod-s3.imgix.net/products/234377/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233870/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_3_category.jpg?1637783329=",
+            "https://bonobos-prod-s3.imgix.net/products/233870/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NR1198_3_category.jpg",
           color_presentation: "Cranberry Sled Dog",
         },
         {
@@ -6177,9 +6177,9 @@ export default [
           urgency_badge: "",
           hover_image_url: null,
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234291/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NG1197_swatch.jpg?1638285289=",
+            "https://bonobos-prod-s3.imgix.net/products/234291/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NG1197_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/231107/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NG1197_40_outfitter.jpg?1635980017=",
+            "https://bonobos-prod-s3.imgix.net/products/231107/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10640NG1197_40_outfitter.jpg",
           color_presentation: "Pine Hockey Bear",
         },
         {
@@ -6194,11 +6194,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233886/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_2_hover.jpg?1637783362=",
+            "https://bonobos-prod-s3.imgix.net/products/233886/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234373/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_swatch.jpg?1638456603=",
+            "https://bonobos-prod-s3.imgix.net/products/234373/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/233887/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_3_category.jpg?1637783365=",
+            "https://bonobos-prod-s3.imgix.net/products/233887/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT10754N1078G_3_category.jpg",
           color_presentation: "Gold Chevron",
         },
       ],
@@ -6215,11 +6215,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267058/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_2_hover.jpg?1662748928=",
+            "https://bonobos-prod-s3.imgix.net/products/267058/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266127/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_swatch.jpg?1662488304=",
+            "https://bonobos-prod-s3.imgix.net/products/266127/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267067/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_3_category.jpg?1662748932=",
+            "https://bonobos-prod-s3.imgix.net/products/267067/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082NG2502_3_category.jpg",
           color_presentation: "Olive Geo Birds",
         },
         {
@@ -6234,11 +6234,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262042/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_2_hover.jpg?1660844862=",
+            "https://bonobos-prod-s3.imgix.net/products/262042/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256888/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_swatch.jpg?1658248863=",
+            "https://bonobos-prod-s3.imgix.net/products/256888/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262046/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_3_category.jpg?1660844866=",
+            "https://bonobos-prod-s3.imgix.net/products/262046/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1232B_3_category.jpg",
           color_presentation: "Tobacco Brown",
         },
         {
@@ -6253,11 +6253,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263904/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_2_hover.jpg?1660848683=",
+            "https://bonobos-prod-s3.imgix.net/products/263904/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256886/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_swatch.jpg?1658248800=",
+            "https://bonobos-prod-s3.imgix.net/products/256886/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/263905/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_3_category.jpg?1660848685=",
+            "https://bonobos-prod-s3.imgix.net/products/263905/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1000B_3_category.jpg",
           color_presentation: "Blue Bear",
         },
         {
@@ -6272,11 +6272,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261982/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1209B_4_hover.jpg?1660844821=",
+            "https://bonobos-prod-s3.imgix.net/products/261982/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1209B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256890/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1209B_swatch.jpg?1658248941=",
+            "https://bonobos-prod-s3.imgix.net/products/256890/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1209B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/261970/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1209B_2_category.jpg?1660844815=",
+            "https://bonobos-prod-s3.imgix.net/products/261970/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11082N1209B_2_category.jpg",
           color_presentation: "Plum Red Panda",
         },
       ],
@@ -6308,11 +6308,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -6327,11 +6327,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -6346,11 +6346,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -6365,11 +6365,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -6384,11 +6384,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
         {
@@ -6403,11 +6403,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
         {
@@ -6422,17 +6422,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg?1658249718=",
+            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
           color_presentation: "Silver Snow Stripe",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+        "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
       final_sale: false,
       full_price: 99,
       color_name: "army green stripe",
@@ -6444,7 +6444,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+        "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 8,
       final_sale_swatches: [
@@ -6460,11 +6460,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg?1660916557=",
+            "https://bonobos-prod-s3.imgix.net/products/264326/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg?1660916448=",
+            "https://bonobos-prod-s3.imgix.net/products/264315/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg?1660916560=",
+            "https://bonobos-prod-s3.imgix.net/products/264327/original/SWEATER_HENLEY-SWEATER_BST00712NP2136_3_category.jpg",
           color_presentation: "Lavender Feeder Stripe",
         },
         {
@@ -6479,11 +6479,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg?1660916522=",
+            "https://bonobos-prod-s3.imgix.net/products/264319/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg?1660916413=",
+            "https://bonobos-prod-s3.imgix.net/products/264313/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg?1660916525=",
+            "https://bonobos-prod-s3.imgix.net/products/264320/original/SWEATER_HENLEY-SWEATER_BST00712N1208B_3_category.jpg",
           color_presentation: "Blue Green Feeder Stripe",
         },
         {
@@ -6498,11 +6498,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg?1660916582=",
+            "https://bonobos-prod-s3.imgix.net/products/264333/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg?1660916477=",
+            "https://bonobos-prod-s3.imgix.net/products/264317/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg?1660916585=",
+            "https://bonobos-prod-s3.imgix.net/products/264334/original/SWEATER_HENLEY-SWEATER_BST00712NO2135_3_category.jpg",
           color_presentation: "Orange Feeder Stripe",
         },
       ],
@@ -6519,11 +6519,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg?1660579033=",
+            "https://bonobos-prod-s3.imgix.net/products/260035/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg?1658249875=",
+            "https://bonobos-prod-s3.imgix.net/products/256912/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg?1660579036=",
+            "https://bonobos-prod-s3.imgix.net/products/260036/original/SWEATER_HENLEY-SWEATER_BST00712NG2524_3_category.jpg",
           color_presentation: "Army Green Stripe",
         },
         {
@@ -6538,11 +6538,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg?1660845457=",
+            "https://bonobos-prod-s3.imgix.net/products/262775/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg?1658249951=",
+            "https://bonobos-prod-s3.imgix.net/products/256914/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg?1660845460=",
+            "https://bonobos-prod-s3.imgix.net/products/262778/original/SWEATER_HENLEY-SWEATER_BST00712NB2339_3_category.jpg",
           color_presentation: "Black Stripe",
         },
         {
@@ -6557,11 +6557,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg?1660844926=",
+            "https://bonobos-prod-s3.imgix.net/products/262137/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg?1658250009=",
+            "https://bonobos-prod-s3.imgix.net/products/256916/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg?1660844922=",
+            "https://bonobos-prod-s3.imgix.net/products/262133/original/SWEATER_HENLEY-SWEATER_BST00712NG2719_3_category.jpg",
           color_presentation: "Asphalt Stripe",
         },
         {
@@ -6576,11 +6576,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg?1660849750=",
+            "https://bonobos-prod-s3.imgix.net/products/264185/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg?1658249718=",
+            "https://bonobos-prod-s3.imgix.net/products/256908/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg?1660849747=",
+            "https://bonobos-prod-s3.imgix.net/products/264184/original/SWEATER_HENLEY-SWEATER_BST00712NG2514_3_category.jpg",
           color_presentation: "Silver Snow Stripe",
         },
         {
@@ -6595,11 +6595,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg?1660579016=",
+            "https://bonobos-prod-s3.imgix.net/products/260030/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg?1658249799=",
+            "https://bonobos-prod-s3.imgix.net/products/256910/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg?1660579013=",
+            "https://bonobos-prod-s3.imgix.net/products/260029/original/SWEATER_HENLEY-SWEATER_BST00712NG2520_3_category.jpg",
           color_presentation: "Blue Snow Stripe",
         },
       ],
@@ -6631,11 +6631,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg?1661350931=",
+            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg?1661351227=",
+            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg?1661350925=",
+            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg",
           color_presentation: "Army Green",
         },
         {
@@ -6650,11 +6650,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg?1661350973=",
+            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg?1661351256=",
+            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg?1661350970=",
+            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -6669,17 +6669,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg?1661356644=",
+            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg?1661351197=",
+            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg?1661356640=",
+            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg?1661350925=",
+        "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg",
       final_sale: false,
       full_price: 119,
       color_name: "army green",
@@ -6690,7 +6690,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg?1661350931=",
+        "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 3,
       final_sale_swatches: [],
@@ -6707,11 +6707,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg?1661350931=",
+            "https://bonobos-prod-s3.imgix.net/products/264424/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg?1661351227=",
+            "https://bonobos-prod-s3.imgix.net/products/264474/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg?1661350925=",
+            "https://bonobos-prod-s3.imgix.net/products/264422/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2524_2_category.jpg",
           color_presentation: "Army Green",
         },
         {
@@ -6726,11 +6726,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg?1661350973=",
+            "https://bonobos-prod-s3.imgix.net/products/264431/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg?1661351256=",
+            "https://bonobos-prod-s3.imgix.net/products/264476/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg?1661350970=",
+            "https://bonobos-prod-s3.imgix.net/products/264430/original/SWEATER_CARDIGAN-SWEATER_BST00486NB2339_3_category.jpg",
           color_presentation: "Black",
         },
         {
@@ -6745,11 +6745,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg?1661356644=",
+            "https://bonobos-prod-s3.imgix.net/products/264508/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg?1661351197=",
+            "https://bonobos-prod-s3.imgix.net/products/264469/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg?1661356640=",
+            "https://bonobos-prod-s3.imgix.net/products/264507/original/SWEATER_CARDIGAN-SWEATER_BST00486NG2719_3_category.jpg",
           color_presentation: "Asphalt",
         },
       ],
@@ -6781,11 +6781,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg?1662749518=",
+            "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265399/original/SWEATER_OTHER-SWEATER_BST00728NN2621_swatch.jpg?1662053497=",
+            "https://bonobos-prod-s3.imgix.net/products/265399/original/SWEATER_OTHER-SWEATER_BST00728NN2621_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg?1662749521=",
+            "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -6800,17 +6800,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg?1662749503=",
+            "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265397/original/SWEATER_OTHER-SWEATER_BST00728NG2620_swatch.jpg?1662053272=",
+            "https://bonobos-prod-s3.imgix.net/products/265397/original/SWEATER_OTHER-SWEATER_BST00728NG2620_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg?1662749492=",
+            "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg",
           color_presentation: "Army Green",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg?1662749521=",
+        "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg",
       final_sale: false,
       full_price: 129,
       color_name: "blue",
@@ -6822,7 +6822,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg?1662749518=",
+        "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 2,
       final_sale_swatches: [],
@@ -6839,11 +6839,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg?1662749518=",
+            "https://bonobos-prod-s3.imgix.net/products/268115/original/SWEATER_OTHER-SWEATER_BST00728NN2621_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265399/original/SWEATER_OTHER-SWEATER_BST00728NN2621_swatch.jpg?1662053497=",
+            "https://bonobos-prod-s3.imgix.net/products/265399/original/SWEATER_OTHER-SWEATER_BST00728NN2621_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg?1662749521=",
+            "https://bonobos-prod-s3.imgix.net/products/268119/original/SWEATER_OTHER-SWEATER_BST00728NN2621_3_category.jpg",
           color_presentation: "Blue",
         },
         {
@@ -6858,11 +6858,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg?1662749503=",
+            "https://bonobos-prod-s3.imgix.net/products/268099/original/SWEATER_OTHER-SWEATER_BST00728NG2620_5_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/265397/original/SWEATER_OTHER-SWEATER_BST00728NG2620_swatch.jpg?1662053272=",
+            "https://bonobos-prod-s3.imgix.net/products/265397/original/SWEATER_OTHER-SWEATER_BST00728NG2620_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg?1662749492=",
+            "https://bonobos-prod-s3.imgix.net/products/268086/original/SWEATER_OTHER-SWEATER_BST00728NG2620_2_category.jpg",
           color_presentation: "Army Green",
         },
       ],
@@ -6894,11 +6894,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg?1662749577=",
+            "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220512/original/SWEATER_OTHER-SWEATER_BST00620NG1171_swatch.jpg?1631555736=",
+            "https://bonobos-prod-s3.imgix.net/products/220512/original/SWEATER_OTHER-SWEATER_BST00620NG1171_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg?1662749574=",
+            "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg",
           color_presentation: "Ivy Herringbone",
         },
         {
@@ -6913,17 +6913,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg?1662749541=",
+            "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220510/original/SWEATER_OTHER-SWEATER_BST00620NB1166_swatch.jpg?1631555689=",
+            "https://bonobos-prod-s3.imgix.net/products/220510/original/SWEATER_OTHER-SWEATER_BST00620NB1166_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg?1662749544=",
+            "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg",
           color_presentation: "Charcoal Herringbone",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg?1662749574=",
+        "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg",
       final_sale: false,
       full_price: 139,
       color_name: "ivy herringbone",
@@ -6935,7 +6935,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg?1662749577=",
+        "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 2,
       final_sale_swatches: [],
@@ -6952,11 +6952,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg?1662749577=",
+            "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220512/original/SWEATER_OTHER-SWEATER_BST00620NG1171_swatch.jpg?1631555736=",
+            "https://bonobos-prod-s3.imgix.net/products/220512/original/SWEATER_OTHER-SWEATER_BST00620NG1171_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg?1662749574=",
+            "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg",
           color_presentation: "Ivy Herringbone",
         },
         {
@@ -6971,11 +6971,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg?1662749541=",
+            "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220510/original/SWEATER_OTHER-SWEATER_BST00620NB1166_swatch.jpg?1631555689=",
+            "https://bonobos-prod-s3.imgix.net/products/220510/original/SWEATER_OTHER-SWEATER_BST00620NB1166_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg?1662749544=",
+            "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg",
           color_presentation: "Charcoal Herringbone",
         },
       ],
@@ -7007,11 +7007,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
         {
@@ -7026,11 +7026,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -7045,11 +7045,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -7064,11 +7064,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -7083,17 +7083,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+        "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "ginger stripe",
@@ -7105,7 +7105,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+        "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -7122,11 +7122,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg?1662735389=",
+            "https://bonobos-prod-s3.imgix.net/products/266531/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg?1662658792=",
+            "https://bonobos-prod-s3.imgix.net/products/266386/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg?1662735395=",
+            "https://bonobos-prod-s3.imgix.net/products/266532/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
         {
@@ -7141,11 +7141,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg?1662735348=",
+            "https://bonobos-prod-s3.imgix.net/products/266519/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg?1662658708=",
+            "https://bonobos-prod-s3.imgix.net/products/266382/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg?1662735346=",
+            "https://bonobos-prod-s3.imgix.net/products/266518/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -7160,11 +7160,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg?1662749046=",
+            "https://bonobos-prod-s3.imgix.net/products/267339/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg?1662658664=",
+            "https://bonobos-prod-s3.imgix.net/products/266380/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg?1662749049=",
+            "https://bonobos-prod-s3.imgix.net/products/267345/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638NN2847_3_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -7179,11 +7179,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg?1662749553=",
+            "https://bonobos-prod-s3.imgix.net/products/268157/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg?1662658604=",
+            "https://bonobos-prod-s3.imgix.net/products/266378/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg?1662749547=",
+            "https://bonobos-prod-s3.imgix.net/products/268149/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -7198,11 +7198,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg?1662748927=",
+            "https://bonobos-prod-s3.imgix.net/products/267057/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg?1662658749=",
+            "https://bonobos-prod-s3.imgix.net/products/266384/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg?1662748923=",
+            "https://bonobos-prod-s3.imgix.net/products/267046/original/KNIT-CASUAL-SHIRT_HENLEY-KNIT-SHIRT_BKT10638N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
       ],
@@ -7234,11 +7234,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
         {
@@ -7253,11 +7253,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -7272,11 +7272,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -7291,11 +7291,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -7310,17 +7310,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+        "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
       final_sale: false,
       full_price: 69,
       color_name: "ginger stripe",
@@ -7332,7 +7332,7 @@ export default [
       number_of_fits: 0,
       is_new_program: true,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+        "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 5,
       final_sale_swatches: [],
@@ -7349,11 +7349,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg?1662735275=",
+            "https://bonobos-prod-s3.imgix.net/products/266496/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg?1662736312=",
+            "https://bonobos-prod-s3.imgix.net/products/266712/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg?1662735278=",
+            "https://bonobos-prod-s3.imgix.net/products/266497/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NR2846_3_category.jpg",
           color_presentation: "Ginger Stripe",
         },
         {
@@ -7368,11 +7368,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg?1662735226=",
+            "https://bonobos-prod-s3.imgix.net/products/266484/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg?1662736234=",
+            "https://bonobos-prod-s3.imgix.net/products/266706/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg?1662735223=",
+            "https://bonobos-prod-s3.imgix.net/products/266483/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1235G_3_category.jpg",
           color_presentation: "Olive Green",
         },
         {
@@ -7387,11 +7387,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg?1662749022=",
+            "https://bonobos-prod-s3.imgix.net/products/267279/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg?1662736197=",
+            "https://bonobos-prod-s3.imgix.net/products/266704/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg?1662749026=",
+            "https://bonobos-prod-s3.imgix.net/products/267286/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079NN2847_2_category.jpg",
           color_presentation: "Blue And White Stripe",
         },
         {
@@ -7406,11 +7406,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg?1662749529=",
+            "https://bonobos-prod-s3.imgix.net/products/268130/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg?1662736167=",
+            "https://bonobos-prod-s3.imgix.net/products/266702/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg?1662749523=",
+            "https://bonobos-prod-s3.imgix.net/products/268121/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1238B_2_category.jpg",
           color_presentation: "Oatmeal",
         },
         {
@@ -7425,11 +7425,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg?1662748891=",
+            "https://bonobos-prod-s3.imgix.net/products/266983/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg?1662736261=",
+            "https://bonobos-prod-s3.imgix.net/products/266708/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg?1662748894=",
+            "https://bonobos-prod-s3.imgix.net/products/266990/original/KNIT-CASUAL-SHIRT_CREWNECK-KNIT-SHIRT_BKT11079N1203B_3_category.jpg",
           color_presentation: "Heather Cyan Blue",
         },
       ],
@@ -7461,11 +7461,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
         {
@@ -7480,11 +7480,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -7499,11 +7499,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -7518,11 +7518,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
         {
@@ -7537,11 +7537,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -7556,11 +7556,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
         {
@@ -7575,17 +7575,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+        "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
       final_sale: false,
       full_price: 129,
       color_name: "burgundy chevron",
@@ -7598,7 +7598,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+        "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -7612,11 +7612,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
@@ -7634,11 +7634,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
       ],
@@ -7655,11 +7655,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
         {
@@ -7674,11 +7674,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -7693,11 +7693,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -7712,11 +7712,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -7731,11 +7731,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
       ],
@@ -7767,11 +7767,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg?1662749541=",
+            "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220510/original/SWEATER_OTHER-SWEATER_BST00620NB1166_swatch.jpg?1631555689=",
+            "https://bonobos-prod-s3.imgix.net/products/220510/original/SWEATER_OTHER-SWEATER_BST00620NB1166_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg?1662749544=",
+            "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg",
           color_presentation: "Charcoal Herringbone",
         },
         {
@@ -7786,17 +7786,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg?1662749577=",
+            "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220512/original/SWEATER_OTHER-SWEATER_BST00620NG1171_swatch.jpg?1631555736=",
+            "https://bonobos-prod-s3.imgix.net/products/220512/original/SWEATER_OTHER-SWEATER_BST00620NG1171_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg?1662749574=",
+            "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg",
           color_presentation: "Ivy Herringbone",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg?1662749544=",
+        "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg",
       final_sale: false,
       full_price: 139,
       color_name: "charcoal herringbone",
@@ -7808,7 +7808,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg?1662749541=",
+        "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg",
       markdown_swatches: [],
       number_of_swatches: 2,
       final_sale_swatches: [],
@@ -7825,11 +7825,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg?1662749541=",
+            "https://bonobos-prod-s3.imgix.net/products/268144/original/SWEATER_OTHER-SWEATER_BST00620NB1166_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220510/original/SWEATER_OTHER-SWEATER_BST00620NB1166_swatch.jpg?1631555689=",
+            "https://bonobos-prod-s3.imgix.net/products/220510/original/SWEATER_OTHER-SWEATER_BST00620NB1166_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg?1662749544=",
+            "https://bonobos-prod-s3.imgix.net/products/268147/original/SWEATER_OTHER-SWEATER_BST00620NB1166_3_category.jpg",
           color_presentation: "Charcoal Herringbone",
         },
         {
@@ -7844,11 +7844,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg?1662749577=",
+            "https://bonobos-prod-s3.imgix.net/products/268184/original/SWEATER_OTHER-SWEATER_BST00620NG1171_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220512/original/SWEATER_OTHER-SWEATER_BST00620NG1171_swatch.jpg?1631555736=",
+            "https://bonobos-prod-s3.imgix.net/products/220512/original/SWEATER_OTHER-SWEATER_BST00620NG1171_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg?1662749574=",
+            "https://bonobos-prod-s3.imgix.net/products/268181/original/SWEATER_OTHER-SWEATER_BST00620NG1171_3_category.jpg",
           color_presentation: "Ivy Herringbone",
         },
       ],
@@ -7880,11 +7880,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -7899,11 +7899,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -7918,11 +7918,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
         {
@@ -7937,11 +7937,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -7956,11 +7956,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
         {
@@ -7975,11 +7975,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
         {
@@ -7994,17 +7994,17 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
       is_bundle: false,
       image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+        "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
       final_sale: false,
       full_price: 129,
       color_name: "charcoal dot",
@@ -8016,7 +8016,7 @@ export default [
       number_of_fits: 0,
       is_new_program: false,
       hover_image_url:
-        "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+        "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
       markdown_swatches: [
         {
           on_sale: true,
@@ -8030,11 +8030,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg?1662749594=",
+            "https://bonobos-prod-s3.imgix.net/products/268200/original/SWEATER_OTHER-SWEATER_BST00182NN1245_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg?1640270625=",
+            "https://bonobos-prod-s3.imgix.net/products/234683/original/SWEATER_OTHER-SWEATER_BST00182NN1245_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg?1662749598=",
+            "https://bonobos-prod-s3.imgix.net/products/268203/original/SWEATER_OTHER-SWEATER_BST00182NN1245_3_category.jpg",
           color_presentation: "Black And Blue Houndstooth",
         },
       ],
@@ -8052,11 +8052,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg?1637783614=",
+            "https://bonobos-prod-s3.imgix.net/products/234003/original/SWEATER_OTHER-SWEATER_BST00182NR1175_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg?1631293199=",
+            "https://bonobos-prod-s3.imgix.net/products/220504/original/SWEATER_OTHER-SWEATER_BST00182NR1175_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg?1637783606=",
+            "https://bonobos-prod-s3.imgix.net/products/234000/original/SWEATER_OTHER-SWEATER_BST00182NR1175_2_category.jpg",
           color_presentation: "Burgundy Stripe",
         },
       ],
@@ -8073,11 +8073,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg?1662749689=",
+            "https://bonobos-prod-s3.imgix.net/products/268284/original/SWEATER_OTHER-SWEATER_BST00182NG0865_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg?1631293179=",
+            "https://bonobos-prod-s3.imgix.net/products/220502/original/SWEATER_OTHER-SWEATER_BST00182NG0865_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg?1662749695=",
+            "https://bonobos-prod-s3.imgix.net/products/268289/original/SWEATER_OTHER-SWEATER_BST00182NG0865_3_category.jpg",
           color_presentation: "Charcoal Dot",
         },
         {
@@ -8092,11 +8092,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg?1662749638=",
+            "https://bonobos-prod-s3.imgix.net/products/268238/original/SWEATER_OTHER-SWEATER_BST00182NB0858_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg?1631293164=",
+            "https://bonobos-prod-s3.imgix.net/products/220500/original/SWEATER_OTHER-SWEATER_BST00182NB0858_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg?1662749628=",
+            "https://bonobos-prod-s3.imgix.net/products/268230/original/SWEATER_OTHER-SWEATER_BST00182NB0858_3_category.jpg",
           color_presentation: "Blue Dot",
         },
         {
@@ -8111,11 +8111,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg?1662749754=",
+            "https://bonobos-prod-s3.imgix.net/products/268336/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_2_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg?1640270661=",
+            "https://bonobos-prod-s3.imgix.net/products/234685/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg?1662749757=",
+            "https://bonobos-prod-s3.imgix.net/products/268338/original/SWEATER_OTHER-SWEATER_BST00182NGYU87_3_category.jpg",
           color_presentation: "Striated Charcoal",
         },
         {
@@ -8130,11 +8130,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "Only a few left",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg?1662749671=",
+            "https://bonobos-prod-s3.imgix.net/products/268267/original/SWEATER_OTHER-SWEATER_BST00182NR1168_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg?1631293115=",
+            "https://bonobos-prod-s3.imgix.net/products/220496/original/SWEATER_OTHER-SWEATER_BST00182NR1168_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg?1662749664=",
+            "https://bonobos-prod-s3.imgix.net/products/268261/original/SWEATER_OTHER-SWEATER_BST00182NR1168_3_category.jpg",
           color_presentation: "Burgundy Chevron",
         },
         {
@@ -8149,11 +8149,11 @@ export default [
           novelty_badge: "",
           urgency_badge: "",
           hover_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg?1662749733=",
+            "https://bonobos-prod-s3.imgix.net/products/268319/original/SWEATER_OTHER-SWEATER_BST00182NWT504_4_hover.jpg",
           swatch_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg?1631293138=",
+            "https://bonobos-prod-s3.imgix.net/products/220498/original/SWEATER_OTHER-SWEATER_BST00182NWT504_swatch.jpg",
           primary_image_url:
-            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg?1662749723=",
+            "https://bonobos-prod-s3.imgix.net/products/268310/original/SWEATER_OTHER-SWEATER_BST00182NWT504_3_category.jpg",
           color_presentation: "Egret",
         },
       ],
