@@ -9,7 +9,7 @@ interface Product {
   price: number;
   description: string;
   purchasable: boolean;
-  variants: ProductVariant[] | boolean;
+  variants: ProductVariant[] | undefined;
 }
 
 interface ProductVariant {
@@ -18,7 +18,7 @@ interface ProductVariant {
   colorName: string;
   price: number;
   imageUrl: string;
-  hoverImageUrl: string | null;
+  hoverImageUrl: string;
   swatchImageUrl: string;
 }
 
@@ -42,19 +42,17 @@ const products: Product[] = newProducts.map((product) => {
     price: product.data.full_price,
     description: product.data.description,
     purchasable,
-    variants:
-      purchasable &&
-      product?.data?.swatches!.map((variant) => {
-        return {
-          id: `${Math.random() * 100}`,
-          productId: product.data.id,
-          colorName: variant.color_name,
-          price: variant.current_price,
-          imageUrl: variant.primary_image_url,
-          hoverImageUrl: variant.hover_image_url || "",
-          swatchImageUrl: variant.swatch_image_url || "",
-        };
-      }),
+    variants: product?.data?.swatches?.map((variant) => {
+      return {
+        id: `${Math.random() * 100}`,
+        productId: product.data.id,
+        colorName: variant.color_name,
+        price: variant.current_price,
+        imageUrl: variant.primary_image_url,
+        hoverImageUrl: variant.hover_image_url || "",
+        swatchImageUrl: variant.swatch_image_url || "",
+      };
+    }),
   };
 });
 

@@ -3,7 +3,7 @@ type Query {
   category(id: ID!): Category
   products: [Product]
   product(id: ID!): Product
-  searchProducts(query: String): [Product]
+  queryProducts(query: String): [Product]
 }
 
 type Category {

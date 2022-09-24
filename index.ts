@@ -1,8 +1,16 @@
 import { ApolloServerPluginLandingPageLocalDefault } from "apollo-server-core";
 import { ApolloServer } from "apollo-server";
 import { readFileSync } from "fs";
-import { resolvers } from "./src/resolvers";
 import path from "path";
+import queryProducts from "./src/resolvers/product/queryProducts";
+import products from "./src/resolvers/product/products";
+import product from "./src/resolvers/product/product";
+import categories from "./src/resolvers/category/categories";
+import category from "./src/resolvers/category/category";
+import subcategories from "./src/resolvers/category/subcategories";
+import productVariants from "./src/resolvers/product/productVariants";
+import tempCategories from "./src/tempCategories";
+import tempProducts from "./src/products/index";
 
 const typeDefs = readFileSync(
   path.join(__dirname, "./src/schema.graphql")
@@ -10,7 +18,26 @@ const typeDefs = readFileSync(
 
 const server = new ApolloServer({
   typeDefs,
-  resolvers,
+  context: {
+    categories: tempCategories,
+    products: tempProducts,
+  },
+  resolvers: {
+    Query: {
+      queryProducts,
+      products,
+      product,
+      categories,
+      category,
+    },
+    Category: {
+      subcategories,
+      products,
+    },
+    Product: {
+      variants: productVariants,
+    },
+  },
   csrfPrevention: true,
   cache: "bounded",
   /**
