@@ -2,7 +2,6 @@ import { ApolloServerPluginLandingPageLocalDefault } from "apollo-server-core";
 import { ApolloServer } from "apollo-server";
 import { readFileSync } from "fs";
 import path from "path";
-import queryProducts from "./src/resolvers/product/queryProducts";
 import products from "./src/resolvers/product/products";
 import product from "./src/resolvers/product/product";
 import categories from "./src/resolvers/category/categories";
@@ -24,7 +23,7 @@ const server = new ApolloServer({
   },
   resolvers: {
     Query: {
-      queryProducts,
+      // queryProducts,
       products,
       product,
       categories,

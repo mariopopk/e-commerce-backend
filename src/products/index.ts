@@ -1,6 +1,6 @@
 import newProducts from "./new";
 
-interface Product {
+export interface Product {
   id: string;
   categoryId: string;
   name: string;
@@ -12,7 +12,7 @@ interface Product {
   variants: ProductVariant[] | undefined;
 }
 
-interface ProductVariant {
+export interface ProductVariant {
   id: string;
   productId: string;
   colorName: string;
