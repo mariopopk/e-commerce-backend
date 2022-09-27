@@ -11,6 +11,7 @@
   "author": "Mario Popoca",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^4.3.1",
     "apollo-server": "^3.10.2",
     "graphql": "^16.6.0",
     "prisma": "^4.3.1"
