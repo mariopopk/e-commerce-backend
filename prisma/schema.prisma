@@ -8,38 +8,39 @@ datasource db {
 }
 
 model Product {
-  id               String          @id @default(uuid())
-  categoryId       String?
-  category         Category?       @relation(fields: [categoryId], references: [id])
-  name             String
-  slug             String
-  imageUrl         String
-  price            Int
-  description      String
-  purchasable      Boolean         @default(false)
-  productVariantId String?         @unique
-  productVariant   ProductVariant? @relation(fields: [productVariantId], references: [id])
+  id              String           @id @default(uuid())
+  categoryId      String?
+  category        Category?        @relation(fields: [categoryId], references: [id])
+  name            String
+  slug            String
+  imageUrl        String
+  price           Int
+  description     String
+  purchasable     Boolean          @default(false)
+  productVariants ProductVariant[]
 }
 
 model ProductVariant {
   id             String   @id @default(uuid())
+  productId      String
+  product        Product? @relation(fields: [productId], references: [id])
   colorName      String
   price          Int
   imageUrl       String
   hoverImageUrl  String
   swatchImageUrl String
-  Product        Product?
 }
 
 model Category {
   id                String     @id @default(uuid())
+  parentId          String?
+  parentCategory    Category?  @relation("subcategory", fields: [parentId], references: [id])
   name              String
   slug              String
-  imageBannerUrl    String
-  imageThumbnailUrl String
+  imageBannerUrl    String?
+  imageThumbnailUrl String?
   showInDesktopNav  Boolean
   showInMobileNav   Boolean
-  Product           Product[]
+  products          Product[]
   subcategories     Category[] @relation("subcategory")
-  expands           Category[] @relation("subcategory")
 }

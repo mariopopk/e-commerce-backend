@@ -2,41 +2,30 @@ import { ApolloServerPluginLandingPageLocalDefault } from "apollo-server-core";
 import { ApolloServer } from "apollo-server";
 import { readFileSync } from "fs";
 import path from "path";
-import products from "./src/resolvers/product/products";
-import product from "./src/resolvers/product/product";
-import categories from "./src/resolvers/category/categories";
-import category from "./src/resolvers/category/category";
-import subcategories from "./src/resolvers/category/subcategories";
-import productVariants from "./src/resolvers/product/productVariants";
-import tempCategories from "./src/tempCategories";
-import tempProducts from "./src/products/index";
+import { PrismaClient, Prisma } from "@prisma/client";
+import Query from "./src/resolvers/Query";
+import Category from "./src/resolvers/Category";
+
+const prisma = new PrismaClient();
 
 const typeDefs = readFileSync(
   path.join(__dirname, "./src/schema.graphql")
 ).toString("utf-8");
 
+export interface Context {
+  prisma: PrismaClient<
+    Prisma.PrismaClientOptions,
+    never,
+    Prisma.RejectOnNotFound | Prisma.RejectPerOperation | undefined
+  >;
+}
+
 const server = new ApolloServer({
   typeDefs,
   context: {
-    categories: tempCategories,
-    products: tempProducts,
-  },
-  resolvers: {
-    Query: {
-      // queryProducts,
-      products,
-      product,
-      categories,
-      category,
-    },
-    Category: {
-      subcategories,
-      products,
-    },
-    Product: {
-      variants: productVariants,
-    },
-  },
+    prisma,
+  } as Context,
+  resolvers: { Query: Query, Category: Category },
   csrfPrevention: true,
   cache: "bounded",
   /**
@@ -47,5 +36,5 @@ const server = new ApolloServer({
 });
 
 server.listen().then(({ url }) => {
-  console.log(`🚀  Server ready at ${url}`);
+  console.log(`🚀  Server ready at ${url}!`);
 });
