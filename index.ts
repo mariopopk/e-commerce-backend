@@ -5,6 +5,7 @@ import path from "path";
 import { PrismaClient, Prisma } from "@prisma/client";
 import Query from "./src/resolvers/Query";
 import Category from "./src/resolvers/Category";
+import Product from "./src/resolvers/Product";
 
 const prisma = new PrismaClient();
 
@@ -25,7 +26,12 @@ const server = new ApolloServer({
   context: {
     prisma,
   } as Context,
-  resolvers: { Query: Query, Category: Category },
+  resolvers: {
+    Query: Query,
+
+    Category: Category,
+    Product: Product,
+  },
   csrfPrevention: true,
   cache: "bounded",
   /**

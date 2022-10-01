@@ -22,9 +22,9 @@ export default {
     args: null,
     { prisma }: Context
   ) {
-    return await prisma.productVariant.findUnique({
+    return await prisma.productVariant.findMany({
       where: {
-        id: parent.id,
+        productId: parent.id,
       },
     });
   },

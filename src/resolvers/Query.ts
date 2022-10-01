@@ -1,5 +1,8 @@
 import { Context } from "../..";
 
+const productSortTypes = new Set(["asc", "desc"]);
+const productSortableProperties = new Set(["price", "name"]);
+
 interface CategoriesArgs {}
 
 interface CategoryArgs {
@@ -18,8 +21,8 @@ interface ProductQueryOptions {
 }
 
 interface ProductSortBy {
-  productProperty: string;
-  sortType: string;
+  productProperty: "price" | "name";
+  sortType: "asc" | "desc";
 }
 
 interface ProductFilter {
@@ -46,9 +49,6 @@ export default {
           is: null,
         },
       },
-      include: {
-        subcategories: true,
-      },
     });
   },
   async category(parent: null, { id }: CategoryArgs, { prisma }: Context) {
@@ -65,17 +65,45 @@ export default {
     { queryOptions }: ProductsArgs,
     { prisma }: Context
   ) {
+    const isSortablePropertyValid =
+      queryOptions?.sortBy &&
+      productSortableProperties.has(queryOptions?.sortBy?.productProperty);
+
+    const isSortableTypeValid =
+      queryOptions?.sortBy &&
+      productSortTypes.has(queryOptions.sortBy.sortType);
+
     return await prisma.product.findMany({
       where: {
         name: {
           contains: queryOptions?.query ?? undefined,
           mode: "insensitive",
         },
+        ...(queryOptions?.filterBy?.categoryId && {
+          OR: [
+            {
+              categoryId: queryOptions?.filterBy?.categoryId,
+            },
+
+            {
+              category: {
+                parentId: queryOptions?.filterBy?.categoryId,
+              },
+            },
+          ],
+        }),
       },
-      //   include: {
-      //     category: true,
-      //     productVariant: true,
-      //   },
+      orderBy: {
+        [isSortablePropertyValid
+          ? queryOptions?.sortBy?.productProperty!
+          : "name"]: isSortableTypeValid
+          ? queryOptions?.sortBy?.sortType!
+          : "asc",
+      },
+      skip:
+        ((queryOptions?.pagination?.page || 1) - 1) *
+        (queryOptions?.pagination?.pageSize || 10),
+      take: queryOptions?.pagination?.pageSize || 10,
     });
   },
 
@@ -84,10 +112,6 @@ export default {
       where: {
         id,
       },
-      //   include: {
-      //     category: true,
-      //     productVariant: true,
-      //   },
     });
   },
 };

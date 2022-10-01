@@ -38,7 +38,7 @@ export default {
     args: null,
     { prisma }: Context
   ) {
-    const isMainCategory = parent.parentId === null;
+    const isMainCategory = parent?.parentId === null;
     if (isMainCategory) {
       return await prisma.product.findMany({
         where: {
