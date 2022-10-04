@@ -1,7 +1,12 @@
 type Query {
   categories: [Category]
   category(id: ID!): Category
-  products(queryOptions: ProductQueryOptions): [Product]
+  products(
+    query: String
+    sort: ProductSort
+    filter: ProductFilter
+    pagination: Pagination
+  ): ProductsResult
   product(id: ID!): Product
 }
 
@@ -39,24 +44,26 @@ type ProductVariant {
   imageUrl: String
   hoverImageUrl: String
   swatchImageUrl: String
-  sizes: ProductSizes
+  options: [ProductOptions]
 }
 
-type ProductSizes {
+type ProductOptions {
+  option: String
+  category: String
   labels: [String]
   counts: [Int]
 }
 
-input ProductQueryOptions {
-  query: String
-  sortBy: ProductSortBy
-  filterBy: ProductFilter
-  pagination: Pagination
+type ProductsResult {
+  list: [Product]
+  skip: Int
+  take: Int
+  total: Int
 }
 
-input ProductSortBy {
-  productProperty: String!
-  sortType: String!
+input ProductSort {
+  property: String
+  order: String
 }
 
 input ProductFilter {
@@ -67,6 +74,6 @@ input ProductFilter {
 }
 
 input Pagination {
-  page: Int
-  pageSize: Int
+  skip: Int
+  take: Int
 }

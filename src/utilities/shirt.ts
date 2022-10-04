@@ -1,9 +1,9 @@
 const shirt = {
-  "shirt size": ["XS", "S", "M", "L", "XL", "XXL"],
-  "shirt fit": ["Slim", "Tailored", "Athletic", "Prominent"],
+  size: ["XS", "S", "M", "L", "XL", "XXL"],
+  fit: ["Slim", "Tailored", "Athletic", "Prominent"],
 };
 const pant = {
-  "pant waist": [
+  waist: [
     "28",
     "29",
     "30",
@@ -23,16 +23,15 @@ const pant = {
     "52",
     "54",
   ],
-  "pant fit": ["Skinny", "Slim", "Athletic", "Straight", "Slim Taper"],
-  "pant length": ["28", "30", "32", "34", "36"],
+  fit: ["Skinny", "Slim", "Athletic", "Straight", "Slim Taper"],
+  length: ["28", "30", "32", "34", "36"],
 };
 const short = {
-  "short size": ["XS", "S", "M", "L", "XL", "XXL"],
-  "short fit": ["Slim", "Athletic", "Standard", "One Fit"],
+  size: ["XS", "S", "M", "L", "XL", "XXL"],
+  fit: ["Slim", "Athletic", "Standard", "One Fit"],
 };
-
 const blazer = {
-  "blazer size": [
+  size: [
     "36R",
     "36S",
     "38R",
@@ -51,13 +50,6 @@ const blazer = {
   "blazer fit": ["Tailored", "Slim", "Athletic", "Standard", "Prominent"],
 };
 const outerwear = {
-  "outerwear size": ["XS", "S", "M", "L", "XL", "XXL"],
-  "outerwear fit": ["Standard"],
-};
-
-const accessory = {
-  "accessory size": [],
-  "belt size": [],
-  "sock size": [],
-  "underwear fit": [],
+  size: ["XS", "S", "M", "L", "XL", "XXL"],
+  fit: ["Standard"],
 };

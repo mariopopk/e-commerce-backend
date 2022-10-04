@@ -1,3 +1,4 @@
+import { Prisma } from "@prisma/client";
 import { Context } from "../..";
 
 const productSortTypes = new Set(["asc", "desc"]);
@@ -10,19 +11,15 @@ interface CategoryArgs {
 }
 
 interface ProductsArgs {
-  queryOptions: ProductQueryOptions;
-}
-
-interface ProductQueryOptions {
   query?: string | null;
-  sortBy?: ProductSortBy | null;
-  filterBy?: ProductFilter | null;
+  sort?: ProductSortBy | null;
+  filter?: ProductFilter | null;
   pagination?: Pagination | null;
 }
 
 interface ProductSortBy {
-  productProperty: "price" | "name";
-  sortType: "asc" | "desc";
+  property: "price" | "name";
+  order: "asc" | "desc";
 }
 
 interface ProductFilter {
@@ -33,8 +30,8 @@ interface ProductFilter {
 }
 
 interface Pagination {
-  page: number;
-  pageSize: number;
+  skip: number;
+  take: number;
 }
 
 interface ProductArgs {
@@ -42,7 +39,7 @@ interface ProductArgs {
 }
 
 export default {
-  async categories(parent: null, args: CategoriesArgs, { prisma }: Context) {
+  async categories(_parent: null, args: CategoriesArgs, { prisma }: Context) {
     return await prisma.category.findMany({
       where: {
         parentCategory: {
@@ -51,7 +48,7 @@ export default {
       },
     });
   },
-  async category(parent: null, { id }: CategoryArgs, { prisma }: Context) {
+  async category(_parent: null, { id }: CategoryArgs, { prisma }: Context) {
     return await prisma.category.findUnique({
       where: { id },
       include: {
@@ -61,53 +58,63 @@ export default {
     });
   },
   async products(
-    parent: null,
-    { queryOptions }: ProductsArgs,
+    _parent: null,
+    { query, sort, pagination, filter }: ProductsArgs,
     { prisma }: Context
   ) {
     const isSortablePropertyValid =
-      queryOptions?.sortBy &&
-      productSortableProperties.has(queryOptions?.sortBy?.productProperty);
+      sort && productSortableProperties.has(sort.property);
 
-    const isSortableTypeValid =
-      queryOptions?.sortBy &&
-      productSortTypes.has(queryOptions.sortBy.sortType);
+    const isSortableTypeValid = sort && productSortTypes.has(sort.order);
 
-    return await prisma.product.findMany({
-      where: {
-        name: {
-          contains: queryOptions?.query ?? undefined,
-          mode: "insensitive",
-        },
-        ...(queryOptions?.filterBy?.categoryId && {
-          OR: [
-            {
-              categoryId: queryOptions?.filterBy?.categoryId,
-            },
+    const skip = pagination?.skip ?? 0;
+    const take = pagination?.take ?? 12;
 
-            {
-              category: {
-                parentId: queryOptions?.filterBy?.categoryId,
-              },
-            },
-          ],
-        }),
+    const where: Prisma.ProductWhereInput = {
+      name: {
+        contains: query ?? undefined,
+        mode: "insensitive",
       },
+      purchasable: true,
+      ...(filter?.categoryId && {
+        OR: [
+          {
+            categoryId: filter?.categoryId,
+          },
+
+          {
+            category: {
+              parentId: filter?.categoryId,
+            },
+          },
+        ],
+      }),
+    };
+
+    const list = await prisma.product.findMany({
+      skip,
+      take,
+      where,
       orderBy: {
-        [isSortablePropertyValid
-          ? queryOptions?.sortBy?.productProperty!
-          : "name"]: isSortableTypeValid
-          ? queryOptions?.sortBy?.sortType!
+        [isSortablePropertyValid ? sort?.property : "name"]: isSortableTypeValid
+          ? sort?.order
           : "asc",
       },
-      skip:
-        ((queryOptions?.pagination?.page || 1) - 1) *
-        (queryOptions?.pagination?.pageSize || 10),
-      take: queryOptions?.pagination?.pageSize || 10,
     });
+
+    const total = await prisma.product.count({
+      where,
+    });
+
+    return {
+      list,
+      total,
+      skip,
+      take,
+    };
   },
 
-  async product(parent: null, { id }: ProductArgs, { prisma }: Context) {
+  async product(_parent: null, { id }: ProductArgs, { prisma }: Context) {
     return await prisma.product.findUnique({
       where: {
         id,

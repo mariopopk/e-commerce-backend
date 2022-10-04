@@ -1,4 +1,3 @@
-import { prisma } from "@prisma/client";
 import { Context } from "../..";
 
 interface CategoryParentProperties {
