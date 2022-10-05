@@ -34,6 +34,7 @@ type Product {
   price: Int!
   purchasable: Boolean!
   variants: [ProductVariant]
+  options: [ProductOptions]
 }
 
 type ProductVariant {
@@ -48,7 +49,9 @@ type ProductVariant {
 }
 
 type ProductOptions {
-  option: String
+  id: ID!
+  name: String
+  productId: String
   category: String
   labels: [String]
   counts: [Int]

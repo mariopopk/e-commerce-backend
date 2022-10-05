@@ -28,4 +28,16 @@ export default {
       },
     });
   },
+
+  async options(
+    parent: ProductParentProperties,
+    args: null,
+    { prisma }: Context
+  ) {
+    return await prisma.productOptions.findMany({
+      where: {
+        productId: parent.id,
+      },
+    });
+  },
 };

@@ -53,3 +53,7 @@ const outerwear = {
   size: ["XS", "S", "M", "L", "XL", "XXL"],
   fit: ["Standard"],
 };
+
+const accessories = {
+  size: ["Unisize"],
+};

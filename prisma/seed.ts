@@ -1,45 +1,47 @@
 import { PrismaClient } from "@prisma/client";
-import Category from "../src/resolvers/Category";
 import tempCategories from "../src/tempCategories";
-import products from "../src/products";
+import products, { ProductOption, ProductVariant } from "../src/products";
 
 const prisma = new PrismaClient();
+
+const productData = products;
 
 const load = async () => {
   try {
     await prisma.category.deleteMany();
-    console.log("Deleted records in category table");
-
-    await prisma.product.deleteMany();
-    console.log("Deleted records in product table");
-
     await prisma.productVariant.deleteMany();
-    console.log("Deleted records in product variants table");
-
+    await prisma.productOptions.deleteMany();
+    await prisma.product.deleteMany();
+    // Category
     await prisma.category.createMany({
       data: tempCategories,
     });
-    console.log("Added category data");
 
+    // Product
     await prisma.product.createMany({
-      data: products.map((product) => {
+      data: productData.map((product) => {
         const copyProduct = { ...product };
         delete copyProduct.variants;
+        delete copyProduct.options;
         return copyProduct;
       }),
     });
-    console.log("Added product data");
 
-    products.forEach(async (product) => {
-      product?.variants &&
-        (await prisma.productVariant.createMany({
-          data: product.variants,
-        }));
+    // Product Variant
+    const variants: ProductVariant[] = productData.flatMap((product) => {
+      return product.variants!;
+    });
+    await prisma.productVariant.createMany({
+      data: variants,
     });
 
-    //   await prisma.product.createMany({
-    //     data: products,
-    //   });
+    // Product Option
+    const options: ProductOption[] = productData.flatMap((product) => {
+      return product.options!;
+    });
+    await prisma.productOptions.createMany({
+      data: options,
+    });
   } catch (e) {
     console.error(e);
     process.exit(1);
